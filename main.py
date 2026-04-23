@@ -16,17 +16,22 @@ DINGTALK_SECRET = os.getenv("DINGTALK_SECRET", "")
 
 RSS_FEEDS = {
     "🇨🇳 国内财经": [
-        "https://finance.sina.com.cn/roll/index.d.html?cid=56588&page=1&rss=0&num=20",
-        "https://www.36kr.com/feed",
+        "https://finance.sina.com.cn/roll/index.d.html?cid=56588&page=1&rss=0&num=20", # 新浪财经
+        "https://www.jiemian.com/rss/", # 界面新闻
+        "https://www.eastmoney.com/rss.xml", # 东方财富
+    ],
+    "🇨🇳 国内大事": [
+        "https://feed.thepaper.cn/www/channel/25953", # 澎湃新闻-时政
+        "http://www.xinhuanet.com/politics/xhsxw.xml", # 新华网-时政
     ],
     "🌍 国际大事": [
-        "http://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://rsshub.app/reuters/world",
-        "https://apnews.com/rss/world-news",
+        "http://feeds.bbci.co.uk/news/world/rss.xml", # BBC World
+        "https://www.aljazeera.com/xml/rss/all.xml", # 半岛电视台
+        "https://apnews.com/rss/world-news", # AP News
     ],
-    "💻 科技前沿": [
-        "https://www.ithome.com/rss/",
-        "https://rsshub.app/36kr/news/latest",
+    "💻 技术前沿": [
+        "https://www.ithome.com/rss/", # IT之家
+        "https://www.infoq.cn/feed/", # InfoQ
     ]
 }
 
