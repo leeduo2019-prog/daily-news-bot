@@ -1,5 +1,8 @@
 name: Daily News Crawler
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # 每天 UTC 01:00 (北京时间 09:00) 和 UTC 10:00 (北京时间 18:00)
