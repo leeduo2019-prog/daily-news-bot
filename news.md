@@ -1,11 +1,5 @@
 ### 📰 每日新闻聚合 - 2026-04-23
-> 生成时间: 03:11 (北京时间)
-
-**🇨 国内财经**
-- [36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车](https://36kr.com/p/3778732502095106?f=rss)
-- [36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元](https://36kr.com/p/3778730451391751?f=rss)
-- [开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目](https://36kr.com/p/3778135439709446?f=rss)
-- [一个对话框、一只青蛙、一周4万用户，Ribbi做对了什么？](https://36kr.com/p/3778121523025154?f=rss)
+> 生成时间: 03:16 (北京时间)
 
 **🌍 国际大事**
 - [US and Iran in blockade standoff as Pakistan pushes for talks](https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss)
@@ -26,5 +20,5 @@
 - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
 - [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
-- [Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game](https://tempest.homemade.systems)
+- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
 
