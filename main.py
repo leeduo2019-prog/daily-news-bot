@@ -32,14 +32,6 @@ RSS_FEEDS = {
 
 HN_API = "https://hacker-news.firebaseio.com/v0/topstories.json"
 
-def clean_html(text):
-    """清理 HTML 标签"""
-    if not text:
-        return ""
-    text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text
-
 def get_dingtalk_sign():
     """生成钉钉加签签名"""
     timestamp = str(round(time.time() * 1000))
@@ -95,15 +87,7 @@ def fetch_rss(url, max_items=4):
         for entry in feed.entries[:max_items]:
             title = entry.get('title', '无标题')
             link = entry.get('link', '#')
-            summary = clean_html(entry.get('summary', '') or entry.get('description', ''))
-            # 摘要截取前 60 字
-            summary = summary[:60] + ('...' if len(summary) > 60 else '')
-            
-            items.append({
-                "title": title,
-                "link": link,
-                "summary": summary
-            })
+            items.append({"title": title, "link": link})
         return items
     except Exception as e:
         print(f"⚠️ RSS 抓取失败 {url}: {e}")
@@ -154,8 +138,6 @@ def build_markdown(news_data, is_error=False):
             md += f"**{category}**\n"
             for item in items:
                 md += f"- [{item['title']}]({item['link']})\n"
-                if item['summary']:
-                    md += f"  > {item['summary']}\n"
             md += "\n"
             
     return md
