@@ -7,31 +7,31 @@ import hmac
 import hashlib
 import base64
 import urllib.parse
-import re
 import sys
 
 # 配置读取
 DINGTALK_WEBHOOK = os.getenv("DINGTALK_WEBHOOK", "")
 DINGTALK_SECRET = os.getenv("DINGTALK_SECRET", "")
 
+# 数据源配置 (全部替换为稳定官方源)
 RSS_FEEDS = {
-    "🇨🇳 国内财经": [
-        "https://finance.sina.com.cn/roll/index.d.html?cid=56588&page=1&rss=0&num=20", # 新浪财经
-        "https://www.jiemian.com/rss/", # 界面新闻
-        "https://www.eastmoney.com/rss.xml", # 东方财富
+    "🇨 国内财经": [
+        "https://wallstreetcn.com/rss",          # 华尔街见闻 (快讯极快)
+        "https://36kr.com/feed",                 # 36Kr (商业创投)
+        "https://www.eastmoney.com/rss.xml",     # 东方财富 (A 股/宏观)
     ],
     "🇨🇳 国内大事": [
-        "https://feed.thepaper.cn/www/channel/25953", # 澎湃新闻-时政
-        "http://www.xinhuanet.com/politics/xhsxw.xml", # 新华网-时政
+        "https://www.guancha.cn/rss/",           # 观察者网 (时政/深度)
+        "https://news.cctv.com/rss/",            # 央视新闻 (权威/突发)
     ],
     "🌍 国际大事": [
         "http://feeds.bbci.co.uk/news/world/rss.xml", # BBC World
-        "https://www.aljazeera.com/xml/rss/all.xml", # 半岛电视台
-        "https://apnews.com/rss/world-news", # AP News
+        "https://www.aljazeera.com/xml/rss/all.xml",  # 半岛电视台
+        "https://apnews.com/rss/world-news",          # AP News
     ],
     "💻 技术前沿": [
-        "https://www.ithome.com/rss/", # IT之家
-        "https://www.infoq.cn/feed/", # InfoQ
+        "https://www.ithome.com/rss/",           # IT 之家
+        "https://www.infoq.cn/feed/",            # InfoQ
     ]
 }
 
@@ -113,7 +113,7 @@ def fetch_hacker_news(max_items=5):
                     story = story_res.json()
                     title = story.get('title', '')
                     url = story.get('url', f"https://news.ycombinator.com/item?id={story_id}")
-                    items.append({"title": title, "link": url, "summary": ""})
+                    items.append({"title": title, "link": url})
             except:
                 continue
         return items
