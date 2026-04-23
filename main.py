@@ -13,16 +13,8 @@ import sys
 DINGTALK_WEBHOOK = os.getenv("DINGTALK_WEBHOOK", "")
 DINGTALK_SECRET = os.getenv("DINGTALK_SECRET", "")
 
-# 数据源配置 (全部替换为稳定官方源)
+# 数据源配置 (精简为稳定源)
 RSS_FEEDS = {
-    "🇨 国内财经": [
-        "https://wallstreetcn.com/rss",          # 华尔街见闻 (快讯极快)
-        "https://www.eastmoney.com/rss.xml",     # 东方财富 (A 股/宏观)
-    ],
-    "🇨 国内大事": [
-        "https://www.zaobao.com/rss/realtime/china", # 联合早报 - 中国时政 (海外极稳)
-        "http://news.ifeng.com/rss/index.xml",       # 凤凰网 - 社会热点 (海外极稳)
-    ],
     "🌍 国际大事": [
         "http://feeds.bbci.co.uk/news/world/rss.xml", # BBC World
         "https://www.aljazeera.com/xml/rss/all.xml",  # 半岛电视台
