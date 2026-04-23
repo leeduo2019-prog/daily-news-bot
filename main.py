@@ -21,8 +21,8 @@ RSS_FEEDS = {
         "https://www.eastmoney.com/rss.xml",     # 东方财富 (A 股/宏观)
     ],
     "🇨🇳 国内大事": [
-        "https://www.guancha.cn/rss/",           # 观察者网 (时政/深度)
-        "https://news.cctv.com/rss/",            # 央视新闻 (权威/突发)
+        "http://rss.sina.com.cn/news/china.xml", # 新浪国内新闻 (海外可访)
+        "https://readhub.cn/rss",                # Readhub (聚合热点)
     ],
     "🌍 国际大事": [
         "http://feeds.bbci.co.uk/news/world/rss.xml", # BBC World
