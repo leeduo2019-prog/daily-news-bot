@@ -21,17 +21,17 @@ RSS_FEEDS = {
         "https://www.eastmoney.com/rss.xml",     # 东方财富 (A 股/宏观)
     ],
     "🇨🇳 国内大事": [
-        "http://rss.sina.com.cn/news/china.xml", # 新浪国内新闻 (海外可访)
-        "https://readhub.cn/rss",                # Readhub (聚合热点)
+        "http://www.xinhuanet.com/politics/xhsxw.xml", # 新华网 - 国家政策
+        "https://feed.thepaper.cn/www/channel/25953",  # 澎湃新闻 - 社会热点
     ],
     "🌍 国际大事": [
         "http://feeds.bbci.co.uk/news/world/rss.xml", # BBC World
         "https://www.aljazeera.com/xml/rss/all.xml",  # 半岛电视台
         "https://apnews.com/rss/world-news",          # AP News
     ],
-    "💻 技术前沿": [
-        "https://www.ithome.com/rss/",           # IT 之家
-        "https://www.infoq.cn/feed/",            # InfoQ
+    "💻 科技前沿": [
+        "https://www.jiqizhixin.com/rss",              # 机器之心 - AI/前沿突破
+        "https://www.qbitai.com/feed/",                # 量子位 - 硬科技/深度
     ]
 }
 
