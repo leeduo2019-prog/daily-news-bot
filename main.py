@@ -17,12 +17,11 @@ DINGTALK_SECRET = os.getenv("DINGTALK_SECRET", "")
 RSS_FEEDS = {
     "🇨 国内财经": [
         "https://wallstreetcn.com/rss",          # 华尔街见闻 (快讯极快)
-        "https://36kr.com/feed",                 # 36Kr (商业创投)
         "https://www.eastmoney.com/rss.xml",     # 东方财富 (A 股/宏观)
     ],
-    "🇨🇳 国内大事": [
-        "http://www.xinhuanet.com/politics/xhsxw.xml", # 新华网 - 国家政策
-        "https://feed.thepaper.cn/www/channel/25953",  # 澎湃新闻 - 社会热点
+    "🇨 国内大事": [
+        "https://www.zaobao.com/rss/realtime/china", # 联合早报 - 中国时政 (海外极稳)
+        "http://news.ifeng.com/rss/index.xml",       # 凤凰网 - 社会热点 (海外极稳)
     ],
     "🌍 国际大事": [
         "http://feeds.bbci.co.uk/news/world/rss.xml", # BBC World
