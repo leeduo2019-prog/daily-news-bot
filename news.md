@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-04-23
-> 生成时间: 03:19 (北京时间)
+> 生成时间: 11:05 (北京时间)
 
 **🌍 国际大事**
-- [US and Iran in blockade standoff as Pakistan pushes for talks](https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss)
-- [Billionaire backer sues Trump family's crypto firm over alleged extortion](https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss)
-- [Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour](https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss)
-- [EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock](https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss)
-- [Ultra-Orthodox Jews burn Israeli flags to protest national day](https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss)
-- [Iran releases video of IRGC seizing ship in the Strait of Hormuz](https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss)
+- [Two trains collide head-on in Denmark, leaving five critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
+- [Lebanon accuses Israel of targeting journalist killed in air strike](https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss)
+- [US Navy chief leaving post 'effective immediately', Pentagon says](https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss)
+- [Girl, 14, found in singer D4vd's car died of 'multiple injuries'](https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss)
+- [Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage](https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss)
+- [What we know about Israel killing Lebanese journalist Amal Khalil](https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss)
 
 **💻 科技前沿**
-- [特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了](https://www.qbitai.com/2026/04/405325.html)
-- [挖漏洞何必Mythos，国产智能体早跑通了](https://www.qbitai.com/2026/04/405299.html)
-- [“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺](https://www.qbitai.com/2026/04/404721.html)
-- [科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆](https://www.qbitai.com/2026/04/404713.html)
+- [飞书项目开放平台焕新升级，全面迈向“AI Friendly”](https://www.qbitai.com/2026/04/406026.html)
+- [半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神](https://www.qbitai.com/2026/04/405391.html)
+- [Nature封面：机器人乒乓球干翻人类职业选手](https://www.qbitai.com/2026/04/405370.html)
+- [PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴](https://www.qbitai.com/2026/04/405358.html)
 
 **🤖 Hacker News 热门**
+- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+- [Your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
 - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
-- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
-- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
-- [Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game](https://tempest.homemade.systems)
+- [Fundamental Theorem of Calculus](https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/)
 
