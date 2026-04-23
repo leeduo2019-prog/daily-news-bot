@@ -1,5 +1,5 @@
 ### 📰 每日新闻聚合 - 2026-04-23
-> 生成时间: 03:16 (北京时间)
+> 生成时间: 03:19 (北京时间)
 
 **🌍 国际大事**
 - [US and Iran in blockade standoff as Pakistan pushes for talks](https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss)
@@ -20,5 +20,5 @@
 - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
 - [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 - [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)
-- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
+- [Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game](https://tempest.homemade.systems)
 
