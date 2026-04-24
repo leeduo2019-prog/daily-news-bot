@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-04-23
-> 生成时间: 11:05 (北京时间)
+### 📰 每日新闻聚合 - 2026-04-24
+> 生成时间: 04:16 (北京时间)
 
 **🌍 国际大事**
-- [Two trains collide head-on in Denmark, leaving five critically hurt](https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss)
-- [Lebanon accuses Israel of targeting journalist killed in air strike](https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss)
-- [US Navy chief leaving post 'effective immediately', Pentagon says](https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss)
-- [Girl, 14, found in singer D4vd's car died of 'multiple injuries'](https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss)
-- [Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage](https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss)
-- [What we know about Israel killing Lebanese journalist Amal Khalil](https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss)
+- [Trump tells BBC that King's visit could 'absolutely' help repair relations with UK](https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss)
+- [US boards ship carrying Iran oil as Trump threatens mine-laying vessels](https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss)
+- [Masked Iranian forces appear to seize ships in staged video](https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss)
+- [US soldier charged after winning $400,000 betting on removal of Maduro](https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss)
+- [Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz](https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss)
+- [Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side](https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss)
 
 **💻 科技前沿**
-- [飞书项目开放平台焕新升级，全面迈向“AI Friendly”](https://www.qbitai.com/2026/04/406026.html)
-- [半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神](https://www.qbitai.com/2026/04/405391.html)
-- [Nature封面：机器人乒乓球干翻人类职业选手](https://www.qbitai.com/2026/04/405370.html)
-- [PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴](https://www.qbitai.com/2026/04/405358.html)
+- [刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢](https://www.qbitai.com/2026/04/406221.html)
+- [河南师傅，左手扳手，右手飞书，竟然能搞数据分析！](https://www.qbitai.com/2026/04/406191.html)
+- [国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家](https://www.qbitai.com/2026/04/406020.html)
+- [印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」](https://www.qbitai.com/2026/04/406036.html)
 
 **🤖 Hacker News 热门**
-- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
-- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
-- [Your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
-- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
-- [Fundamental Theorem of Calculus](https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/)
+- [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
+- [DeepSeek v4](https://api-docs.deepseek.com/)
+- [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+- [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised)
+- [Meta tells staff it will cut 10% of jobs](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency)
 
