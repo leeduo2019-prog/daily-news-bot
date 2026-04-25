@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-04-25
-> 生成时间: 03:51 (北京时间)
+> 生成时间: 10:40 (北京时间)
 
 **🌍 国际大事**
-- [Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks](https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss)
-- [Nato says 'no provision' to expel members after report US could seek to suspend Spain](https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss)
+- [Mali army says armed groups launch coordinated attacks across country](https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss)
+- [Seven dead in major Russian attack on Ukraine](https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss)
+- [Palestinians in West Bank and some in Gaza vote in local elections](https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss)
 - [Katya Adler: Europe's Nato allies push back at reported US threat to Spain](https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss)
-- [No 10 says Falklands sovereignty rests with UK after report of US 'review'](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
-- [Israel escalates attacks in Gaza, killing 12 people](https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss)
-- [Iran war: What’s happening on day 57 as US envoys head to Pakistan?](https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss)
+- [Iran’s Infowar: Lego, AI and ever tightening control](https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss)
+- [Mali attacks live: Gunfire heard near Bamako airport and in several cities](https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss)
 
 **💻 科技前沿**
-- [0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神](https://www.qbitai.com/2026/04/406892.html)
-- [DeepSeek V4报告太详尽了！484天换代之路全公开](https://www.qbitai.com/2026/04/406809.html)
-- [优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化](https://www.qbitai.com/2026/04/406806.html)
-- [PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用](https://www.qbitai.com/2026/04/406802.html)
+- [自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI](https://www.qbitai.com/2026/04/407026.html)
+- [硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？](https://www.qbitai.com/2026/04/406994.html)
+- [AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”](https://www.qbitai.com/2026/04/406973.html)
+- [燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化](https://www.qbitai.com/2026/04/406960.html)
 
 **🤖 Hacker News 热门**
+- [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 - [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
-- [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72)
-- [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas)
-- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)
-- [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
+- [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
+- [A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)
+- [How to Implement an FPS Counter](https://vplesko.com/posts/how_to_implement_an_fps_counter.html)
 
