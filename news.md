@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-04-27
-> 生成时间: 11:42 (北京时间)
+### 📰 每日新闻聚合 - 2026-04-28
+> 生成时间: 04:33 (北京时间)
 
 **🌍 国际大事**
-- [Suspected gunman at Washington press dinner identified as 31-year-old Californian](https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss)
+- [Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke](https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss)
 - [Trump says King will be 'very safe' during US visit after security talks](https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss)
-- [Oil prices rise as US-Iran peace talks stall](https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss)
-- [At least 42 killed in Chad after water well dispute escalates](https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss)
-- [Varoufakis on Palantir, AI warfare, and the rise of tech lordism](https://www.aljazeera.com/video/upfront/2026/4/27/varoufakis-on-palantir-ai-warfare-and-the-rise-of-tech-lordism?traffic_source=rss)
-- [Somalia hunger crisis worsens as drought displaces more than 500,000 people](https://www.aljazeera.com/gallery/2026/4/27/somalia-hunger-crisis-worsens-as-drought-displaces-over-500000-people?traffic_source=rss)
+- [Pakistan accused of attacking Afghan university](https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss)
+- [Venice opera house drops incoming music director after nepotism remarks](https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss)
+- [Mexican military captures cartel commander Audias Flores](https://www.aljazeera.com/video/newsfeed/2026/4/28/mexican-military-captures-cartel-commander-audias-flores?traffic_source=rss)
+- [Mexico’s Jalisco drug cartel commander ‘El Jardinero’ found hiding in ditch](https://www.aljazeera.com/news/2026/4/28/mexicos-jalisco-drug-cartel-commander-el-jardinero-found-hiding-in-ditch?traffic_source=rss)
 
 **💻 科技前沿**
-- [Claude第一款AI桌宠硬件，深圳制造](https://www.qbitai.com/2026/04/408409.html)
-- [麒麟云中现，境启新人生！全新坦克700正式上市，售价42.8万起](https://www.qbitai.com/2026/04/408393.html)
-- [让孩子画作活起来，用放大镜识万物，给台灯装灵魂……京东JoyInside打造AI硬件时代“超级基础设施”](https://www.qbitai.com/2026/04/408394.html)
-- [芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态](https://www.qbitai.com/2026/04/408390.html)
+- [赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统](https://www.qbitai.com/2026/04/409665.html)
+- [做了10年Robotaxi，小马智行首次入局RoboVan](https://www.qbitai.com/2026/04/409648.html)
+- [3个月手搓Gamma架构，这个团队打造出了场景白盒化推理的“下一代内容OS”](https://www.qbitai.com/2026/04/409561.html)
+- [腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体](https://www.qbitai.com/2026/04/409550.html)
 
 **🤖 Hacker News 热门**
-- [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
-- [Fully Featured Audio DSP Firmware for the Raspberry Pi Pico](https://github.com/WeebLabs/DSPi)
-- [Flipdiscs](https://flipdisc.io)
-- [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
-- [AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
+- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
+- [Mo RAM, Mo Problems (2025)](https://fabiensanglard.net/curse/)
+- [Ted Nyman – High Performance Git](https://gitperf.com/)
+- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
 
