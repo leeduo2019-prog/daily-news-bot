@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-04-29
-> 生成时间: 04:29 (北京时间)
+> 生成时间: 11:26 (北京时间)
 
 **🌍 国际大事**
+- [Five takeaways from the King's historic address to Congress](https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss)
 - [Comey charged with threatening Trump's life in Instagram post](https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss)
-- [United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)
-- [Musk says basis of charitable giving at stake in OpenAI lawsuit](https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss)
-- [Third Ukrainian strike hits Russian oil refinery and prompts evacuations](https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss)
-- [Trump to feature on limited-edition US passports for 250th anniversary](https://www.aljazeera.com/news/2026/4/29/trump-to-feature-on-limited-edition-us-passports-for-250th-anniversary?traffic_source=rss)
-- [Lebanon’s PM slams Israel’s ‘war crimes’ as attack kills 3 rescue workers](https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers?traffic_source=rss)
+- [Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine](https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss)
+- [Former US officials criticise Pentagon silence on deadly Iran school attack](https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss)
+- [Five charts that show the rise of global militarisation](https://www.aljazeera.com/news/2026/4/29/five-charts-that-show-the-rise-of-global-militarisation?traffic_source=rss)
+- [FIFA confirms new World Cup rule on yellow cards to reduce suspensions](https://www.aljazeera.com/sports/2026/4/29/fifa-confirms-new-world-cup-rule-on-yellow-cards-to-reduce-suspensions?traffic_source=rss)
 
 **💻 科技前沿**
-- [10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道](https://www.qbitai.com/2026/04/410791.html)
-- [百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」](https://www.qbitai.com/2026/04/410738.html)
-- [刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台](https://www.qbitai.com/2026/04/410772.html)
-- [吨级重载新纪元开启｜大咖机器人全球首发“吨级重载机器马”](https://www.qbitai.com/2026/04/410732.html)
+- [全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元](https://www.qbitai.com/2026/04/411205.html)
+- [“算电联合体”在闽成立 太初元碁成为首批成员单位之一](https://www.qbitai.com/2026/04/411184.html)
+- [腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言](https://www.qbitai.com/2026/04/411186.html)
+- [火速吃瓜：Kimi K2.6设计能力超越Claude Design](https://www.qbitai.com/2026/04/411133.html)
 
 **🤖 Hacker News 热门**
+- [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
 - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
-- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
-- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+- [Show HN: Rip.so – a graveyard for dead internet things](https://rip.so)
 - [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
-- [Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU](https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md)
+- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
 
