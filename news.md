@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-04-30
-> 生成时间: 04:31 (北京时间)
+> 生成时间: 11:26 (北京时间)
 
 **🌍 国际大事**
-- [Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
-- [Comey surrenders over charge of threatening Trump's life in Instagram post](https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss)
-- [Bondi shooting inquiry calls for gun reform and more security at Jewish festivals](https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss)
-- [Christchurch mass killer loses bid to overturn conviction](https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss)
-- [Oil prices soar on fears of long supply disruption, US siege of Iran ports](https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss)
-- [US indicts Sinaloa governor, 9 others over Mexican drug cartel links](https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss)
+- [Oil price hits highest since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
+- [Trump says US studying troop cuts in Germany, after Merz criticises war](https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss)
+- [Police say they believe abducted child was murdered as body found in Outback](https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss)
+- [US charges Mexican governor and other leaders with aiding drug cartel](https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss)
+- [Humanoid robots being trialled as airport workers in Japan](https://www.aljazeera.com/video/newsfeed/2026/4/30/humanoid-robots-being-trialled-as-airport-workers-in-japan?traffic_source=rss)
+- [Somalia shapes its own destiny in global security forums](https://www.aljazeera.com/opinions/2026/4/30/somalia-shapes-its-own-destiny-in-global-security-forums?traffic_source=rss)
 
 **💻 科技前沿**
-- [生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务](https://www.qbitai.com/2026/04/411336.html)
-- [全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元](https://www.qbitai.com/2026/04/411205.html)
-- [“算电联合体”在闽成立 太初元碁成为首批成员单位之一](https://www.qbitai.com/2026/04/411184.html)
-- [腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言](https://www.qbitai.com/2026/04/411186.html)
+- [Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施](https://www.qbitai.com/2026/04/412018.html)
+- [商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构](https://www.qbitai.com/2026/04/412015.html)
+- [10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市](https://www.qbitai.com/2026/04/411963.html)
+- [IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁](https://www.qbitai.com/2026/04/411964.html)
 
 **🤖 Hacker News 热门**
+- [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
 - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
-- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)
+- [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
+- [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
 - [Zed 1.0](https://zed.dev/blog/zed-1-0)
-- [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito)
-- [Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)
 
