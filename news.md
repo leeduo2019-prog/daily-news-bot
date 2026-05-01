@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-04-30
-> 生成时间: 11:26 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-01
+> 生成时间: 04:49 (北京时间)
 
 **🌍 国际大事**
-- [Oil price hits highest since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
-- [Trump says US studying troop cuts in Germany, after Merz criticises war](https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss)
-- [Police say they believe abducted child was murdered as body found in Outback](https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss)
-- [US charges Mexican governor and other leaders with aiding drug cartel](https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss)
-- [Humanoid robots being trialled as airport workers in Japan](https://www.aljazeera.com/video/newsfeed/2026/4/30/humanoid-robots-being-trialled-as-airport-workers-in-japan?traffic_source=rss)
-- [Somalia shapes its own destiny in global security forums](https://www.aljazeera.com/opinions/2026/4/30/somalia-shapes-its-own-destiny-in-global-security-forums?traffic_source=rss)
+- [Violence in Australian town after arrest of man over girl's murder](https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss)
+- [Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says](https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss)
+- [Venice Biennale jury resigns days before start of exhibition](https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss)
+- [Britney Spears charged in California with driving under influence](https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss)
+- [New Banksy sculpture appears to show politician blinded by his own flag](https://www.aljazeera.com/video/newsfeed/2026/5/1/new-banksy-sculpture-appears-to-show-politician-blinded-by-his-own-flag?traffic_source=rss)
+- [Condemnation and protests against Israel’s raid of Gaza aid flotilla](https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss)
 
 **💻 科技前沿**
+- [重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展](https://www.qbitai.com/2026/04/412041.html)
+- [坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆](https://www.qbitai.com/2026/04/412021.html)
 - [Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施](https://www.qbitai.com/2026/04/412018.html)
 - [商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构](https://www.qbitai.com/2026/04/412015.html)
-- [10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市](https://www.qbitai.com/2026/04/411963.html)
-- [IMO/IOI奖牌得主18000人追踪：1500倍概率成亿万富翁](https://www.qbitai.com/2026/04/411964.html)
 
 **🤖 Hacker News 热门**
-- [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
-- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
-- [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213)
-- [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
-- [Zed 1.0](https://zed.dev/blog/zed-1-0)
+- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
+- [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously)
+- [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10)
+- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
+- [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
 
