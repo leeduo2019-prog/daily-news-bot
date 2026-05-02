@@ -1,13 +1,13 @@
 ### 📰 每日新闻聚合 - 2026-05-02
-> 生成时间: 04:18 (北京时间)
+> 生成时间: 10:48 (北京时间)
 
 **🌍 国际大事**
 - [US to cut troop levels in Germany by 5,000 amid Trump spat with Merz](https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss)
 - [Trump tells Congress ceasefire means he does not need their approval for Iran war](https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss)
-- [Trump claims other presidents flouted war powers law. It's a mixed record](https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss)
-- [Billions of meals at risk due to Iran war, says fertiliser boss](https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss)
-- [Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people](https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss)
-- [Peru probes trafficking of citizens to fight for Russia in Ukraine](https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss)
+- [Thirteen killed in Israeli strikes on southern Lebanon, health ministry says](https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss)
+- [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
+- [Japan’s Takaichi pledges deeper energy cooperation with Vietnam](https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss)
+- [Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis](https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss)
 
 **💻 科技前沿**
 - [苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？](https://www.qbitai.com/2026/05/412713.html)
@@ -16,9 +16,9 @@
 - [智谱公布“降智”的秘密：Scaling不可避免的痛](https://www.qbitai.com/2026/05/412585.html)
 
 **🤖 Hacker News 热门**
-- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
-- [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003)
-- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we)
-- [To Restore an Island Paradise, Add Fungi](https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi)
-- [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered)
+- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
+- [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
+- [Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)
+- [Show HN: DAC – open-source dashboard as code tool for agents and humans](https://github.com/bruin-data/dac)
 
