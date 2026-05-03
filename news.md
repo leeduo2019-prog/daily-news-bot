@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-05-02
-> 生成时间: 10:48 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-03
+> 生成时间: 04:40 (北京时间)
 
 **🌍 国际大事**
-- [US to cut troop levels in Germany by 5,000 amid Trump spat with Merz](https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss)
-- [Trump tells Congress ceasefire means he does not need their approval for Iran war](https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss)
-- [Thirteen killed in Israeli strikes on southern Lebanon, health ministry says](https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss)
-- [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
-- [Japan’s Takaichi pledges deeper energy cooperation with Vietnam](https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss)
-- [Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis](https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss)
+- [Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'](https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss)
+- [The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?](https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss)
+- [The clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss)
+- [Concern for jailed Iranian Nobel laureate as family say health deteriorating](https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss)
+- [US approves $8.6bn in arms sales to Middle East allies](https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss)
+- [UAE lifts all air traffic restrictions introduced since Iran war](https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss)
 
 **💻 科技前沿**
+- [突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练](https://www.qbitai.com/2026/05/412870.html)
+- [DeepSeek V4最大的遗憾](https://www.qbitai.com/2026/05/412737.html)
 - [苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？](https://www.qbitai.com/2026/05/412713.html)
 - [华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑](https://www.qbitai.com/2026/05/412696.html)
-- [他用AI办了个音乐节，主题：别读博](https://www.qbitai.com/2026/05/412597.html)
-- [智谱公布“降智”的秘密：Scaling不可避免的痛](https://www.qbitai.com/2026/05/412585.html)
 
 **🤖 Hacker News 热门**
-- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
-- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
-- [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
-- [Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)
-- [Show HN: DAC – open-source dashboard as code tool for agents and humans](https://github.com/bruin-data/dac)
+- [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
+- [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo)
+- [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+- [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
+- [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
 
