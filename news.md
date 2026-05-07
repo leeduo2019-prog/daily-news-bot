@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-05-06
-> 生成时间: 11:46 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-07
+> 生成时间: 04:33 (北京时间)
 
 **🌍 国际大事**
-- [To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city](https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss)
-- [BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon](https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss)
-- [Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war](https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss)
-- [Vivek Ramaswamy wins Republican nomination for Ohio governor](https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss)
-- [Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales](https://www.aljazeera.com/economy/2026/5/6/saudi-arabia-posts-33-5bn-budget-deficit-amid-drop-in-oil-sales?traffic_source=rss)
-- [Israeli attacks on southern, eastern Lebanon kill at least six people](https://www.aljazeera.com/news/2026/5/6/israeli-attacks-on-southern-eastern-lebanon-kill-at-least-six-people?traffic_source=rss)
+- [Iran considering US proposal as Trump says war will be 'over quickly'](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
+- [Trump's hopes for an Iran peace deal come with caveats](https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss)
+- [Israel strikes Beirut for first time since Hezbollah ceasefire](https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss)
+- [Hantavirus-hit cruise ship leaves Cape Verde after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+- [South Korean court reduces Han Duck-soo’s prison term in martial law case](https://www.aljazeera.com/news/2026/5/7/south-korean-court-reduces-han-duck-soos-prison-term-in-martial-law-case?traffic_source=rss)
+- [Israeli soldier caught desecrating statue of Virgin Mary in Lebanon](https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon?traffic_source=rss)
 
 **💻 科技前沿**
+- [Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家](https://www.qbitai.com/2026/05/413591.html)
+- [马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力](https://www.qbitai.com/2026/05/413569.html)
 - [AI PPT，这次是真不用返工了](https://www.qbitai.com/2026/05/413296.html)
 - [香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马](https://www.qbitai.com/2026/05/413264.html)
-- [陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了](https://www.qbitai.com/2026/05/413265.html)
-- [首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开](https://www.qbitai.com/2026/05/413164.html)
 
 **🤖 Hacker News 热门**
-- [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
-- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
-- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
-- [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2)
-- [Batteries Not Included, or Required, for These Smart Home Sensors](https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors)
+- [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
+- [Permacomputing Principles](https://permacomputing.net/principles/)
+- [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
+- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
+- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
 
