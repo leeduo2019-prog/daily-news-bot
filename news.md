@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-05-07
-> 生成时间: 04:33 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-08
+> 生成时间: 04:15 (北京时间)
 
 **🌍 国际大事**
-- [Iran considering US proposal as Trump says war will be 'over quickly'](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
-- [Trump's hopes for an Iran peace deal come with caveats](https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss)
-- [Israel strikes Beirut for first time since Hezbollah ceasefire](https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss)
-- [Hantavirus-hit cruise ship leaves Cape Verde after three evacuated](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
-- [South Korean court reduces Han Duck-soo’s prison term in martial law case](https://www.aljazeera.com/news/2026/5/7/south-korean-court-reduces-han-duck-soos-prison-term-in-martial-law-case?traffic_source=rss)
-- [Israeli soldier caught desecrating statue of Virgin Mary in Lebanon](https://www.aljazeera.com/video/newsfeed/2026/5/7/israeli-soldier-caught-desecrating-statue-of-virgin-mary-in-lebanon?traffic_source=rss)
+- [Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz](https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss)
+- [Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says](https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss)
+- [Trump's 'irresponsible war' to blame for economic slowdown, German minister says](https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss)
+- [Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan](https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss)
+- [Oil prices jump as US, Iran trade fire in Strait of Hormuz](https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss)
+- [The Palestinian shot dead hours before his son was born](https://www.aljazeera.com/video/newsfeed/2026/5/8/the-palestinian-shot-dead-hours-before-his-son-was-born?traffic_source=rss)
 
 **💻 科技前沿**
-- [Token需求狂飙千倍，22亿热钱涌向这家AGI Infra头号玩家](https://www.qbitai.com/2026/05/413591.html)
-- [马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力](https://www.qbitai.com/2026/05/413569.html)
-- [AI PPT，这次是真不用返工了](https://www.qbitai.com/2026/05/413296.html)
-- [香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马](https://www.qbitai.com/2026/05/413264.html)
+- [原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡](https://www.qbitai.com/2026/05/413912.html)
+- [离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？](https://www.qbitai.com/2026/05/414006.html)
+- [00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式](https://www.qbitai.com/2026/05/413612.html)
+- [一年磨一剑，今年最炸机器人Demo来了！](https://www.qbitai.com/2026/05/413830.html)
 
 **🤖 Hacker News 热门**
-- [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
-- [Permacomputing Principles](https://permacomputing.net/principles/)
-- [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
-- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
-- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
+- [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+- [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
+- [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
 
