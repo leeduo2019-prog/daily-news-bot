@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-05-12
-> 生成时间: 04:34 (北京时间)
+> 生成时间: 11:52 (北京时间)
 
 **🌍 国际大事**
 - [Trump says Iran ceasefire is on 'massive life support'](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
-- [How the Trump-Xi summit could set superpower relations for many years to come](https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss)
-- [Last passengers leave virus-hit cruise ship as three more test positive](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
-- [Israel passes law to allow death penalty and public trials for those linked to 7 October](https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss)
-- [California ex-mayor admits acting as agent of China, US authorities say](https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss)
-- [Lebanese in south refuse to flee again despite escalating Israeli strikes](https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss)
+- [Uganda's president sworn in for record seventh term](https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss)
+- [Canvas hack: company pays criminals to delete students' stolen data](https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss)
+- [EU needs to delay social media access for children - von der Leyen](https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss)
+- [The crisis is Sudan is much worse than what is acknowledged](https://www.aljazeera.com/opinions/2026/5/12/the-crisis-is-sudan-is-much-worse-than-what-is-acknowledged?traffic_source=rss)
+- [Over 370 Afghans killed in Pakistan conflict in first 3 months of 2026: UN](https://www.aljazeera.com/news/2026/5/12/over-370-afghans-killed-in-pakistan-conflict-in-first-3-months-of-2026-un?traffic_source=rss)
 
 **💻 科技前沿**
-- [OpenClaw低调更新重磅版本，龙虾长手长脚了](https://www.qbitai.com/2026/05/416034.html)
-- [做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容](https://www.qbitai.com/2026/05/415263.html)
-- [硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走](https://www.qbitai.com/2026/05/415842.html)
-- [像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent](https://www.qbitai.com/2026/05/415810.html)
+- [商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售](https://www.qbitai.com/2026/05/416590.html)
+- [360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段](https://www.qbitai.com/2026/05/416582.html)
+- [AI第一金主黄仁勋：日均花掉20亿](https://www.qbitai.com/2026/05/416540.html)
+- [龙虾退烧后，荣耀给它造了一个宇宙](https://www.qbitai.com/2026/05/416081.html)
 
 **🤖 Hacker News 热门**
-- [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
-- [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
-- [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
-- [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
+- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
+- [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+- [Toxicity on Social Media – The Noisy Room](https://thenoisyroom.com)
 - [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
 
