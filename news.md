@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-05-13
-> 生成时间: 04:43 (北京时间)
+> 生成时间: 12:01 (北京时间)
 
 **🌍 国际大事**
-- [A decade on, Trump returns to a stronger and more assertive China](https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss)
-- [Australia has some of the world's costliest homes. Will scrapping tax breaks help?](https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss)
-- [Air India crisis deepens ahead of final Ahmedabad crash report](https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss)
-- [Jason Collins, NBA's first openly gay player, dies aged 47](https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss)
-- [‘It’s a failed nation’: Trump pressures Cuba as fuel crisis deepens](https://www.aljazeera.com/video/newsfeed/2026/5/13/its-a-failed-nation-trump-pressures-cuba-as-fuel-crisis-deepens?traffic_source=rss)
-- [Argentines protest against Milei’s defunding of public universities](https://www.aljazeera.com/video/newsfeed/2026/5/13/argentines-protest-against-mileis-defunding-of-public-universities?traffic_source=rss)
+- [Shrinking Milka chocolate bar tricked consumers, says German court](https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss)
+- [Gaza sisters win prize for turning rubble into reusable bricks](https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss)
+- [Thousands of Waymos recalled after robotaxi swept into a creek](https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss)
+- [Nigerian film star Alexx Ekubo dies aged 40](https://www.bbc.com/news/articles/c74d1j2ew0yo?at_medium=RSS&at_campaign=rss)
+- [UN urges independent probes into deadly Nigeria, Chad air attacks](https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss)
+- [Israel bulldozes Palestinian shops to make way for settlement-linked road](https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss)
 
 **💻 科技前沿**
-- [爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型](https://www.qbitai.com/2026/05/416576.html)
-- [何恺明首个语言模型：105M参数，不走GPT自回归老路](https://www.qbitai.com/2026/05/416628.html)
-- [原来Ilya还有70亿美元OpenAI股权](https://www.qbitai.com/2026/05/416597.html)
-- [商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售](https://www.qbitai.com/2026/05/416590.html)
+- [林俊旸果然创业了！一个“Qwen负责人”头衔值135亿](https://www.qbitai.com/2026/05/416963.html)
+- [苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了](https://www.qbitai.com/2026/05/416870.html)
+- [高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架](https://www.qbitai.com/2026/05/416864.html)
+- [AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的](https://www.qbitai.com/2026/05/416831.html)
 
 **🤖 Hacker News 热门**
+- [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
+- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
+- [New stainless steel can survive conditions for hydrogen production in seawater](https://www.sciencedaily.com/releases/2026/05/260510030950.htm)
 - [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
 - [Googlebook](https://googlebook.google/)
-- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
-- [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
-- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
 
