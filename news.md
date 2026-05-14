@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-05-14
-> 生成时间: 04:42 (北京时间)
+> 生成时间: 11:49 (北京时间)
 
 **🌍 国际大事**
 - [Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi](https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss)
-- [Court overturns Alex Murdaugh's murder convictions and orders new trial](https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss)
-- [Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation](https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss)
-- [Woman isolating on British island in South Pacific after hantavirus contact](https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss)
-- [Students in Caracas to demand release of political prisoners](https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-students-in-caracas-political-prisoners-130526?traffic_source=rss)
-- [Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting](https://www.aljazeera.com/video/newsfeed/2026/5/14/xi-jinping-welcomes-donald-trump-with-ceremony-ahead-of-high-stakes-meeting?traffic_source=rss)
+- [Former Nigerian minister sentenced to 75 years in rare corruption verdict](https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss)
+- [Latvian PM resigns after row over stray Ukrainian drones](https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss)
+- [Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes](https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss)
+- [Labour’s Angela Rayner says she has been cleared over UK tax affairs](https://www.aljazeera.com/news/2026/5/14/labours-angela-rayner-says-she-has-been-cleared-over-uk-tax-affairs?traffic_source=rss)
+- [Two killed as Israel ramps up southern Lebanon attacks ahead of US talks](https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss)
 
 **💻 科技前沿**
-- [Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够](https://www.qbitai.com/2026/05/417469.html)
-- [倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾](https://www.qbitai.com/2026/05/417447.html)
-- [8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了](https://www.qbitai.com/2026/05/417366.html)
-- [挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改](https://www.qbitai.com/2026/05/416978.html)
+- [国产GPU组了个开源局，把SGLang等核心开发者都摇来了！](https://www.qbitai.com/2026/05/417791.html)
+- [Robotaxi第一股又涨疯了](https://www.qbitai.com/2026/05/417754.html)
+- [腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%](https://www.qbitai.com/2026/05/417753.html)
+- [阿里 AI 应用新进展：悟空开始逐步规模化放量](https://www.qbitai.com/2026/05/417748.html)
 
 **🤖 Hacker News 热门**
 - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+- [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
 - [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
-- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
 - [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
-- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
+- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 
