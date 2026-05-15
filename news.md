@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-05-14
-> 生成时间: 11:49 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-15
+> 生成时间: 04:49 (北京时间)
 
 **🌍 国际大事**
-- [Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi](https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss)
-- [Former Nigerian minister sentenced to 75 years in rare corruption verdict](https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss)
-- [Latvian PM resigns after row over stray Ukrainian drones](https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss)
-- [Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes](https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss)
-- [Labour’s Angela Rayner says she has been cleared over UK tax affairs](https://www.aljazeera.com/news/2026/5/14/labours-angela-rayner-says-she-has-been-cleared-over-uk-tax-affairs?traffic_source=rss)
-- [Two killed as Israel ramps up southern Lebanon attacks ahead of US talks](https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss)
+- [Flattery and fanfare as Trump welcomed to China - but thorny issues remain](https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss)
+- ['Floating armoury' ship reportedly seized by Iran](https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss)
+- [CIA chief visits Cuba as energy crisis worsens](https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss)
+- [Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes](https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss)
+- [After Trump’s pledge to ‘open up’ China, low expectations for trade deal](https://www.aljazeera.com/economy/2026/5/15/after-trumps-pledge-to-open-up-china-low-expectations-for-summit-deal?traffic_source=rss)
+- [What happens to those who say no to fighting wars?](https://www.aljazeera.com/video/newsfeed/2026/5/15/what-happens-to-those-who-say-no-to-fighting-wars?traffic_source=rss)
 
 **💻 科技前沿**
-- [国产GPU组了个开源局，把SGLang等核心开发者都摇来了！](https://www.qbitai.com/2026/05/417791.html)
-- [Robotaxi第一股又涨疯了](https://www.qbitai.com/2026/05/417754.html)
-- [腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%](https://www.qbitai.com/2026/05/417753.html)
-- [阿里 AI 应用新进展：悟空开始逐步规模化放量](https://www.qbitai.com/2026/05/417748.html)
+- [数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能](https://www.qbitai.com/2026/05/417935.html)
+- [人手一个数据库，Kimi背后这套AI基建到底有多能扛？](https://www.qbitai.com/2026/05/417731.html)
+- [重生之我在AI时代当老板：让一群Agent互相PUA](https://www.qbitai.com/2026/05/417816.html)
+- [淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践](https://www.qbitai.com/2026/05/417927.html)
 
 **🤖 Hacker News 热门**
-- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
-- [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
-- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
-- [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
-- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
+- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
+- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+- [A few words on DS4](https://antirez.com/news/165)
+- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
+- [Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off)
 
