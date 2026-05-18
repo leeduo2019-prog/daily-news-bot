@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-05-18
-> 生成时间: 05:05 (北京时间)
+> 生成时间: 13:43 (北京时间)
 
 **🌍 国际大事**
+- [At least six Americans exposed to Ebola during DR Congo outbreak](https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss)
+- [Shakira wins £50m tax refund from Spanish government](https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss)
 - [Trump warns 'clock is ticking' for Iran as peace progress stalls](https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss)
-- [WHO declares Ebola outbreak in DR Congo an international emergency](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss)
-- [How worrying is the Ebola outbreak in DR Congo?](https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss)
-- ['This may be the last time you hear my voice': Political executions surge in Iran since start of war](https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss)
-- [US says China to buy billions in agricultural goods after Trump-Xi talks](https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss)
-- [Moment of collision between two Navy jets at Idaho air show](https://www.aljazeera.com/video/newsfeed/2026/5/18/moment-of-collision-between-two-navy-jets-at-idaho-air-show?traffic_source=rss)
+- [Bodies of missing Italian divers found in Maldives](https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss)
+- [Ebola, hantavirus: Is the world prepared for the next pandemic?](https://www.aljazeera.com/news/2026/5/18/ebola-hantavirus-is-the-world-prepared-for-the-next-pandemic?traffic_source=rss)
+- [Iran eyes challenging stock market reopening after lengthy war closure](https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure?traffic_source=rss)
 
 **💻 科技前沿**
-- [一只机器狗，把英伟达的算力王座拱翻了](https://www.qbitai.com/2026/05/418969.html)
-- [世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁](https://www.qbitai.com/2026/05/418964.html)
-- [Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI](https://www.qbitai.com/2026/05/418836.html)
-- [龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起](https://www.qbitai.com/2026/05/418822.html)
+- [AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议](https://www.qbitai.com/2026/05/419528.html)
+- [openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕](https://www.qbitai.com/2026/05/419515.html)
+- [华为“养”出半个具身智能创业圈](https://www.qbitai.com/2026/05/419414.html)
+- [上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代](https://www.qbitai.com/2026/05/419396.html)
 
 **🤖 Hacker News 热门**
-- [GenCAD](https://gencad.github.io/)
-- [Freelang – a Libc-free, direct sys/kernel call language with weird concurrency](https://freelang.dev)
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
-- [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/)
-- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
+- [I automated opt-outs for 500 data broker sites (open source)](https://github.com/stephenlthorn/auto-identity-remove)
+- [The foundations of a provably secure operating system (PSOS) (1979) [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf)
+- [Benedict Evans: AI eats the world (Spring 26) [pdf]](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
+- [Linux security mailing list 'almost unmanageable'](https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633)
+- [Math Jokes in Alice in Wonderland](https://storica.club/blog/alice-is-math-jokes/)
 
