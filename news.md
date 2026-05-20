@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-05-20
-> 生成时间: 05:03 (北京时间)
+> 生成时间: 12:21 (北京时间)
 
 **🌍 国际大事**
-- ['Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads](https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss)
-- [Ebola outbreak may be spreading faster than first thought, WHO doctor warns](https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss)
-- [Key people smuggler arrested after BBC uncovered identity](https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss)
-- [Father-of-eight killed in San Diego mosque shooting hailed as hero](https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss)
-- [Fear grips eastern DR Congo amid deadly Ebola outbreak](https://www.aljazeera.com/video/newsfeed/2026/5/20/aje-onl-nf_sv_fear-grips-eastern-dr-congo-amid-ebola-outbreak-200526?traffic_source=rss)
-- [Arsenal fans erupt after team secures Premier League crown](https://www.aljazeera.com/video/newsfeed/2026/5/20/arsenal-fans-erupt-after-team-secures-premier-league-crown?traffic_source=rss)
+- [Xi basks in spotlight as he hosts Putin days after Trump](https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss)
+- [Trump exerts iron grip on Republican Party with Massie defeated](https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss)
+- [More die of suspected Ebola as WHO warns that numbers will rise further](https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss)
+- [Lithuania's leaders take shelter during drone air alert](https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss)
+- [Trump-critic Thomas Massie loses Kentucky primary to AIPAC-backed Gallrein](https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-critic-thomas-massie-loses-kentucky-primary-to-aipac-backed-gallrein?traffic_source=rss)
+- [Why are nearly 50,000 Samsung workers about to strike in South Korea?](https://www.aljazeera.com/news/2026/5/20/why-are-nearly-50000-samsung-workers-about-to-strike-in-south-korea?traffic_source=rss)
 
 **💻 科技前沿**
-- [苏姿丰上海开讲：AI正在重新定义计算的每一层](https://www.qbitai.com/2026/05/420531.html)
-- [抢先李飞飞！世界模型能多人联机玩FPS游戏了](https://www.qbitai.com/2026/05/420083.html)
-- [国产GPU开始造世界！国内首个全栈具身智能仿真平台来了](https://www.qbitai.com/2026/05/420084.html)
-- [Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？](https://www.qbitai.com/2026/05/419990.html)
+- [VC、品牌顾问、编剧，正在批量把自己做成AI](https://www.qbitai.com/2026/05/420703.html)
+- [AIDC建设正从“通用标准”走向“适用高效”](https://www.qbitai.com/2026/05/420698.html)
+- [破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测](https://www.qbitai.com/2026/05/420681.html)
+- [2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？](https://www.qbitai.com/2026/05/420656.html)
 
 **🤖 Hacker News 热门**
-- [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
-- [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
+- [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
+- [Map of Metal](https://mapofmetal.com/)
+- [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
 - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
-- [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
-- [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)
+- [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
 
