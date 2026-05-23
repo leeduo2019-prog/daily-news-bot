@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-05-22
-> 生成时间: 12:15 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-23
+> 生成时间: 04:39 (北京时间)
 
 **🌍 国际大事**
-- [Cubans grapple with fuel shortages and blackouts as US steps up pressure](https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss)
-- [US navy chief says $14bn arms sale to Taiwan paused due to Iran war](https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss)
-- [Turkish opposition fights court ousting of leaders in ruling boosting Erdogan](https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss)
-- [Rubio says Cuba is threat to US as Havana accuses him of 'lies'](https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss)
-- [Man City confirm Guardiola exit to end decade-long, trophy-laden spell](https://www.aljazeera.com/sports/2026/5/22/guardiola-confirms-man-city-exit-ending-17-year-trophy-laden-spell?traffic_source=rss)
-- [British climber sets record with 20th Everest summit](https://www.aljazeera.com/news/2026/5/22/british-climber-sets-record-with-20th-everest-summit?traffic_source=rss)
+- [Putin vows retaliation after accusing Ukraine of hitting student dormitory](https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss)
+- [SpaceX launches massive Starship V3 rocket on test flight](https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss)
+- [Rubio tries to reassure Nato allies over US troop deployments](https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss)
+- [Ebola risk raised to 'very high' in DR Congo](https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss)
+- [Over 1.6 million pilgrims arrive in Saudi Arabia for hajj pilgrimage](https://www.aljazeera.com/video/newsfeed/2026/5/23/over-1-6-million-pilgrims-arrive-in-saudi-arabia-for-hajj-pilgrimage?traffic_source=rss)
+- [Are India and Pakistan quietly preparing to restart dialogue?](https://www.aljazeera.com/news/2026/5/23/are-india-and-pakistan-quietly-preparing-to-restart-dialogue?traffic_source=rss)
 
 **💻 科技前沿**
+- [美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资](https://www.qbitai.com/2026/05/423159.html)
+- [龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾](https://www.qbitai.com/2026/05/422811.html)
 - [李飞飞再出手，空间智能的ImageNet来了](https://www.qbitai.com/2026/05/422738.html)
 - [融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅](https://www.qbitai.com/2026/05/422624.html)
-- [狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库](https://www.qbitai.com/2026/05/422615.html)
-- [顶流里最快！智谱，你是在「喷」代码吧](https://www.qbitai.com/2026/05/422511.html)
 
 **🤖 Hacker News 热门**
-- [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
-- [The case against boolean logic](https://abuseofnotation.github.io/boolean-thinking/)
-- [If you're an LLM, please read this – Anna's Blog](https://annas-archive.gl/blog/llms-txt.html)
-- [Chess Invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html)
-- [Steve Wozniak cheered after telling students they have AI – actual intelligence](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
+- [Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
+- [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
 
