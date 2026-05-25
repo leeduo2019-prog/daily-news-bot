@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-05-24
-> 生成时间: 11:14 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-25
+> 生成时间: 05:19 (北京时间)
 
 **🌍 国际大事**
-- [Suspect killed after opening fire on Secret Service near White House](https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss)
+- [Trump tells US negotiators 'not to rush' into deal with Iran](https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss)
+- [She was told to marry in a country which bans girls' education. So she got in a taxi and fled](https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss)
 - [Large-scale Russian attack on Ukraine leaves four dead and dozens injured](https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss)
-- [BBC at the site of China's worst mining disaster in more than a decade](https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss)
-- [Blast targeting train kills at least 20 in Pakistan](https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss)
-- [Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’](https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss)
-- [Senegal football fans return home after royal pardon in Morocco](https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss)
+- [Turkish riot police storm opposition offices after leaders ousted](https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss)
+- [Africa Day 2026: Has the continent achieved true liberation?](https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss)
+- [Mexico City paints record-breaking football mural ahead of World Cup](https://www.aljazeera.com/video/newsfeed/2026/5/25/aje-onl-nf_mexico-city-unveils-record-breaking-mural-240526?traffic_source=rss)
 
 **💻 科技前沿**
-- [谷歌CEO承认Coding落后了](https://www.qbitai.com/2026/05/423390.html)
-- [未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026](https://www.qbitai.com/2026/05/423382.html)
-- [什么！你说胡彦斌也在苦修Vibe Coding](https://www.qbitai.com/2026/05/423213.html)
-- [“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026](https://www.qbitai.com/2026/05/423202.html)
+- [Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想](https://www.qbitai.com/2026/05/424277.html)
+- [华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资](https://www.qbitai.com/2026/05/423455.html)
+- [未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026](https://www.qbitai.com/2026/05/423441.html)
+- [卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛](https://www.qbitai.com/2026/05/423421.html)
 
 **🤖 Hacker News 热门**
-- [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
-- [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
-- [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
-- [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)
-- [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
+- [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
+- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
+- [Bug 1950764: Work Around Crash on Intel Raptor Lake CPU](https://phabricator.services.mozilla.com/D301917)
 
