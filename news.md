@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-05-27
-> 生成时间: 05:13 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-28
+> 生成时间: 05:08 (北京时间)
 
 **🌍 国际大事**
-- [Dozens killed in Lebanon as Israel intensifies strikes](https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss)
-- [Iran condemns US strikes as 'gross violation' of ceasefire](https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss)
-- [Russia threatens more Kyiv strikes and tells foreign nationals to leave](https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss)
-- [Can EU find a Russia whisperer to mediate an end to war in Ukraine?](https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss)
-- [Israel ‘intensifies’ attacks in Lebanon killing at least 31 people](https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-intensifies-attacks-in-lebanon-killing-at-least-31-people?traffic_source=rss)
-- [White House prepares for UFC showdown for Trump’s 80th birthday](https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip-ufc-showdown-at-white-house-260526?traffic_source=rss)
+- [US strikes Iran targets for second time in three days](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
+- [Israel issues evacuation order for swathes of southern Lebanon](https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss)
+- [Jill Biden says she thought husband was having a stroke during 2024 debate](https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss)
+- [Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns](https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss)
+- [Ghana welcomes home citizens evacuated from South Africa](https://www.aljazeera.com/video/newsfeed/2026/5/28/ghana-welcomes-home-citizens-evacuated-from-south-africa?traffic_source=rss)
+- [Google employee charged with insider trading over Polymarket bets](https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss)
 
 **💻 科技前沿**
-- [DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时](https://www.qbitai.com/2026/05/425523.html)
-- [将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式](https://www.qbitai.com/2026/05/425600.html)
-- [刚刚，国产AI自己造了AI，全球首例！](https://www.qbitai.com/2026/05/425511.html)
-- [留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题](https://www.qbitai.com/2026/05/425455.html)
+- [1400亿Agent入场，“流量”这条护城河要塌了](https://www.qbitai.com/2026/05/425881.html)
+- [5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了](https://www.qbitai.com/2026/05/425870.html)
+- [OpenAI挖来了个F1级别车手搞公关](https://www.qbitai.com/2026/05/425857.html)
+- [触觉具身来了个梦之队：天使轮近亿](https://www.qbitai.com/2026/05/425660.html)
 
 **🤖 Hacker News 热门**
-- [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
-- [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
-- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
-- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
-- [The Forgotten Art of the LAN Party (2023)](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/)
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
+- [Why Ctrl+V won't paste images in Claude Code on WSL, with a fix](https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/)
+- [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
 
