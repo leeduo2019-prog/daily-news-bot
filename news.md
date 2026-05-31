@@ -1,23 +1,24 @@
-### 📰 每日新闻聚合 - 2026-05-30
-> 生成时间: 11:17 (北京时间)
+### 📰 每日新闻聚合 - 2026-05-31
+> 生成时间: 05:17 (北京时间)
 
 **🌍 国际大事**
-- [No deal announced after Trump meeting to make 'final determination' on Iran](https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss)
-- [US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth](https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss)
-- ['Poison seller' who sold toxic chemicals online to people across world admits aiding suicides](https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss)
-- [Nato and EU condemn Russia after drone hits Romanian residential block](https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss)
-- [What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy](https://www.aljazeera.com/news/2026/5/30/what-hegseths-comments-at-shangri-la-dialogue-say-about-us-foreign-policy?traffic_source=rss)
-- [Israel launches more than 10 strikes across southern Lebanon](https://www.aljazeera.com/video/newsfeed/2026/5/30/israel-launches-more-than-10-strikes-across-southern-lebanon?traffic_source=rss)
+- [Hundreds arrested in France after wild Champions League celebrations](https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss)
+- [US, UK and Australia to develop underwater drone technology](https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss)
+- [Ebola spread in DR Congo 'deeply alarming', MSF warns](https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss)
+- ['No-one feels safe now': Residents of Romanian city hit by drone share fears](https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss)
+- [Thousands in Peru protest Fujimori presidential run](https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_clip-thousands-in-peru-protest-fujimori-run-300526?traffic_source=rss)
+- [Emotional scenes as more survivors pulled from flooded Laos cave](https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_more-survivors-pulled-from-flooded-laos-cave-300526?traffic_source=rss)
 
 **💻 科技前沿**
+- [AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026](https://www.qbitai.com/2026/05/426819.html)
+- [从Token无上限到全员Agent：MiniMax的AI Native组织进化实践](https://www.qbitai.com/2026/05/426793.html)
 - [帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家](https://www.qbitai.com/2026/05/426706.html)
 - [英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」](https://www.qbitai.com/2026/05/426662.html)
-- [4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉](https://www.qbitai.com/2026/05/426557.html)
 
 **🤖 Hacker News 热门**
-- [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
-- [Pandoc Templates](https://pandoc-templates.org/)
-- [The Kaiser and a "Mediocre Man" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
-- [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
+- [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- [A Gentle Introduction to Lattice-Based Cryptography [pdf]](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf)
+- [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
+- [Shantell Sans (2023)](https://shantellsans.com/process)
 
