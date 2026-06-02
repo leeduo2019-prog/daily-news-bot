@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-06-01
-> 生成时间: 15:54 (北京时间)
+### 📰 每日新闻聚合 - 2026-06-02
+> 生成时间: 05:48 (北京时间)
 
 **🌍 国际大事**
-- [US says it struck Iranian radar sites as Iran targets American forces in Kuwait](https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss)
-- [Iran attacks damage 20 US military sites since start of war, satellite images show](https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss)
-- [Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates](https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss)
-- [Huge blast kills dozens in rebel-held village in Myanmar](https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss)
-- [Indian PM Modi meets Myanmar military gov’t leader in New Delhi](https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss)
-- [Lebanon latest: Israel captures more land in the south](https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanon-latest-israel-captures-more-land-in-the-south?traffic_source=rss)
+- [Massive Russian attack on cities across Ukraine kills at least ten people](https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss)
+- [Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel](https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss)
+- [Bowen: Trump needs this war to end but Iran is not backing down](https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss)
+- [Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund](https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss)
+- [Rafael Grossi: the next Iran nuclear deal will look very different](https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626?traffic_source=rss)
+- [Mexican protesters clash with police ahead of the 2026 World Cup](https://www.aljazeera.com/video/newsfeed/2026/6/2/mexican-protesters-clash-with-police-ahead-of-the-2026-world-cup?traffic_source=rss)
 
 **💻 科技前沿**
-- [清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖](https://www.qbitai.com/2026/06/427530.html)
-- [近2亿美元！VAST完成新一轮融资，正式披露世界模型路线](https://www.qbitai.com/2026/06/427516.html)
-- [德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店](https://www.qbitai.com/2026/06/427231.html)
-- [今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手](https://www.qbitai.com/2026/06/427332.html)
+- [机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑](https://www.qbitai.com/2026/06/427729.html)
+- [Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件](https://www.qbitai.com/2026/06/427730.html)
+- [云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路](https://www.qbitai.com/2026/06/427472.html)
+- [老黄的Token经济学翻车了！微软亚马逊通通跳车](https://www.qbitai.com/2026/06/427541.html)
 
 **🤖 Hacker News 热门**
-- [NPM packages from Red Hat have been compromised](https://github.com/RedHatInsights/javascript-clients/issues/492)
-- [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
-- [Windows GOG DOS Games on M-Series Macs](https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/)
-- [Flipper Zero Zig Template](https://github.com/NishantJoshi00/flipper-template)
-- [The Pirate Bay Remains Resilient, 20 Years After the Raid](https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/)
+- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+- [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
+- [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
 
