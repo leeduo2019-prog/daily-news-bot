@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-06-03
-> 生成时间: 06:02 (北京时间)
+> 生成时间: 14:25 (北京时间)
 
 **🌍 国际大事**
+- [One killed and dozens injured in Iranian drone strikes on Kuwait airport](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)
 - [Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold](https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss)
-- [US and Iran launch new strikes as ceasefire negotiations stalled](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)
-- [Seven killed in drone attack on bus in Russia-controlled part of Ukraine](https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss)
-- [Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?](https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss)
-- [What’s happening on day 96 of Iran war as US, Iran engage in new attacks](https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss)
-- [Kyiv residents seek shelter during renewed Russian attacks](https://www.aljazeera.com/video/newsfeed/2026/6/3/kyiv-residents-seek-shelter-during-renewed-russian-attacks?traffic_source=rss)
+- [Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens](https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss)
+- [Foreign nationals among at least 21 killed in Delhi fire](https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss)
+- [The Population Bust](https://www.aljazeera.com/video/featured-documentaries/2026/6/3/the-population-bust?traffic_source=rss)
+- [Israel detains Palestine international women’s football player](https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss)
 
 **💻 科技前沿**
+- [从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层](https://www.qbitai.com/2026/06/428703.html)
+- [世界模型榜首易主！跨维智能登顶WorldArena](https://www.qbitai.com/2026/06/428435.html)
 - [刚刚，Anthropic提交了招股书！](https://www.qbitai.com/2026/06/428407.html)
 - [刚刚，Meta Skill来了](https://www.qbitai.com/2026/06/428335.html)
-- [MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它](https://www.qbitai.com/2026/06/428092.html)
-- [OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授](https://www.qbitai.com/2026/06/428003.html)
 
 **🤖 Hacker News 热门**
-- [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
-- [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
-- [Agentic Mfw](https://agenticmotherfucking.website)
-- [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
-- [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
+- [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
+- [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
+- [Meta workers can opt out of being tracked at work up to 30 min](https://www.bbc.com/news/articles/c93x0k194yno)
+- [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
+- [Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)](https://dl.acm.org/doi/pdf/10.1145/1995966.1996008)
 
