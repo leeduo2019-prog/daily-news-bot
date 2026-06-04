@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-06-03
-> 生成时间: 14:25 (北京时间)
+### 📰 每日新闻聚合 - 2026-06-04
+> 生成时间: 05:55 (北京时间)
 
 **🌍 国际大事**
-- [One killed and dozens injured in Iranian drone strikes on Kuwait airport](https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss)
-- [Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold](https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss)
-- [Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens](https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss)
-- [Foreign nationals among at least 21 killed in Delhi fire](https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss)
-- [The Population Bust](https://www.aljazeera.com/video/featured-documentaries/2026/6/3/the-population-bust?traffic_source=rss)
-- [Israel detains Palestine international women’s football player](https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss)
+- [Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks](https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss)
+- [US House votes to rein in Trump's war powers in rebuke over Iran](https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss)
+- ['Crazy' phone call between Trump and Netanyahu complicates Iran talks](https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss)
+- [Grab what you can while you can: The new reality in the South China Sea](https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss)
+- [Germany admits failure to secure UNSC seat likely due to support for Israel](https://www.aljazeera.com/video/newsfeed/2026/6/4/germany-admits-failure-to-secure-unsc-seat-likely-due-to-support-for-israel?traffic_source=rss)
+- [Israeli strikes on residential buildings kill nine in Gaza City](https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss)
 
 **💻 科技前沿**
-- [从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层](https://www.qbitai.com/2026/06/428703.html)
-- [世界模型榜首易主！跨维智能登顶WorldArena](https://www.qbitai.com/2026/06/428435.html)
-- [刚刚，Anthropic提交了招股书！](https://www.qbitai.com/2026/06/428407.html)
-- [刚刚，Meta Skill来了](https://www.qbitai.com/2026/06/428335.html)
+- [LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局](https://www.qbitai.com/2026/06/428790.html)
+- [一个GPT Plus会员的钱，够机器人跑一个月世界模型了](https://www.qbitai.com/2026/06/428791.html)
+- [戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型](https://www.qbitai.com/2026/06/428778.html)
+- [扣子3.0实测：手机就能远程遥控你电脑里的Agent](https://www.qbitai.com/2026/06/428648.html)
 
 **🤖 Hacker News 热门**
-- [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
-- [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
-- [Meta workers can opt out of being tracked at work up to 30 min](https://www.bbc.com/news/articles/c93x0k194yno)
-- [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
-- [Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)](https://dl.acm.org/doi/pdf/10.1145/1995966.1996008)
+- ["They're made out of weights"](https://maxleiter.com/blog/weights)
+- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
+- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+- [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
+- [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 
