@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-06-05
-> 生成时间: 05:16 (北京时间)
+> 生成时间: 12:34 (北京时间)
 
 **🌍 国际大事**
 - [Zelensky proposes face-to-face talks in open letter to Putin](https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss)
+- [Fury in France after child murder suspect's criminal record released](https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss)
+- [How Trump's White House ballroom plan has doubled in size and cost over a year](https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss)
 - [Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon](https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss)
-- [Trump hits back at 'unpatriotic' vote after House rebukes him over Iran](https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss)
-- [Ex-wife of Dubai ruler's nephew in custody, prosecutors say](https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss)
-- [Why Mogadishu clashes are deepening Somalia’s political crisis again](https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss)
-- [Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes](https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss)
+- [Hamas says won’t surrender arms but only police will carry weapons in Gaza](https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss)
+- [Shakira and Burna Boy opening World Cup in Mexico, Katy Perry headlines US](https://www.aljazeera.com/sports/2026/6/5/shakira-and-burna-boy-open-world-cup-in-mexico-katy-perry-headlines-us?traffic_source=rss)
 
 **💻 科技前沿**
-- [刚刚，姚顺雨现身！公开回应腾讯AI落后了吗？](https://www.qbitai.com/2026/06/429285.html)
-- [重估比亚迪，从智驾开始](https://www.qbitai.com/2026/06/429192.html)
-- [中国足球小将夺冠，比亚迪携手足球少年走向世界](https://www.qbitai.com/2026/06/429186.html)
-- [CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI](https://www.qbitai.com/2026/06/429130.html)
+- [智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制](https://www.qbitai.com/2026/06/431033.html)
+- [华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”](https://www.qbitai.com/2026/06/431027.html)
+- [国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态](https://www.qbitai.com/2026/06/430757.html)
+- [WPS笔记正式发布：AI贯穿记录、整理与复用全过程](https://www.qbitai.com/2026/06/431014.html)
 
 **🤖 Hacker News 热门**
-- [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
-- [Azure Linux 4.0 is Microsoft's first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
-- [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
-- [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
-- [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
+- [US tobacco firms applied tobacco strategies to globalize ultra-processed foods](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
+- [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
+- [Redis 8.8: New array data structure, rate limiter, performance improvements](https://redis.io/blog/announcing-redis-8-8/)
+- [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+- [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
 
