@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-06-06
-> 生成时间: 04:52 (北京时间)
+> 生成时间: 11:23 (北京时间)
 
 **🌍 国际大事**
-- [Putin says there is 'no point' meeting Zelensky over ending Ukraine war](https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss)
-- [Ukraine strikes cargo ships and admits Romania drone blast](https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss)
-- [Astronauts return to ISS after sheltering during air leak repair attempt](https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss)
-- [Fury in France after child murder suspect's criminal record released](https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss)
-- [Arrests of critics in Ghana provokes alarm over free speech under Mahama](https://www.aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama?traffic_source=rss)
-- [Ronaldo joins Portugal training ahead of sixth World Cup appearance](https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_clip_-ronaldo-trains-with-portugal-ahead-of-fifa-050626?traffic_source=rss)
+- [Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'](https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss)
+- [US and Iran exchange strikes in Gulf in latest test of ceasefire](https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss)
+- [Rumours and speculation as fans forecast date of Taylor Swift's wedding](https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss)
+- [Armenia braces for election as Russia piles pressure on pro-West government](https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss)
+- [Israeli forces fatally shoot Palestinian infant, wound parents in West Bank](https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss)
+- [Vaibhav Sooryavanshi, 15-year-old sensation, called up to India’s T20 squad](https://www.aljazeera.com/sports/2026/6/6/vaibhav-sooryavanshi-ipl-india-t20-team-call-up-england-ireland-asian-games?traffic_source=rss)
 
 **💻 科技前沿**
-- [港股鞋王千百度，一夜完成AI数据公司转型](https://www.qbitai.com/2026/06/431056.html)
-- [有人靠CPU把AI算力密度卷到了新高度](https://www.qbitai.com/2026/06/431045.html)
-- [智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制](https://www.qbitai.com/2026/06/431033.html)
-- [华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”](https://www.qbitai.com/2026/06/431027.html)
+- [马斯克是SpaceX面子，她才是里子](https://www.qbitai.com/2026/06/431371.html)
+- [大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛](https://www.qbitai.com/2026/06/431287.html)
+- [Hinton吹哨了：AI已经有意识！](https://www.qbitai.com/2026/06/431349.html)
+- [今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断](https://www.qbitai.com/2026/06/431186.html)
 
 **🤖 Hacker News 热门**
-- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
-- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
+- [GrapheneOS user reported to authorities for using GrapheneOS](https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos)
+- [Zig Zen Update](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)
 - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
-- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
-- [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
+- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
 
