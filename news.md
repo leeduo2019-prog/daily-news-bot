@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-06-05
-> 生成时间: 12:34 (北京时间)
+### 📰 每日新闻聚合 - 2026-06-06
+> 生成时间: 04:52 (北京时间)
 
 **🌍 国际大事**
-- [Zelensky proposes face-to-face talks in open letter to Putin](https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss)
+- [Putin says there is 'no point' meeting Zelensky over ending Ukraine war](https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss)
+- [Ukraine strikes cargo ships and admits Romania drone blast](https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss)
+- [Astronauts return to ISS after sheltering during air leak repair attempt](https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss)
 - [Fury in France after child murder suspect's criminal record released](https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss)
-- [How Trump's White House ballroom plan has doubled in size and cost over a year](https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss)
-- [Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon](https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss)
-- [Hamas says won’t surrender arms but only police will carry weapons in Gaza](https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss)
-- [Shakira and Burna Boy opening World Cup in Mexico, Katy Perry headlines US](https://www.aljazeera.com/sports/2026/6/5/shakira-and-burna-boy-open-world-cup-in-mexico-katy-perry-headlines-us?traffic_source=rss)
+- [Arrests of critics in Ghana provokes alarm over free speech under Mahama](https://www.aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama?traffic_source=rss)
+- [Ronaldo joins Portugal training ahead of sixth World Cup appearance](https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_clip_-ronaldo-trains-with-portugal-ahead-of-fifa-050626?traffic_source=rss)
 
 **💻 科技前沿**
+- [港股鞋王千百度，一夜完成AI数据公司转型](https://www.qbitai.com/2026/06/431056.html)
+- [有人靠CPU把AI算力密度卷到了新高度](https://www.qbitai.com/2026/06/431045.html)
 - [智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制](https://www.qbitai.com/2026/06/431033.html)
 - [华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”](https://www.qbitai.com/2026/06/431027.html)
-- [国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态](https://www.qbitai.com/2026/06/430757.html)
-- [WPS笔记正式发布：AI贯穿记录、整理与复用全过程](https://www.qbitai.com/2026/06/431014.html)
 
 **🤖 Hacker News 热门**
-- [US tobacco firms applied tobacco strategies to globalize ultra-processed foods](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
-- [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
-- [Redis 8.8: New array data structure, rate limiter, performance improvements](https://redis.io/blog/announcing-redis-8-8/)
-- [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
-- [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
+- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
+- [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
+- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
+- [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
 
