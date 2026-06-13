@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-06-13
-> 生成时间: 05:20 (北京时间)
+> 生成时间: 11:52 (北京时间)
 
 **🌍 国际大事**
-- [Deal to end fighting would lead to Hormuz reopening, Iran says](https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss)
+- [Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near](https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss)
+- [Switzerland to vote on plan to cap population at 10 million](https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss)
+- [Married at First Sight Australia stars not told partners had drug and violence convictions](https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss)
 - [Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut](https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss)
-- [French town buries murdered child as questions mount over police failings](https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss)
-- [Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM](https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss)
-- [Older runners defy age in Kenya’s central highlands](https://www.aljazeera.com/news/2026/6/13/older-runners-defy-age-in-kenyas-central-highlands?traffic_source=rss)
-- [UK court jails Palestine Action activists on ‘terrorism’ charges](https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_uk-court-jails-palestine-action-activists-130626?traffic_source=rss)
+- [Violence erupts at anti-government protest in DR Congo](https://www.aljazeera.com/video/newsfeed/2026/6/13/violence-erupts-at-anti-government-protest-in-dr-congo?traffic_source=rss)
+- [Qatar vs Switzerland: World Cup group match – preview, team news, lineups](https://www.aljazeera.com/sports/2026/6/13/qatar-vs-switzerland-world-cup-group-match-preview-team-news-lineups?traffic_source=rss)
 
 **💻 科技前沿**
+- [Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践](https://www.qbitai.com/2026/06/435455.html)
+- [2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”](https://www.qbitai.com/2026/06/435394.html)
 - [马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋](https://www.qbitai.com/2026/06/435339.html)
 - [神了，世界杯第一天真按千问剧本踢了](https://www.qbitai.com/2026/06/435321.html)
-- [千里收购了一家毫米波雷达公司](https://www.qbitai.com/2026/06/435196.html)
-- [耐心资本护航创新，2026SuperLink开启创投价值共生新时代](https://www.qbitai.com/2026/06/435192.html)
 
 **🤖 Hacker News 热门**
-- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
-- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+- [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 - [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+- [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
+- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 - [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
-- [Our response to the US ban on Fable 5 and Mythos 5](https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5)
 
