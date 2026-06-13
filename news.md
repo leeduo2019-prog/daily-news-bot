@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-06-12
-> 生成时间: 12:52 (北京时间)
+### 📰 每日新闻聚合 - 2026-06-13
+> 生成时间: 05:20 (北京时间)
 
 **🌍 国际大事**
-- [Tehran says 'nothing' finalised after Trump claims deal to end Iran war near](https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss)
-- [Flip flop or deliberate? - Unpacking Trump’s strategy on Iran](https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss)
-- [Thai Princess Bajrakitiyabha dies after more than three years in coma](https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss)
-- [Why the economics make this the craziest World Cup ever](https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss)
-- [Renowned British artist David Hockney dies aged 88](https://www.aljazeera.com/news/2026/6/12/renowned-british-artist-david-hockney-dies-aged-88?traffic_source=rss)
-- [Thai Princess Bajrakitiyabha dies after years in coma](https://www.aljazeera.com/video/newsfeed/2026/6/12/thai-princess-bajrakitiyabha-dies-after-years-in-coma?traffic_source=rss)
+- [Deal to end fighting would lead to Hormuz reopening, Iran says](https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss)
+- [Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut](https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss)
+- [French town buries murdered child as questions mount over police failings](https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss)
+- [Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM](https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss)
+- [Older runners defy age in Kenya’s central highlands](https://www.aljazeera.com/news/2026/6/13/older-runners-defy-age-in-kenyas-central-highlands?traffic_source=rss)
+- [UK court jails Palestine Action activists on ‘terrorism’ charges](https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_uk-court-jails-palestine-action-activists-130626?traffic_source=rss)
 
 **💻 科技前沿**
+- [马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋](https://www.qbitai.com/2026/06/435339.html)
+- [神了，世界杯第一天真按千问剧本踢了](https://www.qbitai.com/2026/06/435321.html)
 - [千里收购了一家毫米波雷达公司](https://www.qbitai.com/2026/06/435196.html)
 - [耐心资本护航创新，2026SuperLink开启创投价值共生新时代](https://www.qbitai.com/2026/06/435192.html)
-- [Anthropic老大的唯一 -1，就是AI股神的未婚妻](https://www.qbitai.com/2026/06/433717.html)
-- [2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！](https://www.qbitai.com/2026/06/435105.html)
 
 **🤖 Hacker News 热门**
-- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
-- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
-- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-- [Maxproof](https://arxiv.org/abs/2606.13473)
-- [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/)
+- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+- [Our response to the US ban on Fable 5 and Mythos 5](https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5)
 
