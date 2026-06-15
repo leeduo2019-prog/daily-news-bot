@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-06-14
-> 生成时间: 11:54 (北京时间)
+### 📰 每日新闻聚合 - 2026-06-15
+> 生成时间: 06:23 (北京时间)
 
 **🌍 国际大事**
-- [Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing](https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss)
-- [Swiss voters reject 10 million population cap, early projections say](https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss)
-- [Russian families use AI to 'resurrect' loved ones killed in Ukraine](https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss)
-- [New York Knicks win NBA championship for first time in over 50 years](https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss)
-- [World Cup 2026: Biggest takeaways from Brazil-Morocco group match](https://www.aljazeera.com/sports/2026/6/14/world-cup-2026-biggest-takeaways-from-brazil-morocco-group-match?traffic_source=rss)
-- [Israel attacks Beirut on same day Trump says Iran deal to be signed](https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss)
+- [Trump heralds Iran deal but questions - and risks - remain](https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss)
+- [Unclear if US-Iran agreement will provide respite to Lebanon](https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss)
+- [Oil prices slide after US-Iran deal announced](https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss)
+- [Russian strikes kill nine in Ukraine and damage historic cathedral, officials say](https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss)
+- [Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?](https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss)
+- [‘Looked so real’: How AI is being weaponised against India’s Muslim women](https://www.aljazeera.com/features/2026/6/15/looked-so-real-how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss)
 
 **💻 科技前沿**
+- [Agent时代，华为云开始重新造地基了](https://www.qbitai.com/2026/06/435531.html)
+- [智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破](https://www.qbitai.com/2026/06/435520.html)
 - [HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？](https://www.qbitai.com/2026/06/435483.html)
 - [Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践](https://www.qbitai.com/2026/06/435455.html)
-- [2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”](https://www.qbitai.com/2026/06/435394.html)
-- [马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋](https://www.qbitai.com/2026/06/435339.html)
 
 **🤖 Hacker News 热门**
-- [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
-- [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
-- [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
-- [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
-- [500-year-old monasteries outperform at digital transformation (U. of Zurich)](https://phys.org/news/2026-05-historic-monasteries-digital-countries.html)
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+- [Bitsy](https://bitsy.org/)
+- [Prove you're human by winning a claw machine](https://feralui.vercel.app/#/captcha)
 
