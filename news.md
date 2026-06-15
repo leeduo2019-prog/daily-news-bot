@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-06-15
-> 生成时间: 06:23 (北京时间)
+> 生成时间: 15:44 (北京时间)
 
 **🌍 国际大事**
-- [Trump heralds Iran deal but questions - and risks - remain](https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss)
-- [Unclear if US-Iran agreement will provide respite to Lebanon](https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss)
-- [Oil prices slide after US-Iran deal announced](https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss)
-- [Russian strikes kill nine in Ukraine and damage historic cathedral, officials say](https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss)
-- [Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?](https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss)
-- [‘Looked so real’: How AI is being weaponised against India’s Muslim women](https://www.aljazeera.com/features/2026/6/15/looked-so-real-how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss)
+- [Bowen: Iran deal ends Trump's war that revealed limit of US dominance](https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss)
+- [Norwegian crown princess's son found guilty of two counts of rape](https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss)
+- [Russian strikes kill 11 and set historic cathedral in Kyiv ablaze](https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss)
+- [Brazil woman dies after rope-jumping instructors fail to attach cord](https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss)
+- [Is Lebanon included? Country hopeful for US-Iran ceasefire, despite doubts](https://www.aljazeera.com/news/2026/6/15/is-lebanon-included-country-hopeful-for-us-iran-ceasefire-despite-doubts?traffic_source=rss)
+- [Oxford Union’s first Palestinian president faces down smear campaign](https://www.aljazeera.com/video/newsfeed/2026/6/15/oxford-unions-first-palestinian-president-faces-down-smear-campaign?traffic_source=rss)
 
 **💻 科技前沿**
-- [Agent时代，华为云开始重新造地基了](https://www.qbitai.com/2026/06/435531.html)
-- [智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破](https://www.qbitai.com/2026/06/435520.html)
-- [HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？](https://www.qbitai.com/2026/06/435483.html)
-- [Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践](https://www.qbitai.com/2026/06/435455.html)
+- [校企共推AI4S 上海交通大学与太初元碁签署合作协议](https://www.qbitai.com/2026/06/435848.html)
+- [从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚](https://www.qbitai.com/2026/06/435841.html)
+- [宇树机器人要登珠峰了！](https://www.qbitai.com/2026/06/435817.html)
+- [89年哈工程校友，拿下全球海洋机器人领域最大单轮融资](https://www.qbitai.com/2026/06/435804.html)
 
 **🤖 Hacker News 热门**
-- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-- [Bitsy](https://bitsy.org/)
-- [Prove you're human by winning a claw machine](https://feralui.vercel.app/#/captcha)
+- [CrankGPT](https://crankgpt.com)
+- [Iroh 1.0](https://www.iroh.computer/blog/v1)
+- [Hetzner increased dedicated server prices 3-4x](https://news.ycombinator.com/item?id=48542064)
+- [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins)
+- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
 
