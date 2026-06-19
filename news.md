@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-06-18
-> 生成时间: 12:49 (北京时间)
+### 📰 每日新闻聚合 - 2026-06-19
+> 生成时间: 06:17 (北京时间)
 
 **🌍 国际大事**
-- [What's in the US-Iran agreement?](https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss)
-- [Moscow hit by largest Ukrainian attack since start of Russia's full-scale war](https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss)
-- [Suspected gang leader shot dead in flower bouquet ambush at airport](https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss)
-- [Gunfire and explosions heard at Niger capital's airport](https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss)
-- [Iran says it will charge a ‘payment for services’ in the Strait of Hormuz](https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss)
-- [World Cup 2026: Key takeaways from the opening group stage matches](https://www.aljazeera.com/sports/2026/6/18/world-cup-2026-key-takeaways-from-the-opening-group-stage-matches?traffic_source=rss)
+- [US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'](https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss)
+- [Bowen: US-Iran deal raises inescapable question of what the war was for](https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss)
+- [What Iran and US get from deal and why both could struggle to keep it](https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss)
+- [Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery](https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss)
+- [Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off](https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss)
+- [A world on trial: How lawyers documenting Israeli abuse pay a price](https://www.aljazeera.com/features/2026/6/19/a-world-on-trial-how-lawyers-documenting-israeli-abuse-pay-a-price?traffic_source=rss)
 
 **💻 科技前沿**
-- [香港特区政府财政司司长陈茂波一行到访 PPIO](https://www.qbitai.com/2026/06/436751.html)
-- [AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根](https://www.qbitai.com/2026/06/436740.html)
-- [腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding](https://www.qbitai.com/2026/06/436674.html)
-- [ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评](https://www.qbitai.com/2026/06/436698.html)
+- [GPT发AI原创新成果了](https://www.qbitai.com/2026/06/436842.html)
+- [全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化](https://www.qbitai.com/2026/06/436813.html)
+- [AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关](https://www.qbitai.com/2026/06/436758.html)
+- [魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态](https://www.qbitai.com/2026/06/436802.html)
 
 **🤖 Hacker News 热门**
-- [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
-- [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-- [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
-- [DeepSeek Introduces Vision](https://chat.deepseek.com/)
-- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
+- [Many Let's Encrypt renewals had errors today](https://letsencrypt.status.io/#2026)
+- [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
+- [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+- [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
+- [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
 
