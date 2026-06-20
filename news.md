@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-06-19
-> 生成时间: 13:32 (北京时间)
+### 📰 每日新闻聚合 - 2026-06-20
+> 生成时间: 05:12 (北京时间)
 
 **🌍 国际大事**
-- [Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah](https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss)
-- [Do it at home too, women tell Japanese fans who cleaned World Cup stadium](https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss)
-- [Zimbabwe MPs pass bill to extend president's time in power](https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss)
-- [Morocco captain Achraf Hakimi to stand trial for rape](https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss)
-- [British lawyers’ body suspends ICC Prosecutor Khan over misconduct claim](https://www.aljazeera.com/news/2026/6/19/british-lawyers-body-suspends-icc-prosecutor-khan-over-misconduct-claim?traffic_source=rss)
-- [Chile’s Palestinians push back against Israel policy shift](https://www.aljazeera.com/video/newsfeed/2026/6/19/chiles-palestinians-push-back-against-israel-policy-shift?traffic_source=rss)
+- [Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported](https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss)
+- [Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7](https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss)
+- [US to stop funding HIV programmes in South Africa](https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss)
+- [Watch: World Cup fans react to US defeating Australia to reach knockout round](https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss)
+- [Inferno rips through Dominican Republic beach resort](https://www.aljazeera.com/video/newsfeed/2026/6/20/inferno-rips-through-dominican-republic-beach-resort?traffic_source=rss)
+- [Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence](https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss)
 
 **💻 科技前沿**
 - [我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！](https://www.qbitai.com/2026/06/436864.html)
@@ -16,9 +16,9 @@
 - [AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关](https://www.qbitai.com/2026/06/436758.html)
 
 **🤖 Hacker News 热门**
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
-- [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
-- [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
-- [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
-- [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+- [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html)
+- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
+- [Snap Smart Glasses](https://www.specs.com/smart-glasses/specs-27)
+- [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
 
