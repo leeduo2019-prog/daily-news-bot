@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-06-24
-> 生成时间: 05:01 (北京时间)
+> 生成时间: 12:17 (北京时间)
 
 **🌍 国际大事**
-- [Congress passes war powers measure for first time, rebuking Trump's war with Iran](https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss)
-- [Drowning deaths soar in France as Europe buckles in peak of heatwave](https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss)
+- [Power outages hit France as record heatwave set to peak](https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss)
+- [Congress passes war powers measure for first time, breaking with Trump over Iran](https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss)
 - [UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls](https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss)
 - [Clean sweep for Mamdani-backed candidates in New York's Democratic primary](https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss)
-- [NBA Draft 2026: Wizards select teen sensation AJ Dybantsa with No. 1 pick](https://www.aljazeera.com/sports/2026/6/24/nba-draft-2026-aj-dybantsa-no-1-pick-washington-wizards?traffic_source=rss)
-- [Which teams have qualified for the World Cup 2026 knockouts, round of 32?](https://www.aljazeera.com/sports/2026/6/24/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss)
+- [World Cup 2026: Messi, Mbappe, Haaland contest best ever Golden Boot race?](https://www.aljazeera.com/sports/2026/6/24/world-cup-2026-messi-mbappe-haaland-contest-best-ever-golden-boot-race?traffic_source=rss)
+- [Mamdani-backed candidates defeat pro-Israel lawmakers in primaries](https://www.aljazeera.com/video/newsfeed/2026/6/24/mamdani-backed-candidates-defeat-pro-israel-lawmakers-in-primaries?traffic_source=rss)
 
 **💻 科技前沿**
-- [刚刚，Claude Code大升级！卡帕西：LLM第三次变革](https://www.qbitai.com/2026/06/437734.html)
-- [2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布](https://www.qbitai.com/2026/06/437698.html)
-- [智能座舱之王「转身」物理AI，高通需要被重估了](https://www.qbitai.com/2026/06/432494.html)
-- [正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持](https://www.qbitai.com/2026/06/437694.html)
+- [1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器](https://www.qbitai.com/2026/06/438166.html)
+- [Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026](https://www.qbitai.com/2026/06/438157.html)
+- [物理AI第一块万亿市场，在公路货运先跑通闭环了](https://www.qbitai.com/2026/06/437853.html)
+- [华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖](https://www.qbitai.com/2026/06/437833.html)
 
 **🤖 Hacker News 热门**
+- [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
+- [Statistics that live in your SQL](https://kolistat.com/blog/the-stats-duck-v0-6-0/)
+- [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)
 - [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
-- [Jerry's Map](http://www.jerrysmap.com/the-map)
-- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
-- [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
-- [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
+- [A deadly fungus that can infect cats and people is spreading](https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading)
 
