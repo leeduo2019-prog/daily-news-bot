@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-06-25
-> 生成时间: 12:14 (北京时间)
+### 📰 每日新闻聚合 - 2026-06-26
+> 生成时间: 05:07 (北京时间)
 
 **🌍 国际大事**
-- ['I thought I was going to die' - Venezuelans describe earthquake panic](https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss)
-- [France, UK and Spain see record temperatures as heatwave grips western Europe](https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss)
-- [Trump asks Congress for billions for Iran war, after tension with Republicans](https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss)
-- [Oil price falls back to pre-Iran war levels](https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss)
-- [Israeli forces kill Palestinian man during raid on his home](https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss)
-- [How minesweeping in the Strait of Hormuz works: A visual guide](https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss)
+- [Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235](https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss)
+- [Earthquake is devastating blow to Venezuela at time of uncertainty](https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss)
+- [People flee as building collapses on Caracas outskirts](https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss)
+- [Paris restricts alcohol consumption and sales as Europe's heatwave shifts east](https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss)
+- [World Cup 2026: Turkiye beat US 3-2 with stoppage-time goal in dead rubber](https://www.aljazeera.com/sports/2026/6/26/turkiye-usa-fifa-world-cup-2026-ayhan-guler-yilmaz-trusty-berhalter-pulisic?traffic_source=rss)
+- [Which teams have qualified for the World Cup 2026 knockouts, round of 32?](https://www.aljazeera.com/sports/2026/6/26/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss)
 
 **💻 科技前沿**
-- [WAIC UP!｜AI圈都在聊参数，我们偏不](https://www.qbitai.com/2026/06/438364.html)
-- [三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》](https://www.qbitai.com/2026/06/438658.html)
-- [科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程](https://www.qbitai.com/2026/06/438638.html)
-- [4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？](https://www.qbitai.com/2026/06/438468.html)
+- [华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”](https://www.qbitai.com/2026/06/438741.html)
+- [让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题](https://www.qbitai.com/2026/06/438701.html)
+- [英伟达MoE新开源：一行import，微调加速3.7倍](https://www.qbitai.com/2026/06/438703.html)
+- [WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！](https://www.qbitai.com/2026/06/438698.html)
 
 **🤖 Hacker News 热门**
-- [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
-- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
-- [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
-- [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
+- [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
+- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
+- [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
+- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+- [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 
