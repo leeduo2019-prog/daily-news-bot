@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-06-29
-> 生成时间: 05:49 (北京时间)
+> 生成时间: 14:01 (北京时间)
 
 **🌍 国际大事**
-- [Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend](https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss)
-- [Pakistan launches deadly strikes along Afghan border](https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss)
-- [Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C](https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss)
-- [South Korea football coach quits as president calls for probe into World Cup loss](https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss)
-- [Thousands of Kurds gather in Turkiye to demand release of PKK leader](https://www.aljazeera.com/video/newsfeed/2026/6/29/thousands-of-kurds-gather-in-turkiye-to-demand-release-of-pkk-leader?traffic_source=rss)
-- [Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening](https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss)
+- [Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive](https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss)
+- [Five dead following shooting at youth centre in Stade, northern Germany](https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss)
+- [US says it has agreed to 'stand down' after exchange of strikes with Iran](https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss)
+- [Pakistani strikes kill dozens in Afghanistan](https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss)
+- [Five killed in shooting at youth welfare centre in Germany’s Stade](https://www.aljazeera.com/news/2026/6/29/five-killed-in-shooting-at-youth-welfare-centre-in-germanys-stade?traffic_source=rss)
+- [Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?](https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss)
 
 **💻 科技前沿**
-- [啥？做AI短剧可以免费，免费，免费了！](https://www.qbitai.com/2026/06/439750.html)
-- [“词元盗用”正在成为AI商业化面临的新风险](https://www.qbitai.com/2026/06/439746.html)
-- [太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了](https://www.qbitai.com/2026/06/439728.html)
-- [抱抱脸模型TOP榜，我现在只服yuxinlu1](https://www.qbitai.com/2026/06/439603.html)
+- [Claude Mythos让梁文锋决定融资](https://www.qbitai.com/2026/06/439863.html)
+- [OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据](https://www.qbitai.com/2026/06/439876.html)
+- [国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片](https://www.qbitai.com/2026/06/439861.html)
+- [AI当老板，快给10家公司干破产了…](https://www.qbitai.com/2026/06/439864.html)
 
 **🤖 Hacker News 热门**
-- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
-- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- [Tidal AI Policy](https://tidal.com/ai-policy)
+- [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/)
+- [Building Principia for Windows XP](https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/)
 - [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
-- [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
-- [Dissecting Apple's Sparse Image Format (ASIF)](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
+- [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
 
