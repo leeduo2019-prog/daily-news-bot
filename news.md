@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-07-07
-> 生成时间: 04:51 (北京时间)
+> 生成时间: 12:25 (北京时间)
 
 **🌍 国际大事**
 - [Zelensky to press Nato for air defence systems after intense Russian strikes](https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss)
-- [Trump confirms he asked Fifa to review Balogun ban](https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss)
+- [Woman suspected of Monaco bomb attack found dead in Ukraine](https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss)
 - [Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC](https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss)
-- [Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei](https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss)
-- [At least 16 people buried following landslide in China](https://www.aljazeera.com/news/2026/7/7/at-least-people-buried-following-landslide-in-china?traffic_source=rss)
-- [Tanker on fire off coast of Oman after being hit by projectile](https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss)
+- [Explosions injure 18 in Damascus during Macron's visit](https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss)
+- [What does Trump want from his NATO allies?](https://www.aljazeera.com/video/newsfeed/2026/7/7/what-does-trump-want-from-his-nato-allies?traffic_source=rss)
+- [Egypt coach makes impassioned plea for Palestine in pre-match conference](https://www.aljazeera.com/video/newsfeed/2026/7/7/egypt-coach-makes-impassioned-plea-for-palestine-in-pre-match-conference?traffic_source=rss)
 
 **💻 科技前沿**
-- [机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布](https://www.qbitai.com/2026/07/445184.html)
-- [征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？](https://www.qbitai.com/2026/07/445067.html)
-- [征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程](https://www.qbitai.com/2026/07/444859.html)
-- [Claude的脑子里，也长出了一块「意识」](https://www.qbitai.com/2026/07/444741.html)
+- [DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”](https://www.qbitai.com/2026/07/445608.html)
+- [从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”](https://www.qbitai.com/2026/07/445443.html)
+- [我宣布这是中国最神奇的造车新势力](https://www.qbitai.com/2026/07/445292.html)
+- [让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni](https://www.qbitai.com/2026/07/445229.html)
 
 **🤖 Hacker News 热门**
-- [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
 - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
-- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
 - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+- [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/)
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 
