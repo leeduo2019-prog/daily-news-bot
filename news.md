@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-07-08
-> 生成时间: 04:13 (北京时间)
+> 生成时间: 11:44 (北京时间)
 
 **🌍 国际大事**
-- [US launches strikes on Iran after tankers hit in Strait of Hormuz](https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss)
-- [Marine Le Pen to run for French presidency and appeal conviction in top court](https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss)
-- [Trump looms large as Nato grapples with challenge of rearming Europe](https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss)
-- [Woman suspected of Monaco bomb attack found dead in Ukraine](https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss)
-- [IOC eases restrictions on Russian athletes ahead of 2028 games](https://www.aljazeera.com/video/newsfeed/2026/7/8/ioc-eases-restrictions-on-russian-athletes-ahead-of-2028-games?traffic_source=rss)
-- [FIFA condemns fan’s racist attack on IShowSpeed at Argentina World Cup match](https://www.aljazeera.com/sports/2026/7/8/fifa-condemns-fans-racist-attack-on-ishowspeed-at-argentina-world-cup-match?traffic_source=rss)
+- [Trump says ceasefire is 'over' after US and Iran trade strikes](https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss)
+- [US strikes target Iranian military boats](https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss)
+- [Will Le Pen rise again? French nationalist leader defiant after court's ruling](https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss)
+- [Nato allies announce £37bn for new missile project](https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss)
+- [Syria says one killed, 36 wounded after Damascus blasts during Macron visit](https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss)
+- [World Cup Golden Boot: Messi leads Mbappe, Haaland before quarterfinals](https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-golden-boot-race-messi-leads-mbappe-haaland-before-quarterfinals?traffic_source=rss)
 
 **💻 科技前沿**
-- [支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源](https://www.qbitai.com/2026/07/445668.html)
-- [三个理想火枪手创业，打破具身最快百台交付纪录](https://www.qbitai.com/2026/07/445531.html)
-- [DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”](https://www.qbitai.com/2026/07/445608.html)
-- [从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”](https://www.qbitai.com/2026/07/445443.html)
+- [横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发](https://www.qbitai.com/2026/07/446356.html)
+- [“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开](https://www.qbitai.com/2026/07/446226.html)
+- [别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化](https://www.qbitai.com/2026/07/446075.html)
+- [翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议](https://www.qbitai.com/2026/07/446076.html)
 
 **🤖 Hacker News 热门**
-- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
-- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
+- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+- [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+- [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
 - [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
-- [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
-- [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211)
 
