@@ -1,24 +1,23 @@
-### 📰 每日新闻聚合 - 2026-07-11
-> 生成时间: 11:01 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-12
+> 生成时间: 04:24 (北京时间)
 
 **🌍 国际大事**
-- [US wants Iran to pledge to stop shooting at ships in Strait of Hormuz](https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss)
-- [Spain battles to contain one of its deadliest wildfires as at least 12 killed](https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss)
-- [Meet the crypto billionaires building a world where money buys you a vote](https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss)
-- [East Asia braces for destructive typhoon as landslides kill 15 in Philippines](https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss)
-- [Land sold for Kushner-backed Albania resort suspected of forged deeds](https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss)
-- [World cup wrap day 30](https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss)
+- [US launches fresh strikes as Iran closes Strait of Hormuz](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss)
+- [China's second typhoon in a week makes landfall](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss)
+- [T. rex could become most expensive fossil ever - but it's a ​problem for scientists](https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss)
+- [At least two killed in Toronto street festival shooting](https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss)
+- [Injured Conor McGregor’s UFC comeback ends in defeat to Max Holloway](https://www.aljazeera.com/sports/2026/7/12/conor-mcgregor-knee-injury-max-holloway-2-ufc-329-rematch-result-las-vegas?traffic_source=rss)
+- [Argentina beat Switzerland to set up World Cup 2026 semifinal with England](https://www.aljazeera.com/sports/2026/7/12/argentina-defeat-switzerland-to-set-up-england-semifinal-at-world-cup-2026?traffic_source=rss)
 
 **💻 科技前沿**
-- [中国首个十万卡集群落成！全国产算力支撑“十万卡时代”](https://www.qbitai.com/2026/07/447891.html)
-- [GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent](https://www.qbitai.com/2026/07/447873.html)
-- [只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审](https://www.qbitai.com/2026/07/447846.html)
-- [AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放](https://www.qbitai.com/2026/07/447832.html)
+- [老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型](https://www.qbitai.com/2026/07/447981.html)
+- [近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？](https://www.qbitai.com/2026/07/447914.html)
+- [中国首个十万卡集群落成！全国产算力支撑“十万卡时代”](https://www.qbitai.com/2026/07/447902.html)
 
 **🤖 Hacker News 热门**
-- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
-- [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
-- [Almost $1B Later, the US Still Can't Make a Medical Glove](https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves)
+- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
+- [A pure scheme web programming tool](https://goeteia.dev)
+- [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
+- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
 
