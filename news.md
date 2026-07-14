@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-07-13
-> 生成时间: 12:28 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-14
+> 生成时间: 03:55 (北京时间)
 
 **🌍 国际大事**
-- [At least 27 killed, 25 critically injured after fire engulfs Bangkok bar](https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss)
-- ['Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78](https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss)
-- [Senator Lindsey Graham died of aortic tear, examiner says](https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss)
-- [Wildfire raging south of Paris could have been set deliberately, says minister](https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss)
-- [South Korea rolls out plan to tackle youth suicide crisis](https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis?traffic_source=rss)
-- [Al Jazeera bids farewell to founder Sheikh Hamad](https://www.aljazeera.com/video/newsfeed/2026/7/13/al-jazeera-bids-farewell-to-founder-sheikh-hamad?traffic_source=rss)
+- [UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes](https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss)
+- [''There was no way out': Witnesses describe how deadly inferno swept through Bangkok bar](https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss)
+- [Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety](https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss)
+- [Colombian national killed by ICE agent during operation in Maine](https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss)
+- [Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook](https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss)
+- [ICE officer kills motorist in Maine; the second fatality in a week](https://www.aljazeera.com/video/newsfeed/2026/7/14/ice-officer-kills-motorist-in-maine-the-second-fatality-in-a-week-2?traffic_source=rss)
 
 **💻 科技前沿**
-- [WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？](https://www.qbitai.com/2026/07/449156.html)
-- [从前沿创新到产业落地：西门子将亮相2026世界人工智能大会](https://www.qbitai.com/2026/07/449150.html)
-- [问界母公司突发亏损预警！一季度还在盈利](https://www.qbitai.com/2026/07/449005.html)
-- [WAIC’26探展召集令！和量子位一起逛展、直播、聊AI](https://www.qbitai.com/2026/07/448923.html)
+- [逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑](https://www.qbitai.com/2026/07/449474.html)
+- [菲尔兹奖提前泄露！王虹邓煜双双在列](https://www.qbitai.com/2026/07/449407.html)
+- [Agent专用搜索登顶Product Hunt，Token更省搜得更准](https://www.qbitai.com/2026/07/449327.html)
+- [Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题](https://www.qbitai.com/2026/07/449311.html)
 
 **🤖 Hacker News 热门**
-- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
-- [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
-- [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
-- [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
-- [The social physics of conversation: Communication patterns matter](https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership)
+- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
+- [The Git history command deserves more attention](https://lalitm.com/post/git-history/)
+- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
+- [The Economics of Recursive Self-Improvement [pdf]](https://elasticity.institute/rsi-paper.pdf)
 
