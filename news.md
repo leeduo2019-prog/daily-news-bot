@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-07-14
-> 生成时间: 03:55 (北京时间)
+> 生成时间: 11:23 (北京时间)
 
 **🌍 国际大事**
-- [UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes](https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss)
-- [''There was no way out': Witnesses describe how deadly inferno swept through Bangkok bar](https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss)
-- [Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety](https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss)
-- [Colombian national killed by ICE agent during operation in Maine](https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss)
-- [Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook](https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss)
-- [ICE officer kills motorist in Maine; the second fatality in a week](https://www.aljazeera.com/video/newsfeed/2026/7/14/ice-officer-kills-motorist-in-maine-the-second-fatality-in-a-week-2?traffic_source=rss)
+- [Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30](https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss)
+- ['If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal](https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss)
+- [Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport](https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss)
+- [Australian police reveal unseen photos 25 years after British backpacker murder](https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss)
+- [Lebanon, Israel hold talks in Rome on implementing framework deal](https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss)
+- [Can Gulf countries defend themselves against renewed Iranian attacks?](https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks?traffic_source=rss)
 
 **💻 科技前沿**
-- [逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑](https://www.qbitai.com/2026/07/449474.html)
-- [菲尔兹奖提前泄露！王虹邓煜双双在列](https://www.qbitai.com/2026/07/449407.html)
-- [Agent专用搜索登顶Product Hunt，Token更省搜得更准](https://www.qbitai.com/2026/07/449327.html)
-- [Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题](https://www.qbitai.com/2026/07/449311.html)
+- [2026年世界人工智能大会，7月17-7月20上海举办](https://www.qbitai.com/2026/07/436498.html)
+- [GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先](https://www.qbitai.com/2026/07/449842.html)
+- [产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资](https://www.qbitai.com/2026/07/449836.html)
+- [高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景](https://www.qbitai.com/2026/07/449568.html)
 
 **🤖 Hacker News 热门**
 - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
-- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
-- [The Git history command deserves more attention](https://lalitm.com/post/git-history/)
-- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
-- [The Economics of Recursive Self-Improvement [pdf]](https://elasticity.institute/rsi-paper.pdf)
+- [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
+- [Codex starts encrypting prompts, uses ciphertext for inference instead](https://github.com/openai/codex/issues/28058)
+- [The git history command](https://lalitm.com/post/git-history/)
+- [Australian energy retailers must provide three hours of free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
 
