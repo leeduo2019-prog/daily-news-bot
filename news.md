@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-07-16
-> 生成时间: 04:07 (北京时间)
+> 生成时间: 11:36 (北京时间)
 
 **🌍 国际大事**
-- [French MPs approve assisted dying law with strict rules after years of argument](https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss)
-- [US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'](https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss)
-- [Argentina face action after waving Falklands banner](https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss)
-- [Families of 43 victims await verdict in Genoa bridge disaster](https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss)
-- [Senior Chinese delegation visits North Korea for talks](https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks?traffic_source=rss)
-- [South Korea’s international adoptees seek justice, not homecoming](https://www.aljazeera.com/features/2026/7/16/south-koreas-international-adoptees-seek-justice-not-homecoming?traffic_source=rss)
+- [Protests in Ukraine's cities against Zelensky's removal of defence minister](https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss)
+- [Iran targets military bases as US launches wave of strikes](https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss)
+- [Argentina face action over Falklands banner](https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss)
+- ['Moment of joy' as Uganda discharges last Ebola patient](https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss)
+- [Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister](https://www.aljazeera.com/news/2026/7/16/hundreds-protest-in-kyiv-over-zelenskyys-dismissal-of-defence-minister?traffic_source=rss)
+- [Fire at orphanage in Algeria kills 11 people, including children](https://www.aljazeera.com/news/2026/7/16/fire-at-orphanage-in-algeria-kills-11-people-including-children?traffic_source=rss)
 
 **💻 科技前沿**
-- [用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界](https://www.qbitai.com/2026/07/450896.html)
-- [测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布](https://www.qbitai.com/2026/07/450841.html)
-- [主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！](https://www.qbitai.com/2026/07/450831.html)
-- [人在Meta，休个病假/产假转身被AI裁了？？](https://www.qbitai.com/2026/07/450709.html)
+- [全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了](https://www.qbitai.com/2026/07/451403.html)
+- [工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施](https://www.qbitai.com/2026/07/451371.html)
+- [RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造](https://www.qbitai.com/2026/07/451379.html)
+- [手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了](https://www.qbitai.com/2026/07/451327.html)
 
 **🤖 Hacker News 热门**
+- [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
+- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+- [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
-- [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
-- [Grok Build is open source](https://github.com/xai-org/grok-build)
-- [An Interactive Map of AI](https://artifipedia.com/map)
+- [A Beautiful Theory Falls to Ugly Data](https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html)
 
