@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-07-17
-> 生成时间: 11:19 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-18
+> 生成时间: 03:53 (北京时间)
 
 **🌍 国际大事**
-- [US launches new strikes as Iran says civilian infrastructure hit](https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss)
-- [Trump alleges China meddled in 2020 election and questions voting security ahead of midterms](https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss)
-- [More than 500 Rohingya vanished at sea - what happened?](https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss)
-- [Japan relaxes royal succession rules - but ban on female emperors remains](https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss)
-- [Trump’s new election push, explained](https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss)
-- [India debuts hydrogen-powered train as part of sustainability drive](https://www.aljazeera.com/economy/2026/7/17/india-debuts-hydrogen-powered-train-as-part-of-sustainability-drive?traffic_source=rss)
+- [Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities](https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss)
+- [US strikes hit Iran for seventh consecutive night](https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss)
+- [Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC](https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss)
+- [White House defends Argentina team over Falklands banner](https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss)
+- [Venice protesters rally against US ambassador’s superyacht tour](https://www.aljazeera.com/video/newsfeed/2026/7/18/venice-protesters-rally-against-us-ambassadors-superyacht-tour?traffic_source=rss)
+- [In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final](https://www.aljazeera.com/sports/2026/7/18/in-new-yorks-little-palestine-fans-cheer-for-spain-in-world-cup-final?traffic_source=rss)
 
 **💻 科技前沿**
-- [文远发布物理AI大模型WITT：让每一公里都变成模型能力](https://www.qbitai.com/2026/07/452961.html)
-- [WAIC 2026：全球DAA将达7940万个百度AI重磅升级发布](https://www.qbitai.com/2026/07/452956.html)
-- [397B参数追平万亿模型，上海AI Lab发布科学智能体新基座 | WAIC 2026](https://www.qbitai.com/2026/07/452942.html)
-- [IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和](https://www.qbitai.com/2026/07/452914.html)
+- [全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC](https://www.qbitai.com/2026/07/453506.html)
+- [PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂](https://www.qbitai.com/2026/07/453467.html)
+- [逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU](https://www.qbitai.com/2026/07/453352.html)
+- [给AI发工号、定岗位、做绩效，数字员工终于能落地了](https://www.qbitai.com/2026/07/453245.html)
 
 **🤖 Hacker News 热门**
-- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
-- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
-- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
-- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-- [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need)
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
+- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
+- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
+- [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
 
