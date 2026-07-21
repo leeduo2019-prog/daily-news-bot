@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-07-20
-> 生成时间: 12:13 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-21
+> 生成时间: 04:14 (北京时间)
 
 **🌍 国际大事**
-- [US soldier killed and one injured after Iranian attack in Iraq](https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss)
-- [Boy, 13, dies during World Cup celebrations in Spain](https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss)
-- [Trump says US strikes hit Iran in 'honour' of American soldiers killed](https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss)
-- [Food delivery rider wins China's top literary prize](https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss)
-- [Iran says Spain World Cup win brings joy to critics of US, Israel](https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss)
-- [Why is Iran bombing Gulf states while avoiding US naval assets and Israel?](https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel?traffic_source=rss)
+- [Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks](https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss)
+- [US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss)
+- [Yemen's Houthis announce 'maritime embargo' on Saudi Arabia](https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss)
+- [Tate brothers appear in US court for extradition proceedings](https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss)
+- [China and Philippines trade accusations after sailor injured at sea](https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss)
+- [Lebanese return to ‘pilot zone’ villages they say Israel never occupied](https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss)
 
 **💻 科技前沿**
 - [WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践](https://www.qbitai.com/2026/07/455963.html)
@@ -16,9 +16,9 @@
 - [全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力](https://www.qbitai.com/2026/07/455729.html)
 
 **🤖 Hacker News 热门**
-- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
-- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
-- [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
-- [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
-- [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
+- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+- [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
+- [Kimi Work](https://www.kimi.com/products/kimi-work)
+- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 
