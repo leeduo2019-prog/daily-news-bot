@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-07-21
-> 生成时间: 11:44 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-22
+> 生成时间: 04:15 (北京时间)
 
 **🌍 国际大事**
-- [Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks](https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss)
-- [US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers](https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss)
-- [Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal](https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss)
-- [Yemen's Houthis announce 'maritime embargo' on Saudi Arabia](https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss)
-- [Hamas’s new leader must bridge a movement divided over Iran](https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss)
-- [‘Won’t back down’: Indian student protesters return after police crackdown](https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss)
+- [Zelensky sacks Ukraine's top army commander after days of protests](https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss)
+- [US renews strikes on Iran as Trump threatens to attack underground nuclear site](https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss)
+- [France passes law banning under-15s from social media](https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss)
+- [Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'](https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss)
+- [Palestine weekly: Ahead of elections, Israel doubles down on attacks](https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss)
+- [More than 140 dead, missing on refugee boat stranded off Mauritania](https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss)
 
 **💻 科技前沿**
+- [酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型](https://www.qbitai.com/2026/07/456178.html)
+- [小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅](https://www.qbitai.com/2026/07/456061.html)
 - [WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》](https://www.qbitai.com/2026/07/456052.html)
 - [WAIC重磅成果｜上海市教育算力专区正式开启试运行](https://www.qbitai.com/2026/07/456026.html)
-- [WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan](https://www.qbitai.com/2026/07/456021.html)
-- [WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力](https://www.qbitai.com/2026/07/455998.html)
 
 **🤖 Hacker News 热门**
-- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
-- [The Growing Compute Shortage](https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage)
-- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
-- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-- [Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/)
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+- [LG to ban residential proxies from smart TV apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
+- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
 
