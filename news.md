@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-07-23
-> 生成时间: 04:14 (北京时间)
+> 生成时间: 11:48 (北京时间)
 
 **🌍 国际大事**
 - [US signs landmark nuclear deal with Saudi Arabia](https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss)
 - [Houthis claim attack on oil tankers as US launches more strikes on Iran](https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss)
-- [Tankers make sharp U-turns after Houthi shipping threat](https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss)
-- [Russia's businesses under strain from Ukraine's attacks on Wildberries](https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss)
-- [Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat](https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss)
-- [Five soldiers killed in southern Thailand checkpoint attack](https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss)
+- [Thousands evacuated in France fires](https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss)
+- ['I am still alive': Indian activist on hunger strike for 26 days loses 11kg](https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss)
+- [Several killed as Ukraine, Russia trade attacks deep behind the front line](https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss)
+- [Israel releases 35 detainees from Gaza](https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss)
 
 **💻 科技前沿**
-- [贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态](https://www.qbitai.com/2026/07/457434.html)
-- [芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了](https://www.qbitai.com/2026/07/457405.html)
-- [科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座](https://www.qbitai.com/2026/07/457359.html)
-- [太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛](https://www.qbitai.com/2026/07/457356.html)
+- [智能体政策新闻相关背景和简要解读](https://www.qbitai.com/2026/07/457787.html)
+- [机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」](https://www.qbitai.com/2026/07/457698.html)
+- [阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务](https://www.qbitai.com/2026/07/457694.html)
+- [超越π0，中国团队用1B参数模型登顶具身智能榜单](https://www.qbitai.com/2026/07/457537.html)
 
 **🤖 Hacker News 热门**
+- [Code mode yields a 99.2% cost reduction in our systems](https://www.agent-swarm.dev/blog/code-mode-token-savings)
+- [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
 - [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+- [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
 - [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
-- [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
-- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
 
