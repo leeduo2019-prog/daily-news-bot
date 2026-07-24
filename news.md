@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-07-24
-> 生成时间: 04:12 (北京时间)
+> 生成时间: 11:38 (北京时间)
 
 **🌍 国际大事**
-- [US imposes tariffs on dozens of trade partners, citing forced labour concerns](https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss)
-- [Oil prices hit $100 for the first time since May](https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss)
+- [Tens of thousands evacuated from French tourist spot as wildfires spread](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss)
+- [US hits dozens of countries with new wave of tariffs](https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss)
+- [US and Iran trade more strikes in Gulf as fears of escalation mount](https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss)
 - [Indonesian babies were trafficked to Singapore. What happens to them now?](https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss)
-- [Saudis must recognise Israel for nuclear deal, says Trump](https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss)
-- [As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade](https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss)
-- [What are the Abraham Accords?](https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss)
+- [Australia World Cup star Volpato faces speeding, cocaine charges](https://www.aljazeera.com/sports/2026/7/24/australia-world-cup-star-volpato-in-speeding-and-cocaine-charge-police-say?traffic_source=rss)
+- [South African court pauses impeachment process against president](https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss)
 
 **💻 科技前沿**
-- [新晋菲尔兹奖得主，当天宣布加入OpenAI](https://www.qbitai.com/2026/07/457792.html)
-- [智能体政策新闻相关背景和简要解读](https://www.qbitai.com/2026/07/457787.html)
-- [机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」](https://www.qbitai.com/2026/07/457698.html)
-- [阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务](https://www.qbitai.com/2026/07/457694.html)
+- [菲尔兹奖得主王虹，也发过NeurIPS](https://www.qbitai.com/2026/07/460042.html)
+- [抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录](https://www.qbitai.com/2026/07/459432.html)
+- [领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场](https://www.qbitai.com/2026/07/459402.html)
+- [近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？](https://www.qbitai.com/2026/07/459262.html)
 
 **🤖 Hacker News 热门**
-- [98.css](https://jdan.github.io/98.css/#status-bar)
+- [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
+- [Flux 3](https://bfl.ai/blog/flux-3)
+- [It's getting harder to focus every day](https://glyphack.com/attention/)
 - [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
-- [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
-- [The Visual 6502](http://visual6502.org/JSSim/index.html)
-- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 
