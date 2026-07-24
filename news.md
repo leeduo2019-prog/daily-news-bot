@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-07-23
-> 生成时间: 11:48 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-24
+> 生成时间: 04:12 (北京时间)
 
 **🌍 国际大事**
-- [US signs landmark nuclear deal with Saudi Arabia](https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss)
-- [Houthis claim attack on oil tankers as US launches more strikes on Iran](https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss)
-- [Thousands evacuated in France fires](https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss)
-- ['I am still alive': Indian activist on hunger strike for 26 days loses 11kg](https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss)
-- [Several killed as Ukraine, Russia trade attacks deep behind the front line](https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss)
-- [Israel releases 35 detainees from Gaza](https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss)
+- [US imposes tariffs on dozens of trade partners, citing forced labour concerns](https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss)
+- [Oil prices hit $100 for the first time since May](https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss)
+- [Indonesian babies were trafficked to Singapore. What happens to them now?](https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss)
+- [Saudis must recognise Israel for nuclear deal, says Trump](https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss)
+- [As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade](https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss)
+- [What are the Abraham Accords?](https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss)
 
 **💻 科技前沿**
+- [新晋菲尔兹奖得主，当天宣布加入OpenAI](https://www.qbitai.com/2026/07/457792.html)
 - [智能体政策新闻相关背景和简要解读](https://www.qbitai.com/2026/07/457787.html)
 - [机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」](https://www.qbitai.com/2026/07/457698.html)
 - [阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务](https://www.qbitai.com/2026/07/457694.html)
-- [超越π0，中国团队用1B参数模型登顶具身智能榜单](https://www.qbitai.com/2026/07/457537.html)
 
 **🤖 Hacker News 热门**
-- [Code mode yields a 99.2% cost reduction in our systems](https://www.agent-swarm.dev/blog/code-mode-token-savings)
-- [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
-- [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-- [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
-- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
+- [98.css](https://jdan.github.io/98.css/#status-bar)
+- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+- [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
+- [The Visual 6502](http://visual6502.org/JSSim/index.html)
+- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
 
