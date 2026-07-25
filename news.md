@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-07-24
-> 生成时间: 11:38 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-25
+> 生成时间: 04:08 (北京时间)
 
 **🌍 国际大事**
-- [Tens of thousands evacuated from French tourist spot as wildfires spread](https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss)
-- [US hits dozens of countries with new wave of tariffs](https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss)
-- [US and Iran trade more strikes in Gulf as fears of escalation mount](https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss)
-- [Indonesian babies were trafficked to Singapore. What happens to them now?](https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss)
-- [Australia World Cup star Volpato faces speeding, cocaine charges](https://www.aljazeera.com/sports/2026/7/24/australia-world-cup-star-volpato-in-speeding-and-cocaine-charge-police-say?traffic_source=rss)
-- [South African court pauses impeachment process against president](https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss)
+- [More than 220,000 evacuated in France and Spain due to wildfires](https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss)
+- [Ten killed in Russian attack on drone exhibition near Kyiv](https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss)
+- [Zelensky tries to fix crisis over removal of defence minister and counts the cost](https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss)
+- [Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion](https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss)
+- [‘The show must go on’: Trump returns to rescheduled White House press gala](https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss)
+- [Firefighters battle fire after fertiliser explosion in England](https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss)
 
 **💻 科技前沿**
+- [全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型](https://www.qbitai.com/2026/07/460174.html)
+- [合肥又押中AI独角兽：多模态赛道，3个月融了21亿](https://www.qbitai.com/2026/07/460154.html)
+- [国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源](https://www.qbitai.com/2026/07/460041.html)
 - [菲尔兹奖得主王虹，也发过NeurIPS](https://www.qbitai.com/2026/07/460042.html)
-- [抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录](https://www.qbitai.com/2026/07/459432.html)
-- [领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场](https://www.qbitai.com/2026/07/459402.html)
-- [近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？](https://www.qbitai.com/2026/07/459262.html)
 
 **🤖 Hacker News 热门**
-- [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
-- [Flux 3](https://bfl.ai/blog/flux-3)
-- [It's getting harder to focus every day](https://glyphack.com/attention/)
-- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+- [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
+- [Re: Bye Bye Gravatar](https://unattributed.cc/re-bye-bye-gravatar)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
 
