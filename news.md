@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-07-29
-> 生成时间: 04:10 (北京时间)
+> 生成时间: 11:58 (北京时间)
 
 **🌍 国际大事**
-- [Watch: The moment quake hit Japan](https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss)
-- [Iran and US trade strikes, shattering brief lull in fighting](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
-- [How Mexican drug cartels have outsourced meth labs to Nigeria](https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss)
-- [Trump administration bans new Chinese humanoid robots](https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss)
-- [Haitians living in fear as Temporary Protected Status ends in the US](https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss)
-- [Iran missiles target US forces in Jordan after a five-day pause in war](https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss)
+- [More than 100 aftershocks hit Japan after powerful quake that killed 13](https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss)
+- [Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake](https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss)
+- [Saudi Arabia joins US in strikes on Iran-backed militias in Iraq](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
+- [Thousands in Spain return home but new heatwave raises wildfire fears](https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss)
+- [Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?](https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss)
+- [Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?](https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss)
 
 **💻 科技前沿**
-- [首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定](https://www.qbitai.com/2026/07/462065.html)
-- [周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生](https://www.qbitai.com/2026/07/462062.html)
-- [九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂](https://www.qbitai.com/2026/07/462058.html)
-- [豆包搜索，走出了豆包](https://www.qbitai.com/2026/07/461961.html)
+- [超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一](https://www.qbitai.com/2026/07/462447.html)
+- [Opus 5游戏提示词爆火！24小时复刻3A巨作](https://www.qbitai.com/2026/07/462384.html)
+- [OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通](https://www.qbitai.com/2026/07/462380.html)
+- [空中具身操作：让蜘蛛侠们安全落地](https://www.qbitai.com/2026/07/462301.html)
 
 **🤖 Hacker News 热门**
-- [Codex Security](https://github.com/openai/codex-security)
-- [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
-- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
-- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
-- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
+- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+- [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
+- [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html)
+- [Amiga Graphics Archive](https://amiga.lychesis.net/index.html)
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
 
