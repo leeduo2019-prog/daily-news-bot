@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-07-28
-> 生成时间: 11:54 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-29
+> 生成时间: 04:10 (北京时间)
 
 **🌍 国际大事**
-- [Zelensky to press Trump on air defences while in Washington](https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss)
-- [The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback](https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss)
-- [US walks out of UN Security Council meeting during France's remarks](https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss)
-- [Zidane confirmed as France head coach](https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss)
-- [Tate’s attorney says allegations ‘puts a target on their backs’](https://www.aljazeera.com/video/newsfeed/2026/7/28/tates-attorney-says-allegations-puts-a-target-on-their?traffic_source=rss)
-- [Authorities open fire amid election unrest in Pakistan-administered Kashmir](https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss)
+- [Watch: The moment quake hit Japan](https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss)
+- [Iran and US trade strikes, shattering brief lull in fighting](https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss)
+- [How Mexican drug cartels have outsourced meth labs to Nigeria](https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss)
+- [Trump administration bans new Chinese humanoid robots](https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss)
+- [Haitians living in fear as Temporary Protected Status ends in the US](https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss)
+- [Iran missiles target US forces in Jordan after a five-day pause in war](https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss)
 
 **💻 科技前沿**
-- [Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外](https://www.qbitai.com/2026/07/461949.html)
-- [当AI学会“仿真思维”，教师才能回归育人本质](https://www.qbitai.com/2026/07/461939.html)
-- [Ilya获黄仁勋50亿美元押注：“是时候Scaling了”](https://www.qbitai.com/2026/07/461911.html)
-- [世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型](https://www.qbitai.com/2026/07/461827.html)
+- [首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定](https://www.qbitai.com/2026/07/462065.html)
+- [周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生](https://www.qbitai.com/2026/07/462062.html)
+- [九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂](https://www.qbitai.com/2026/07/462058.html)
+- [豆包搜索，走出了豆包](https://www.qbitai.com/2026/07/461961.html)
 
 **🤖 Hacker News 热门**
-- [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
-- [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
-- [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083)
-- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
-- [How to Survive Boiling Water](https://taxa.substack.com/p/how-to-survive-boiling-water)
+- [Codex Security](https://github.com/openai/codex-security)
+- [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
+- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
+- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
+- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
 
