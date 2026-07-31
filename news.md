@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-07-30
-> 生成时间: 11:49 (北京时间)
+### 📰 每日新闻聚合 - 2026-07-31
+> 生成时间: 04:20 (北京时间)
 
 **🌍 国际大事**
-- [US launches 'heavy' strikes on Iran after attempted attack on American troops](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss)
-- [Saudi Arabia's dilemma as it tries to stay out of US-Iran war](https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss)
-- [Missile that left crater deep inside Poland was probably Russian - Polish PM](https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss)
-- [Thousands evacuated in Crete as European wildfires continue to rage](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
-- [How does a safe zone in Lebanon become a target three times?](https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss)
-- [Israeli strikes kill at least four, including children, across Gaza Strip](https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss)
+- [Hamas says it has agreed to disarm after Trump announces Board of Peace plan](https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss)
+- [Spain sending troops as thousands enter enclave of Ceuta from Morocco](https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss)
+- [Nirmal Purja among 10 climbers feared missing after avalanche](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss)
+- [Uefa to boycott World Cups if Fifa plans approved](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss)
+- [Israeli blockades seal off village in the occupied West Bank](https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss)
+- [India to increase penalties for exam leaks after Cockroach party protests](https://www.aljazeera.com/news/2026/7/31/india-to-increase-penalties-for-exam-leaks-after-cockroach-party-protests?traffic_source=rss)
 
 **💻 科技前沿**
+- [GPT-5.6今起大降价，最大幅度80%！](https://www.qbitai.com/2026/07/463640.html)
 - [Claude Code之父：Harness保质期只有半年，解开缰绳吧](https://www.qbitai.com/2026/07/463433.html)
 - [终端市场的下一个增长点，高通押在了“个人AI”上](https://www.qbitai.com/2026/07/463204.html)
 - [GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现](https://www.qbitai.com/2026/07/463297.html)
-- [李飞飞的世界模型，终于开始训练机器人了](https://www.qbitai.com/2026/07/463217.html)
 
 **🤖 Hacker News 热门**
-- [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
-- [Azulejo](https://en.wikipedia.org/wiki/Azulejo)
-- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
-- [Carolina Cloud pays SOFR on unused prepaid credits](https://docs.carolinacloud.io/organizations/prepaid-interest/)
-- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+- [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
+- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
+- [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 
