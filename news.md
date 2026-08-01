@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-08-01
-> 生成时间: 04:19 (北京时间)
+> 生成时间: 11:13 (北京时间)
 
 **🌍 国际大事**
-- [Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
-- [Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza](https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss)
-- [Body of US climber the latest recovered after Pakistan avalanche](https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss)
-- [Peru's ex-president leaves jail after 15-year jail term for corruption overturned](https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss)
-- [Yemen’s Houthis deny plan to charge ships transiting Red Sea](https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss)
-- [Is Israel really ready to withdraw from Gaza?](https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss)
+- [Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss)
+- [Uefa has 'lost confidence' in Infantino's Fifa leadership](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
+- [Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss)
+- [Russian strikes on Kyiv kill at least nine, Ukraine officials say](https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss)
+- [Omani legend, US novice: Pakistan recovers bodies from Broad Peak](https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss)
+- [Iran: The Making of a War](https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss)
 
 **💻 科技前沿**
-- [AI顶会现场，见到了一家美妆巨头](https://www.qbitai.com/2026/08/464364.html)
-- [SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI](https://www.qbitai.com/2026/07/464328.html)
-- [刚刚，即梦 Seedance 2.5来了！我狂测测测测……](https://www.qbitai.com/2026/07/464329.html)
-- [视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了](https://www.qbitai.com/2026/07/464277.html)
+- [OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！](https://www.qbitai.com/2026/08/464693.html)
+- [李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”](https://www.qbitai.com/2026/08/464532.html)
+- [黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来](https://www.qbitai.com/2026/08/464452.html)
+- [Anthropic模型，也失控了。。。](https://www.qbitai.com/2026/08/464412.html)
 
 **🤖 Hacker News 热门**
+- [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
 - [Elevators](https://john.fun/elevators)
-- [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+- [RamenHaus](https://ramen.haus/)
+- [How to Do Great Work](https://paulgraham.com/greatwork.html)
 - [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
-- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
-- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)
 
