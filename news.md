@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-01
-> 生成时间: 11:13 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-02
+> 生成时间: 04:21 (北京时间)
 
 **🌍 国际大事**
-- [Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss)
-- [Uefa has 'lost confidence' in Infantino's Fifa leadership](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
-- [Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss)
-- [Russian strikes on Kyiv kill at least nine, Ukraine officials say](https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss)
-- [Omani legend, US novice: Pakistan recovers bodies from Broad Peak](https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss)
-- [Iran: The Making of a War](https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss)
+- [Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+- [How Spain's migrant crisis created a political storm - whipped up by social media](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss)
+- [EU calls emergency meeting to discuss Ceuta migrant crossings](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
+- [Young guns for hire - the teenage hitmen recruited to kill across Europe](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
+- [How Virunga Park protects people and gorillas from Ebola in eastern DRC](https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss)
+- [Trump cancels Iran strike, says ‘deal perimeters’ reached](https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss)
 
 **💻 科技前沿**
+- [「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能](https://www.qbitai.com/2026/08/464781.html)
+- [获奖之后，王虹最想感谢的人](https://www.qbitai.com/2026/08/464761.html)
+- [奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了](https://www.qbitai.com/2026/08/464713.html)
 - [OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！](https://www.qbitai.com/2026/08/464693.html)
-- [李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”](https://www.qbitai.com/2026/08/464532.html)
-- [黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来](https://www.qbitai.com/2026/08/464452.html)
-- [Anthropic模型，也失控了。。。](https://www.qbitai.com/2026/08/464412.html)
 
 **🤖 Hacker News 热门**
-- [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
-- [Elevators](https://john.fun/elevators)
-- [RamenHaus](https://ramen.haus/)
-- [How to Do Great Work](https://paulgraham.com/greatwork.html)
-- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
+- [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow)
+- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
+- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+- [Diátaxis](https://diataxis.fr/)
 
