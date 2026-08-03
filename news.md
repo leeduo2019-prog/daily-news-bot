@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-08-03
-> 生成时间: 04:28 (北京时间)
+> 生成时间: 12:53 (北京时间)
 
 **🌍 国际大事**
-- [Trump suggests new talks with Iran to begin on Monday](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
+- [Iran denies Trump's claim that new talks will begin on Monday](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
 - ['My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
-- [Two crew killed after firefighting helicopters collide in Greece, as British pilot survives](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
-- [Massive Attack respond after Singapore ban over Palestine display](https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss)
-- [Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations](https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss)
-- [Trump pauses ‘massive attack’ on Iran, says new talks to begin](https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss)
+- [Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years](https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss)
+- [Two workers killed in blast after re-entering quake-hit Japan mall on boss' order](https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss)
+- [Who will shape post-war Iran?](https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss)
+- [Palestine’s new ambassador to Spain calls for deeper friendship](https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss)
 
 **💻 科技前沿**
-- [AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化](https://www.qbitai.com/2026/08/464835.html)
-- [「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能](https://www.qbitai.com/2026/08/464781.html)
-- [获奖之后，王虹最想感谢的人](https://www.qbitai.com/2026/08/464761.html)
-- [奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了](https://www.qbitai.com/2026/08/464713.html)
+- [年薪百万抢电工，Meta急到自己办技校](https://www.qbitai.com/2026/08/465223.html)
+- [当品牌开始争夺AI的答案：翰智GEO入场](https://www.qbitai.com/2026/08/465662.html)
+- [2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕](https://www.qbitai.com/2026/08/465361.html)
+- [Demo的高估值时代结束了，具身智能开始按生产力重新算账](https://www.qbitai.com/2026/08/465225.html)
 
 **🤖 Hacker News 热门**
+- [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
 - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
-- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
-- [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
-- [Show HN: ssh ssh.place](https://ssh.place)
+- [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
+- [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
 
