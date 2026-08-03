@@ -1,18 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-02
-> 生成时间: 11:13 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-03
+> 生成时间: 04:28 (北京时间)
 
 **🌍 国际大事**
-- [Trump cancels Iran strikes subject to deal being made 'rapidly'](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
-- [How Spain's migrant crisis created a political storm - whipped up by social media](https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss)
-- [Five dead, 41 missing, after Indonesia ferry catches fire](https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss)
-- [Young guns for hire - the teenage hitmen recruited to kill across Europe](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
-- [Israeli soldiers jailed over Sde Teiman walkout](https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss)
-- [FIFA boss Infantino’s position looks unacceptable: European Leagues head](https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss)
+- [Trump suggests new talks with Iran to begin on Monday](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
+- ['My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
+- [Two crew killed after firefighting helicopters collide in Greece, as British pilot survives](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
+- [Massive Attack respond after Singapore ban over Palestine display](https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss)
+- [Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations](https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss)
+- [Trump pauses ‘massive attack’ on Iran, says new talks to begin](https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss)
+
+**💻 科技前沿**
+- [AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化](https://www.qbitai.com/2026/08/464835.html)
+- [「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能](https://www.qbitai.com/2026/08/464781.html)
+- [获奖之后，王虹最想感谢的人](https://www.qbitai.com/2026/08/464761.html)
+- [奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了](https://www.qbitai.com/2026/08/464713.html)
 
 **🤖 Hacker News 热门**
-- [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
-- [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
-- [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
-- [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)
-- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+- [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
+- [Show HN: ssh ssh.place](https://ssh.place)
 
