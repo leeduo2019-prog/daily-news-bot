@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-03
-> 生成时间: 12:53 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-04
+> 生成时间: 04:12 (北京时间)
 
 **🌍 国际大事**
-- [Iran denies Trump's claim that new talks will begin on Monday](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
-- ['My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
-- [Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years](https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss)
-- [Two workers killed in blast after re-entering quake-hit Japan mall on boss' order](https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss)
-- [Who will shape post-war Iran?](https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss)
-- [Palestine’s new ambassador to Spain calls for deeper friendship](https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss)
+- [EU calls for stronger borders after Ceuta migrant crossings](https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss)
+- [Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach](https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss)
+- [Iran says it is in talks with Oman but not the US after Trump says negotiations to resume](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
+- [Ariana Grande has had enough of body comments, but 'scrutiny' will linger](https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss)
+- [Colombia’s Petro repeats vote fraud claims days before handing over power](https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss)
+- [Pochettino agrees to coach men’s US Soccer through 2030 World Cup](https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss)
 
 **💻 科技前沿**
+- [亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群](https://www.qbitai.com/2026/08/465732.html)
+- [这个新生图模型有点夯：4K直出的，国产的，开源的！](https://www.qbitai.com/2026/08/465673.html)
 - [年薪百万抢电工，Meta急到自己办技校](https://www.qbitai.com/2026/08/465223.html)
 - [当品牌开始争夺AI的答案：翰智GEO入场](https://www.qbitai.com/2026/08/465662.html)
-- [2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕](https://www.qbitai.com/2026/08/465361.html)
-- [Demo的高估值时代结束了，具身智能开始按生产力重新算账](https://www.qbitai.com/2026/08/465225.html)
 
 **🤖 Hacker News 热门**
-- [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
-- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
-- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-- [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
-- [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+- [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
+- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
 
