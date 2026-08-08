@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-08-08
-> 生成时间: 02:53 (北京时间)
+> 生成时间: 10:28 (北京时间)
 
 **🌍 国际大事**
+- [Child among three killed in Russian missile attacks near Kyiv](https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss)
+- [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss)
 - [Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss)
 - [Thai PM vows to introduce stricter gun laws after eight killed in shooting](https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss)
-- [I was standing in front of my teacher when she was shot, Thai pupil says](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss)
-- [Saudi Arabia, Turkey and Pakistan sign defence pact](https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss)
-- [US courts clear way for deportations of South Sudan, Myanmar nationals](https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss)
-- [What could the Mecca defence pact mean for the US role in the Middle East?](https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss)
+- [Mount Etna ash suspends arrivals at Italy’s Catania airport](https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss)
+- [Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms](https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss)
 
 **💻 科技前沿**
-- [阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力](https://www.qbitai.com/2026/08/468324.html)
-- [AI批量轰炸苹果bug赏金计划，审核团队已下线](https://www.qbitai.com/2026/08/466738.html)
-- [openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境](https://www.qbitai.com/2026/08/468305.html)
-- [AI圈功能狂卷，付费寥寥，Keep正在试一条新路](https://www.qbitai.com/2026/08/467878.html)
+- [奥特曼的ChatGPT育儿大法，捅了马蜂窝](https://www.qbitai.com/2026/08/468631.html)
+- [中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷](https://www.qbitai.com/2026/08/468555.html)
+- [Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱](https://www.qbitai.com/2026/08/468498.html)
+- [都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙](https://www.qbitai.com/2026/08/468462.html)
 
 **🤖 Hacker News 热门**
-- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-- [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
+- [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
+- [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
 - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
 - [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+- [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
 
