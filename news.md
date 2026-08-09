@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-08-08
-> 生成时间: 10:28 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-09
+> 生成时间: 03:00 (北京时间)
 
 **🌍 国际大事**
-- [Child among three killed in Russian missile attacks near Kyiv](https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss)
-- [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss)
-- [Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies](https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss)
-- [Thai PM vows to introduce stricter gun laws after eight killed in shooting](https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss)
-- [Mount Etna ash suspends arrivals at Italy’s Catania airport](https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss)
-- [Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms](https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss)
+- [Hormuz talks positive, Oman says, as Iran warns deal would not open strait](https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss)
+- [Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general](https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss)
+- [US offers $1bn to Colombia on new right-wing president's first day of office](https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss)
+- [Messi's father Jorge dies aged 68 after illness](https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss)
+- [Israeli settler attacks rise as West Bank residents lose land](https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss)
+- [Hungary nominates former Supreme Court chief Andras Baka for presidency](https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss)
 
 **💻 科技前沿**
 - [奥特曼的ChatGPT育儿大法，捅了马蜂窝](https://www.qbitai.com/2026/08/468631.html)
@@ -16,9 +16,9 @@
 - [都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙](https://www.qbitai.com/2026/08/468462.html)
 
 **🤖 Hacker News 热门**
-- [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
-- [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
-- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-- [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
+- [My server is a phone now](https://seg6.space/posts/phone-server/)
+- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+- [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
+- [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
+- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 
