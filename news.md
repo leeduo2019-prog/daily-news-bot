@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-09
-> 生成时间: 10:29 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-10
+> 生成时间: 03:10 (北京时间)
 
 **🌍 国际大事**
-- [Israel accused of weaponising archaeology at ancient West Bank sites](https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss)
-- [Fifa criticises campaign to oust president Infantino](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss)
-- [Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
-- [State of emergency declared as fast-moving Canada wildfire doubles in size](https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss)
-- [Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?](https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss)
-- [It won’t be Trump who kills the ICC](https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss)
+- [Suspected crime boss Daniel Kinahan appears in court after extradition](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
+- [Israel rejects Trump's 15-point plan for Gaza, Netanyahu says](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss)
+- [Evidence that South African special forces murdered top detective shared with BBC](https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss)
+- [Drones spotted over German base days after Leipzig bomb incident](https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss)
+- [Malaysian PM Anwar Ibrahim undergoes medical procedure](https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss)
+- [Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition](https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss)
 
 **💻 科技前沿**
-- [GPT-5.6和Fable联手，解决了一道悬了25年的数学难题](https://www.qbitai.com/2026/08/468913.html)
-- [当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI](https://www.qbitai.com/2026/08/468782.html)
-- [Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了](https://www.qbitai.com/2026/08/468766.html)
-- [爆料：哈萨比斯原本要和Jeff Dean一起走！](https://www.qbitai.com/2026/08/468715.html)
+- [苹果开测长鑫存储！百度、千问也一起挤进苹果供应链](https://www.qbitai.com/2026/08/469475.html)
+- [墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒](https://www.qbitai.com/2026/08/469454.html)
+- [魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只](https://www.qbitai.com/2026/08/469213.html)
+- [3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知](https://www.qbitai.com/2026/08/469076.html)
 
 **🤖 Hacker News 热门**
-- [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
-- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
-- [My server is a phone now](https://seg6.space/posts/phone-server/)
-- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
-- [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
+- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
+- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
+- [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
 
