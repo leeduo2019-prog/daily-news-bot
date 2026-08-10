@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-08-10
-> 生成时间: 03:10 (北京时间)
+> 生成时间: 11:04 (北京时间)
 
 **🌍 国际大事**
-- [Suspected crime boss Daniel Kinahan appears in court after extradition](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
-- [Israel rejects Trump's 15-point plan for Gaza, Netanyahu says](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss)
-- [Evidence that South African special forces murdered top detective shared with BBC](https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss)
-- [Drones spotted over German base days after Leipzig bomb incident](https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss)
-- [Malaysian PM Anwar Ibrahim undergoes medical procedure](https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss)
-- [Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition](https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss)
+- [At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say](https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss)
+- [China evacuates one million from homes as massive storm arrives](https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss)
+- [Former Thai MP allegedly kills official and confesses on YouTube](https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss)
+- ['Body in suitcase' found in Australia turns out to be lifelike doll](https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss)
+- [June and July hottest on record in Western Europe, monitor says](https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss)
+- [UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan](https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss)
 
 **💻 科技前沿**
-- [苹果开测长鑫存储！百度、千问也一起挤进苹果供应链](https://www.qbitai.com/2026/08/469475.html)
-- [墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒](https://www.qbitai.com/2026/08/469454.html)
-- [魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只](https://www.qbitai.com/2026/08/469213.html)
-- [3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知](https://www.qbitai.com/2026/08/469076.html)
+- [模型路线趋同之后，Physical AI的胜负手变了](https://www.qbitai.com/2026/08/469544.html)
+- [对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI](https://www.qbitai.com/2026/08/469520.html)
+- [Claude Code倒计时5天默认自动模式，多花的钱A社自己掏](https://www.qbitai.com/2026/08/469500.html)
+- [Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅](https://www.qbitai.com/2026/08/469493.html)
 
 **🤖 Hacker News 热门**
+- [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 - [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
-- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
-- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
-- [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
+- [Tail-Call Interpreters in Rust – Jimmy Ostler](https://lordgoati.us/blog/tail-call/)
+- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
 
