@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-12
-> 生成时间: 10:57 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-13
+> 生成时间: 03:25 (北京时间)
 
 **🌍 国际大事**
-- [Rescuers scramble for survivors with 180 dead in Colombia earthquake](https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss)
-- [Trump confirms he switched planes after Nato summit because of possible threat](https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss)
-- [Trump's dramatic plane swap hints at personal stakes of Iran war](https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss)
-- [Singapore and S Korea pull Trader Joe's seasoning over poppy seeds](https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss)
-- [Lebanon ends executions: Where does the death penalty still exist in 2026?](https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss)
-- [Woman rescued after 36 hours under rubble in Colombia](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss)
+- [Major Russian grain export terminals hit in Ukraine Black Sea port attack](https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss)
+- [Israeli settlers besieging Palestinian families in West Bank village](https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss)
+- [Ebola outbreak on track to be deadliest ever, WHO chief says](https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss)
+- [Three men will be executed on the same day as death penalties rise in US](https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss)
+- [Solar eclipse carves Eiffel Tower’s silhouette in Paris sky](https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss)
+- [Olympic skateboarder times epic stunt with solar eclipse](https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss)
 
 **💻 科技前沿**
-- [2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕](https://www.qbitai.com/2026/08/470901.html)
-- [人形之外，擎羽把“身体”变成具身智能的新变量](https://www.qbitai.com/2026/08/470874.html)
-- [刚刚，Manus恢复独立运营](https://www.qbitai.com/2026/08/470805.html)
-- [蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布](https://www.qbitai.com/2026/08/470674.html)
+- [《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵](https://www.qbitai.com/2026/08/471254.html)
+- [Anthropic CEO整天神神叨叨，投资人受不了了](https://www.qbitai.com/2026/08/471162.html)
+- [国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键](https://www.qbitai.com/2026/08/471049.html)
+- [紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力](https://www.qbitai.com/2026/08/471030.html)
 
 **🤖 Hacker News 热门**
-- [Tim Gowers: What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
-- [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
-- [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
-- [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
-- [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
+- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+- [Delta](https://zed.dev/blog/introducing-delta)
+- [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
+- [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
+- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
 
