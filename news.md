@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-08-15
-> 生成时间: 10:20 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-16
+> 生成时间: 02:20 (北京时间)
 
 **🌍 国际大事**
-- [Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
-- ['I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty](https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss)
-- [BBC seeks to subpoena Trump's family members in Panorama lawsuit](https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss)
-- [US aircraft carrier on way to relieve USS Lincoln after issues reported aboard](https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss)
-- [Bangladesh rock Australia as historic Test win in sight](https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss)
-- [FIFA World Cup and Olympics cited as Coe warns of politicians near sport](https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss)
+- [Rescuers search for survivors of powerful Indonesia earthquake](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
+- [Morocco detains dozens of migrants trying to cross into Ceuta, reports say](https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss)
+- [Eleven killed in Israeli strikes on southern Lebanon, authorities say](https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss)
+- [Liechtenstein changes succession rule to allow women to ascend the throne](https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss)
+- [As petrol prices soar, electric bikes gain ground in Nigeria](https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss)
+- [Army drops roses on Syrian crowds in a far cry from war](https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss)
 
 **💻 科技前沿**
 - [至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%](https://www.qbitai.com/2026/08/473876.html)
@@ -16,9 +16,9 @@
 - [DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了](https://www.qbitai.com/2026/08/473597.html)
 
 **🤖 Hacker News 热门**
-- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
-- [Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum](https://baselashraf81.github.io/eigendrum/)
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-- [In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/)
+- [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
+- [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
+- [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
+- [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
+- [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
 
