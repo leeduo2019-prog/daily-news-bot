@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-08-16
-> 生成时间: 02:20 (北京时间)
+> 生成时间: 10:18 (北京时间)
 
 **🌍 国际大事**
-- [Rescuers search for survivors of powerful Indonesia earthquake](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
-- [Morocco detains dozens of migrants trying to cross into Ceuta, reports say](https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss)
-- [Eleven killed in Israeli strikes on southern Lebanon, authorities say](https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss)
-- [Liechtenstein changes succession rule to allow women to ascend the throne](https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss)
-- [As petrol prices soar, electric bikes gain ground in Nigeria](https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss)
-- [Army drops roses on Syrian crowds in a far cry from war](https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss)
+- [Five killed as Russia launches fresh aerial attacks across Ukraine](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
+- [Thousands displaced by deadly Indonesia earthquake as rescue efforts continue](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
+- [Hurricane Lala lashes Hawaii with strong winds and torrential rain](https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss)
+- [Twelve killed as Polish bus veers off Hungarian motorway](https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss)
+- [Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa](https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss)
+- [Live video captures panic as gunman opens fire at park in Kentucky](https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss)
 
 **💻 科技前沿**
+- [WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队](https://www.qbitai.com/2026/08/473972.html)
+- [牛来！A社营收暴涨1400%，最新季度入账115亿美元](https://www.qbitai.com/2026/08/473947.html)
 - [至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%](https://www.qbitai.com/2026/08/473876.html)
 - [根治AI音乐通病！这家国产音乐模型正面挑战SUNO](https://www.qbitai.com/2026/08/473866.html)
-- [源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude](https://www.qbitai.com/2026/08/473669.html)
-- [DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了](https://www.qbitai.com/2026/08/473597.html)
 
 **🤖 Hacker News 热门**
 - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
-- [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
-- [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
-- [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
+- [Impulse Tracker](https://ovidem.com/impulsetracker/)
+- [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1)
+- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 
