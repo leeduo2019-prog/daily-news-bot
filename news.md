@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-16
-> 生成时间: 10:18 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-17
+> 生成时间: 02:18 (北京时间)
 
 **🌍 国际大事**
-- [Five killed as Russia launches fresh aerial attacks across Ukraine](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
-- [Thousands displaced by deadly Indonesia earthquake as rescue efforts continue](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
-- [Hurricane Lala lashes Hawaii with strong winds and torrential rain](https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss)
-- [Twelve killed as Polish bus veers off Hungarian motorway](https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss)
-- [Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa](https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss)
-- [Live video captures panic as gunman opens fire at park in Kentucky](https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss)
+- [Trump says US to scale back military drills with South Korea after it stayed out of Iran war](https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss)
+- [Trump envoy Kushner meets Hamas leader to push Gaza peace plan](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
+- [Russia says at least seven killed in largest Ukrainian attack of 2026](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
+- [Two dead and hundreds evacuated after twin fires break out on Greek island](https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss)
+- [Ebola outbreak in DR Congo becomes deadliest in country’s history](https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss)
+- [Israeli settlers pitch tents for new illegal outpost in occupied West Bank](https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss)
 
 **💻 科技前沿**
+- [杭州95后小伙，5亿买走硅谷城堡](https://www.qbitai.com/2026/08/474245.html)
+- [李飞飞最新访谈：AI咋能代替人呢？](https://www.qbitai.com/2026/08/474140.html)
+- [“B站教AI”爆火后，北航90后副教授何静回应一切](https://www.qbitai.com/2026/08/474064.html)
 - [WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队](https://www.qbitai.com/2026/08/473972.html)
-- [牛来！A社营收暴涨1400%，最新季度入账115亿美元](https://www.qbitai.com/2026/08/473947.html)
-- [至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%](https://www.qbitai.com/2026/08/473876.html)
-- [根治AI音乐通病！这家国产音乐模型正面挑战SUNO](https://www.qbitai.com/2026/08/473866.html)
 
 **🤖 Hacker News 热门**
-- [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
-- [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
-- [Impulse Tracker](https://ovidem.com/impulsetracker/)
-- [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1)
-- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
+- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+- [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 
