@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-18
-> 生成时间: 10:25 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-19
+> 生成时间: 02:17 (北京时间)
 
 **🌍 国际大事**
-- [Russia warns UK will pay for supplying drones to Ukraine](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
-- [IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss)
-- [Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says](https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss)
-- [Inside secret police warehouse as Germany targets small boats gangs](https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss)
-- [Eight air strikes hit airbase in Syria’s Idlib](https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss)
-- [Brazil’s president says Amazon oil is ‘passport to the future’](https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss)
+- [Meta hooked children on Facebook and Instagram, court hears](https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss)
+- [Sacked Ukrainian defence minister calls for presidential election](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
+- [Earthquake rocks Spain's historic Granada, injuring three](https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss)
+- [Brazil's President Lula hails oil discovery near Amazon river](https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss)
+- [How Ebola became the deadliest outbreak in DR Congo’s history](https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss)
+- [US ambassador to Israel calls settler violence ‘terror’](https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss)
 
 **💻 科技前沿**
-- [6个Agent组团Vibe Gaming：自己生成、试玩、修Bug](https://www.qbitai.com/2026/08/474806.html)
-- [今日起，阿里“千问办公”接入企业微信](https://www.qbitai.com/2026/08/474803.html)
-- [吉利汽车业绩高点，李书福激流勇退](https://www.qbitai.com/2026/08/474736.html)
-- [650亿美元！IPO前夕，Anthropic营收底牌曝光](https://www.qbitai.com/2026/08/474673.html)
+- [郭富城换车，30万级顶配华为全家桶](https://www.qbitai.com/2026/08/475009.html)
+- [年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元](https://www.qbitai.com/2026/08/474907.html)
+- [比亚迪全程护航丝路万里行，深圳收官再启海外征程](https://www.qbitai.com/2026/08/474868.html)
+- [网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人](https://www.qbitai.com/2026/08/474857.html)
 
 **🤖 Hacker News 热门**
-- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
-- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-- [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
-- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
-- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+- [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
+- [Cerebras CS-4](https://www.cerebras.ai/cs4)
+- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
+- [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
+- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
 
