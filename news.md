@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-19
-> 生成时间: 10:23 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-20
+> 生成时间: 02:16 (北京时间)
 
 **🌍 国际大事**
-- [Sacked Ukrainian defence minister calls for presidential election](https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss)
-- [Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told](https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss)
-- [Trump pauses new tariffs on Canada for three days, saying deal close](https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss)
-- [South Korea shortens war games with US, citing Washington request](https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss)
-- [At least five killed in Russian air attacks on Ukraine](https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss)
-- [Nick Kyrgios provisionally suspended after positive test for cocaine](https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss)
+- [Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
+- [Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza](https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss)
+- [Trump threatens 'tremendous economic consequences' on any country helping Iran](https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss)
+- [Giant whales move into Greenland waters as ice disappears](https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss)
+- [Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance](https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss)
+- [Bodycam captures police team falling when deck collapses in Missouri](https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss)
 
 **💻 科技前沿**
-- [MiniMax核心工程负责人阿岛离职](https://www.qbitai.com/2026/08/475869.html)
-- [具身数据底座开卖，首发5100元：机器人训练数据有了新解法](https://www.qbitai.com/2026/08/475477.html)
-- [用DeepSeek网页版就能瓜分鹅厂600万？？！](https://www.qbitai.com/2026/08/475764.html)
-- [写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”](https://www.qbitai.com/2026/08/475476.html)
+- [完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩](https://www.qbitai.com/2026/08/476075.html)
+- [华尔街实测8款全球主流Agent：千问办公综合排名第一](https://www.qbitai.com/2026/08/476070.html)
+- [章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式](https://www.qbitai.com/2026/08/475931.html)
+- [全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会](https://www.qbitai.com/2026/08/475907.html)
 
 **🤖 Hacker News 热门**
-- [OpenLogi](https://openlogi.org/en)
-- [Cerebras CS-4](https://www.cerebras.ai/cs4)
-- [The Two Factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-- [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [Go 1.27](https://go.dev/blog/go1.27)
+- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+- [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
 
