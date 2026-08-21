@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-20
-> 生成时间: 10:25 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-21
+> 生成时间: 02:21 (北京时间)
 
 **🌍 国际大事**
-- [At least 13 killed in Kyiv as Ukraine grapples with air defence shortages](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
-- [Founder of collapsed Chinese property giant Evergrande sentenced to life in prison](https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss)
-- [Trump vows tougher economic measures on Iran and supporting countries](https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss)
-- [Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told](https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss)
-- [How conflict is making life more expensive for Iranians](https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss)
-- [State-backed Israeli settler violence forces West Bank displacement: HRW](https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss)
+- [UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project](https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss)
+- [How much could Trump's 'economic D-Day' hurt Iran?](https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss)
+- [Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
+- [Trump wants to be friends with Kim - but South Korea could pay the price](https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss)
+- [Brazil launches AI supercomputer push while balancing US and Chinese tech](https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss)
+- [Panama Canal to limit shipping ahead of extreme weather during El Nino](https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss)
 
 **💻 科技前沿**
-- [宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？](https://www.qbitai.com/2026/08/476120.html)
-- [墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命](https://www.qbitai.com/2026/08/476078.html)
-- [完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩](https://www.qbitai.com/2026/08/476075.html)
-- [华尔街实测8款全球主流Agent：千问办公综合排名第一](https://www.qbitai.com/2026/08/476070.html)
+- [这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家](https://www.qbitai.com/2026/08/476280.html)
+- [光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界](https://www.qbitai.com/2026/08/476281.html)
+- [闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5](https://www.qbitai.com/2026/08/476199.html)
+- [今年WRC最大展台，预告具身智能未来](https://www.qbitai.com/2026/08/476141.html)
 
 **🤖 Hacker News 热门**
-- [Don't Paste the AI, please](https://dontpastetheai.com/)
-- [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- [Go 1.27](https://go.dev/blog/go1.27)
+- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+- [It is a sign of the times that Amazon gets to call this fair use](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
+- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
+- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
 
