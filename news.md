@@ -1,18 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-22
-> 生成时间: 10:19 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-23
+> 生成时间: 02:24 (北京时间)
 
 **🌍 国际大事**
-- [Canada says it will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
-- [TikTok to pay $400m to US in one of largest child privacy settlements](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss)
-- [Israel re-establishes closed West Bank settlement, defying growing international protests](https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss)
-- [Rescuers dig through wreckage after 16 killed in Russian strike on Ukraine mall](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
-- [Former world champion boxer Zolani Tete shot and killed in South Africa](https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss)
-- [Iran says new US sanctions violate sovereignty of other states](https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss)
+- [Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
+- [Carney faces crucial test after walking away from Trump's deal](https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss)
+- [Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
+- [Father leaves 7-year-old son alone on Mount Fuji to continue hike](https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss)
+- [Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid](https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss)
+- [Iran war live: Tehran warns neighbours against joining US economic war](https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss)
+
+**💻 科技前沿**
+- [不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径](https://www.qbitai.com/2026/08/477253.html)
+- [伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒](https://www.qbitai.com/2026/08/477246.html)
+- [魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗](https://www.qbitai.com/2026/08/477155.html)
+- [00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token](https://www.qbitai.com/2026/08/477094.html)
 
 **🤖 Hacker News 热门**
-- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
-- [Felony Bench](https://www.felonybench.com/)
-- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
-- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
-- [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
+- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+- [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 
