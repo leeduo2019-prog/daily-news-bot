@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-24
-> 生成时间: 10:33 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-25
+> 生成时间: 02:16 (北京时间)
 
 **🌍 国际大事**
-- [Divorce, smartphones and control - BBC sees how Taliban run Afghanistan](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
-- [Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada](https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss)
-- [Trump says Canada wants 'benefits' of being US state after trade talks collapse](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
-- [King of Norway's health has worsened, palace says](https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss)
-- [US military says strike on alleged drug-smuggling boat kills two](https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss)
-- [Dozens of coordinated arson attacks carried out across Thailand](https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss)
+- [Iran faces 'greatest financial offensive ever', says US treasury secretary](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
+- [UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
+- [US removes Syria from list of state sponsors of terrorism](https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss)
+- [Moment tornado tears through southern France](https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss)
+- [Man killed in world’s largest annual bullfighting event in Mexico](https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss)
+- [Brutal gang attack on strategic Haiti hillside leaves at least 30 dead](https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss)
 
 **💻 科技前沿**
+- [ResNet作者任少卿机器人创业！公司注册就独角兽了](https://www.qbitai.com/2026/08/478675.html)
+- [AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊](https://www.qbitai.com/2026/08/478670.html)
+- [一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一](https://www.qbitai.com/2026/08/478568.html)
 - [阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤](https://www.qbitai.com/2026/08/478473.html)
-- [单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布](https://www.qbitai.com/2026/08/478469.html)
-- [8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！](https://www.qbitai.com/2026/08/478447.html)
-- [阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”](https://www.qbitai.com/2026/08/478427.html)
 
 **🤖 Hacker News 热门**
-- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-- [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
-- [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
-- [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
-- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+- [Moon (2024)](https://ciechanow.ski/moon/)
+- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
 
