@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-25
-> 生成时间: 10:27 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-26
+> 生成时间: 02:23 (北京时间)
 
 **🌍 国际大事**
-- [Iran says it is 'fully prepared' to counter widened US economic sanctions](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
-- [Lockerbie bombing trial postponed days before it was due to start](https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss)
-- [UK drone factories may face attacks from 'unknown sources', says former Russian minister](https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss)
-- [US removes Syria from list of state sponsors of terrorism](https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss)
-- [What would justice look like if there were no Rohingya left in Myanmar?](https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss)
-- [Roadblocks and burning tyres in Libya protests over power cuts](https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss)
+- [Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss)
+- [China hits out at 'illegal' new US sanctions on Iran and trading partners](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss)
+- [CIA chief travels to Moscow for unannounced talks, US media reports](https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss)
+- [Mass arrests in global crackdown on West African cyber-crime networks](https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss)
+- [Water crisis makes life in Sudan’s El Obeid refugee camps even worse](https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss)
+- [Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan](https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss)
 
 **💻 科技前沿**
+- [从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划](https://www.qbitai.com/2026/08/479314.html)
 - [开源国产8B模型，比肩闭源Image 2了！](https://www.qbitai.com/2026/08/479192.html)
 - [半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司](https://www.qbitai.com/2026/08/479132.html)
 - [AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project](https://www.qbitai.com/2026/08/479096.html)
-- [赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”](https://www.qbitai.com/2026/08/478996.html)
 
 **🤖 Hacker News 热门**
-- [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
-- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
-- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
-- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
-- [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
+- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+- [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
+- [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+- [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
 
