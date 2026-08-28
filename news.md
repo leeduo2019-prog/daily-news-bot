@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-08-27
-> 生成时间: 20:07 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-28
+> 生成时间: 12:30 (北京时间)
 
 **🌍 国际大事**
-- [Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say](https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss)
-- [What we know about deadly Nepal-Tibet floods](https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss)
-- [Convicted Bosnian Serb war criminal Mladić dies aged 84](https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss)
-- [Norwegians lay flowers at palace as King Harald's condition worsens](https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss)
-- [How a glacial collapse caused Nepal’s catastrophic floods](https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss)
-- [People in Bosnia react to the death of Ratko Mladic, ‘butcher of Bosnia’](https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss)
+- [Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood](https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss)
+- [Who is Norway's new King Haakon VIII?](https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss)
+- ['Not far enough' - US parents and teens on Meta's new limits for young users](https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss)
+- [Trump signs order to rename Lake Ontario as Lake America](https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss)
+- [Armed raid on cattle camp kills at least 49 in South Sudan](https://www.aljazeera.com/news/2026/8/28/armed-raid-on-cattle-camp-kills-at-least-49-in-south-sudan?traffic_source=rss)
+- [US Open 2026: All to know about the schedule, top seeds and favourites](https://www.aljazeera.com/sports/2026/8/28/us-open-2026-all-to-know-about-the-schedule-top-seeds-and-favourites?traffic_source=rss)
 
 **💻 科技前沿**
-- [MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧](https://www.qbitai.com/2026/08/480092.html)
-- [基元律动累计融资数千万美元，推出“中国版OpenRouter”](https://www.qbitai.com/2026/08/480079.html)
-- [工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI](https://www.qbitai.com/2026/08/480005.html)
-- [千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%](https://www.qbitai.com/2026/08/480001.html)
+- [《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板](https://www.qbitai.com/2026/08/480666.html)
+- [刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%](https://www.qbitai.com/2026/08/480600.html)
+- [e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛](https://www.qbitai.com/2026/08/480591.html)
+- [首款癌症疫苗，一针300万？？？](https://www.qbitai.com/2026/08/480557.html)
 
 **🤖 Hacker News 热门**
+- [AI Agent Has Root](https://infernalcode.com/posts/your-ai-agent-has-root/)
+- [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
+- [Show HN: SubSmith – Turn your own videos into language-learning material](https://subsmith.app)
+- [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md)
 - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
-- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
-- [507 Mechanical Movements](https://507movements.com/)
-- [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
-- [Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
 
