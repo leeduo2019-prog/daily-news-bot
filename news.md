@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-08-28
-> 生成时间: 21:03 (北京时间)
+### 📰 每日新闻聚合 - 2026-08-29
+> 生成时间: 07:39 (北京时间)
 
 **🌍 国际大事**
+- [Footage of Tibet floods isn't being shown in China - and we know little about victims there](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss)
+- [Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil](https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss)
+- [Landlady to 9/11 hijackers reveals their links to alleged Saudi spy](https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss)
 - [Norway mourns King Harald as Haakon VIII ascends throne](https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss)
-- [Oslo mayor calls off wedding ceremony after death of Norway's king](https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss)
-- [Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say](https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss)
-- [Right-wing commentator Milo Yiannopoulos detained by ICE](https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss)
-- [Timeline: Life of Ratko Mladic, general turned ‘Butcher of Bosnia’](https://www.aljazeera.com/news/2026/8/28/timeline-life-of-ratko-mladic-general-turned-butcher-of-bosnia?traffic_source=rss)
-- [Colombia’s new president faces backlash over ‘inhumane’ deportation policy](https://www.aljazeera.com/news/2026/8/28/colombias-new-president-faces-backlash-over-inhumane-deportation-policy?traffic_source=rss)
+- [India and Pakistan are united in spending citizen lives like pocket change](https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss)
+- [Six months into the Iran war, a new Gulf security architecture is emerging](https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss)
 
 **💻 科技前沿**
 - [我的自媒体搭子太能卷，一顿饭功夫17份成品](https://www.qbitai.com/2026/08/480700.html)
@@ -16,9 +16,9 @@
 - [e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛](https://www.qbitai.com/2026/08/480591.html)
 
 **🤖 Hacker News 热门**
-- [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
+- [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
 - [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
 - [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
-- [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
-- [Isitdoneyet.gg is a website I made to figure out if games are complete](https://isitdoneyet.gg/)
 
