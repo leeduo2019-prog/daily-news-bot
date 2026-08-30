@@ -1,13 +1,13 @@
 ### 📰 每日新闻聚合 - 2026-08-30
-> 生成时间: 06:14 (北京时间)
+> 生成时间: 14:39 (北京时间)
 
 **🌍 国际大事**
-- [Footage of Tibet floods isn't being shown in China - and we know little about victims there](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss)
-- [Iceland EU referendum on a knife edge as counting continues](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss)
+- [Iceland votes against restarting talks on joining EU](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss)
+- [Manhunt after shooting at Swiss rave kills woman, 22, and injures five](https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss)
+- [Canada installs large Lake Ontario sign in latest jab at US](https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss)
 - [WhatsApp chat used to send cash for crime and extremism](https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss)
-- [At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot](https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss)
-- [Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised](https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss)
-- [Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil](https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss)
+- [Iceland votes to reject EU accession talks: What happens next?](https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss)
+- [Banque Misr, Egypt’s second-largest, hit by US sanctions: What to know](https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss)
 
 **💻 科技前沿**
 - [AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑](https://www.qbitai.com/2026/08/481372.html)
@@ -16,9 +16,9 @@
 - [20ms把PDF变成Markdown！开源OCR神器快了近300倍](https://www.qbitai.com/2026/08/481075.html)
 
 **🤖 Hacker News 热门**
-- [Bug Blindness](https://danluu.com/bug-blind/)
-- [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
-- [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
-- [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
-- [Creating Teensy ELF Executables for Linux (Or, "Size Is Everything")](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
+- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+- [What my dad taught me about AI coding in the 90s](https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/)
+- [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
+- [No AI Fridays](https://noaifridays.com/)
+- [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
 
