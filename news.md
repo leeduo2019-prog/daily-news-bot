@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-08-31
-> 生成时间: 06:40 (北京时间)
+> 生成时间: 17:22 (北京时间)
 
 **🌍 国际大事**
-- [Eight killed and 18 missing after ferry capsizes off northern Cyprus](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
+- [Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
 - [US and Iran trade strikes for first time in weeks](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
-- [Iceland votes against restarting EU membership talks](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss)
-- [Manhunt after shooting at Swiss rave kills woman, 22, and injures five](https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss)
-- [FIFA president Infantino ‘must go’, says former UEFA boss Platini](https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss)
-- [Aston Villa vs Arsenal: Premier League – prediction, team news, lineups](https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss)
+- [Man arrested after Swiss rave shooting that killed woman](https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss)
+- [The jury's options in Lindsay Clancy's murder trial](https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss)
+- [Principal who saved 900 students recalls Nepal’s devastating flood](https://www.aljazeera.com/video/newsfeed/2026/8/31/principal-who-saved-900-students-recalls-nepals-devastating-flood?traffic_source=rss)
+- [Vance says Trump ‘sending a message’ to Iran with AI-generated video](https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss)
 
 **💻 科技前沿**
+- [VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」](https://www.qbitai.com/2026/08/481928.html)
+- [滴滴自动驾驶新一代车型开启载客测试服务](https://www.qbitai.com/2026/08/481923.html)
+- [范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业](https://www.qbitai.com/2026/08/481919.html)
 - [「GPT-6」灰测demo刷屏！周四发布在即](https://www.qbitai.com/2026/08/481893.html)
-- [OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了](https://www.qbitai.com/2026/08/481759.html)
-- [全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队](https://www.qbitai.com/2026/08/481750.html)
-- [AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验](https://www.qbitai.com/2026/08/481475.html)
 
 **🤖 Hacker News 热门**
-- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
-- [OpenClaw 2.0, Accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
-- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
-- [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/)
+- [Playa Phone](https://playaphone.com/)
+- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- [ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source](https://ravynos.com/)
+- [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
+- [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
 
