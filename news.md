@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-09-01
-> 生成时间: 14:29 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-02
+> 生成时间: 05:27 (北京时间)
 
 **🌍 国际大事**
-- ['I've never been to Afghanistan': Six million deportees forced to start over under the Taliban](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss)
-- [Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
-- [Sexual assaults happening almost every day in Ceuta, prosecutors say](https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss)
-- [Israel says senior Hamas member seized as strikes kill three during Gaza raid](https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss)
-- [SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit](https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss)
-- [Irish minister calls for EU action in banning Israeli settlement trade](https://www.aljazeera.com/video/newsfeed/2026/9/1/irish-minister-calls-for-eu-action-in-banning-israeli-settlement-trade?traffic_source=rss)
+- [Iran attacks US bases in Middle East after reports US strike killed five at wedding party](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
+- [Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
+- [Tiger Woods to change plea after crash arrest](https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss)
+- [Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations](https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss)
+- [Germany says Russia preparing ‘hybrid’ attacks over Ukraine support](https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss)
+- [Hong Kong activist Joshua Wong pleads guilty to foreign collusion](https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss)
 
 **💻 科技前沿**
-- [3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径](https://www.qbitai.com/2026/09/482512.html)
-- [GitHub最热架构图Agent，开发者故事看哭了](https://www.qbitai.com/2026/09/482469.html)
-- [急急急用电！马斯克开造燃气轮机叶片](https://www.qbitai.com/2026/09/482451.html)
-- [A社化身A割！Claude官宣永久提额25%，结果到手反而少17%](https://www.qbitai.com/2026/09/482406.html)
+- [企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资](https://www.qbitai.com/2026/09/482967.html)
+- [Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线](https://www.qbitai.com/2026/09/482652.html)
+- [香港首个真实开放场景服务机器人落地兰桂坊](https://www.qbitai.com/2026/09/482855.html)
+- [巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS](https://www.qbitai.com/2026/09/482699.html)
 
 **🤖 Hacker News 热门**
-- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
-- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
-- [American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/)
-- [Fastpotify](https://fastpotify.rocks/)
-- [Benchmarking Vector Indexes](https://www.percona.com/blog/benchmarking-vector-indexes/)
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- [True Rate of Unemployment](https://www.lisep.org/tru)
+- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+- [WebFPGA](https://webfpga.io/)
 
