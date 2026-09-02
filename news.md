@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-02
-> 生成时间: 05:27 (北京时间)
+> 生成时间: 14:02 (北京时间)
 
 **🌍 国际大事**
-- [Iran attacks US bases in Middle East after reports US strike killed five at wedding party](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
-- [Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
-- [Tiger Woods to change plea after crash arrest](https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss)
+- [EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany](https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss)
+- [Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West](https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss)
+- [US sailors arrive in Thailand's Pattaya after record 250 days at sea](https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss)
 - [Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations](https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss)
-- [Germany says Russia preparing ‘hybrid’ attacks over Ukraine support](https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss)
-- [Hong Kong activist Joshua Wong pleads guilty to foreign collusion](https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss)
+- [EU or Eurasia: Why Putin sparred with Armenia’s PM](https://www.aljazeera.com/news/2026/9/2/eu-or-eurasia-why-putin-sparred-with-armenias-pm?traffic_source=rss)
+- [In Yemen, dates provide lifeline for farmers with few economic options](https://www.aljazeera.com/features/2026/9/2/in-yemen-dates-provide-lifeline-for-farmers-with-few-economic-options?traffic_source=rss)
 
 **💻 科技前沿**
-- [企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资](https://www.qbitai.com/2026/09/482967.html)
-- [Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线](https://www.qbitai.com/2026/09/482652.html)
-- [香港首个真实开放场景服务机器人落地兰桂坊](https://www.qbitai.com/2026/09/482855.html)
-- [巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS](https://www.qbitai.com/2026/09/482699.html)
+- [SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来](https://www.qbitai.com/2026/09/483274.html)
+- [还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍](https://www.qbitai.com/2026/09/483104.html)
+- [阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一](https://www.qbitai.com/2026/09/483101.html)
+- [前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局](https://www.qbitai.com/2026/09/483097.html)
 
 **🤖 Hacker News 热门**
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- [True Rate of Unemployment](https://www.lisep.org/tru)
-- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
-- [WebFPGA](https://webfpga.io/)
+- [A Note from LWN](https://lwn.net/Articles/1090585/)
+- [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
+- [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
+- [A Small Telescope That Surprised Me](https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/)
+- [Just Bury Your Trash](https://www.worksinprogress.news/p/just-bury-your-trash)
 
