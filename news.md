@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-09-03
-> 生成时间: 14:05 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-04
+> 生成时间: 05:31 (北京时间)
 
 **🌍 国际大事**
-- [UN warns of 'supersized' El Niño as countries prepare for impact](https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss)
-- [Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies](https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss)
-- [Feminist activist and journalist Gloria Steinem dies, aged 92](https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss)
-- [Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply](https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss)
-- [Kais Saied’s economic experiment has failed Tunisia](https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia?traffic_source=rss)
-- [Victims sue South African government over 1960 Sharpeville massacre](https://www.aljazeera.com/video/newsfeed/2026/9/3/victims-sue-south-african-governed-over-1960-sharpeville-massacre?traffic_source=rss)
+- [Nepal says it will need billions in funding to rebuild after flash floods](https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss)
+- [Tensions flare as judge declines to remove juror in Lindsay Clancy trial](https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss)
+- [Argentine leader threatens to sanction oil firms working off Falklands](https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss)
+- [US investigating if missile hit Iran wedding, Vance says](https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss)
+- [No shelter or water, yet Lebanese return home, defying Israel.](https://www.aljazeera.com/video/newsfeed/2026/9/4/aje-onl-nf_south-lebanon-residents-return-to-devastated-villages-040926?traffic_source=rss)
+- [Argentina’s Milei threatens sanctions over Falklands oil drilling](https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss)
 
 **💻 科技前沿**
-- [“没有Token的CS学生，应立即退学”](https://www.qbitai.com/2026/09/483839.html)
-- [腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场](https://www.qbitai.com/2026/09/483786.html)
-- [世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！](https://www.qbitai.com/2026/09/483189.html)
-- [陈大年复出，入局大模型](https://www.qbitai.com/2026/09/483600.html)
+- [常州女首富机器人转型才开始，先因裁应届生上了热搜](https://www.qbitai.com/2026/09/483984.html)
+- [卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”](https://www.qbitai.com/2026/09/483598.html)
+- [新版GPT Image 2.5已经能伪造GPT-6发布会了](https://www.qbitai.com/2026/09/483948.html)
+- [刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代](https://www.qbitai.com/2026/09/483898.html)
 
 **🤖 Hacker News 热门**
-- [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
-- [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
-- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
-- [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
-- [Invisible Companies](https://colossus.com/article/invisible-companies/)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+- [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
 
