@@ -1,13 +1,13 @@
 ### 📰 每日新闻聚合 - 2026-09-05
-> 生成时间: 05:16 (北京时间)
+> 生成时间: 13:13 (北京时间)
 
 **🌍 国际大事**
 - [Mistrial declared in Lindsay Clancy murder case, after jury deadlocks](https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss)
-- [Trump's peace envoys to visit Moscow and Kyiv over weekend](https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss)
+- [US envoys arrive in Moscow ahead of Ukraine talks](https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss)
 - [Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect](https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss)
-- [UN votes to adopt new world map to reflect Africa's true size](https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss)
-- [‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire](https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss)
-- [UN approves new map showing Africa’s true size](https://www.aljazeera.com/video/newsfeed/2026/9/5/un-approves-new-map-showing-africas-true-size?traffic_source=rss)
+- [Nepal rescuers try to reach dozens trapped in tunnel after two found alive](https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss)
+- [At least four civilians killed in Houthi missile strike near Yemen’s Taiz](https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss)
+- [How big is Africa really? Why the UN voted to change the world map](https://www.aljazeera.com/news/2026/9/5/how-big-is-africa-really-why-the-un-voted-to-change-the-world-map?traffic_source=rss)
 
 **💻 科技前沿**
 - [陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕](https://www.qbitai.com/2026/09/484649.html)
@@ -17,8 +17,8 @@
 
 **🤖 Hacker News 热门**
 - [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 - [Statichost.eu – European static site hosting](https://www.statichost.eu/)
-- [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
 
