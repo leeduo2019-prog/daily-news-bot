@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-09-07
-> 生成时间: 15:28 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-08
+> 生成时间: 05:36 (北京时间)
 
 **🌍 国际大事**
+- [Flight recorders recovered from Amazon cargo plane crash](https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss)
+- [Palestinian parents fear for children's lives at school as settler attacks grow](https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss)
 - [Germany's far-right AfD says 'democracy demands' parties work with them after state election win](https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss)
-- [Israeli strikes in southern Lebanese village kill 12](https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss)
-- [New videos of man in 9/11 lawsuit reveal extremist links](https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss)
-- [Probe begins into why cargo plane overran Miami runway](https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss)
-- [How the media manufactured consent for genocide](https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss)
-- [Germany’s AfD wins in key state: Is far-right on cusp of national rule?](https://www.aljazeera.com/news/2026/9/7/germanys-afd-wins-in-key-state-is-far-right-on-cusp-of-national-rule?traffic_source=rss)
+- [Eiffel Tower shut by staff protest after female workers moved for religious visit](https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss)
+- [Forest fires force evacuations near resorts in Antalya](https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss)
+- [Mladic’s funeral: Were no lessons learned?](https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss)
 
 **💻 科技前沿**
+- [深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座](https://www.qbitai.com/2026/09/485784.html)
+- [深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递](https://www.qbitai.com/2026/09/485630.html)
+- [王云鹤创业后交出首个模型](https://www.qbitai.com/2026/09/485555.html)
 - [3秒变身！会合体的机器人，卖到全球50国](https://www.qbitai.com/2026/09/485525.html)
-- [GPT-6不只Astra！Sol内测结果曝光，速度快6倍](https://www.qbitai.com/2026/09/485431.html)
-- [DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布](https://www.qbitai.com/2026/09/485154.html)
-- [菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3](https://www.qbitai.com/2026/09/485108.html)
 
 **🤖 Hacker News 热门**
-- [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
-- [bzip3](https://github.com/iczelia/bzip3)
-- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
-- [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
+- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way)
+- [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
+- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
 
