@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-09
-> 生成时间: 05:43 (北京时间)
+> 生成时间: 14:07 (北京时间)
 
 **🌍 国际大事**
-- [UK announces sanctions on West Bank settlements prompting furious Israeli response](https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss)
-- [Paul Adams: British-Israeli relations at lowest ebb in decades](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss)
-- [US slaps import ban on Canadian alcohol, motorbikes and other goods](https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss)
-- ['Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on](https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss)
-- [Jessica Pegula beats Emma Navarro to set up Sabalenka semifinal at US Open](https://www.aljazeera.com/sports/2026/9/9/jessica-pegula-beats-emma-navarro-to-set-up-sabalenka-semifinal-at-us-open?traffic_source=rss)
-- [600-year-old tomb of pre-Incan Chimu kingdom found in Peru](https://www.aljazeera.com/video/newsfeed/2026/9/9/600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru?traffic_source=rss)
+- [Germany's Merz attacks AfD in stormy debate after far-right election win](https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss)
+- [Oil hits $100 a barrel for first time since July after US and Houthi strikes](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss)
+- [US to ban imports of some Canadian alcohol, dairy goods and motorbikes](https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss)
+- [Russia and Ukraine exchange strikes as two killed at Moldova border](https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss)
+- [Dortmund’s Karetsas hospitalised after collapsing in Champions League match](https://www.aljazeera.com/sports/2026/9/9/dortmunds-karetsas-hospitalised-after-collapsing-in-champions-league-match?traffic_source=rss)
+- [Nigeria, Boko Haram reportedly reach secret three-month ceasefire](https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss)
 
 **💻 科技前沿**
+- [实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug](https://www.qbitai.com/2026/09/486374.html)
+- [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
+- [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
 - [具身机器人能搞定超市盘点吗？全球七万门店正在给出答案](https://www.qbitai.com/2026/09/486280.html)
-- [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
-- [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
-- [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
 
 **🤖 Hacker News 热门**
-- [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
-- [Tension wood: A 'muscle' that can both bend and straighten plants](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
-- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-- [Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field](https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/)
-- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+- [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+- [Flock Wants a Closely Surveilled World with No Exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+- [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
+- [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
+- [Claude, change the "Add to Cart" button to blue](https://opusfived.dev/)
 
