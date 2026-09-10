@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-10
-> 生成时间: 05:36 (北京时间)
+> 生成时间: 14:02 (北京时间)
 
 **🌍 国际大事**
+- [Trump says every adult American will get $5,000 if Republicans win midterms](https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss)
+- [Watch: Is Trump's $5,000 election pledge legal?](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss)
 - [Iran war won't end until after crucial November elections, says Trump](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss)
-- [Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention](https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss)
 - [Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry](https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss)
-- [Spanish intelligence warned of Ceuta mass crossing plans before surge](https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss)
-- [Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia](https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss)
-- [Ukrainian drones strike Russian Caspian Sea port in Dagestan](https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss)
+- [French Football Federation withdraws support for FIFA President Infantino](https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss)
+- [Multicultural Malmo: Swedish city loathed by far right braces for election](https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss)
 
 **💻 科技前沿**
-- [打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果](https://www.qbitai.com/2026/09/486436.html)
-- [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
-- [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
-- [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
+- [ECCV上，顶尖学者们开始研究如何让AI做生意了](https://www.qbitai.com/2026/09/486934.html)
+- [全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口](https://www.qbitai.com/2026/09/486900.html)
+- [全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源](https://www.qbitai.com/2026/09/486747.html)
+- [这个新开源的世界模型只有1.3B，单卡就能实时跑！](https://www.qbitai.com/2026/09/486716.html)
 
 **🤖 Hacker News 热门**
-- [iPhone Duo](https://www.apple.com/iphone-duo/)
-- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
-- [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
-- [ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol](https://geo-tp.github.io/ESP32-Bit-Pirate/)
-- [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
+- [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
+- [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
+- [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+- [List of references on Sony websites to players "owning" their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
+- [Tell HN: OpenAI keeps re-enabling the 'allow training' setting](https://news.ycombinator.com/item?id=49643556)
 
