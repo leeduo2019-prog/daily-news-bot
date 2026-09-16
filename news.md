@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-16
-> 生成时间: 05:38 (北京时间)
+> 生成时间: 14:33 (北京时间)
 
 **🌍 国际大事**
+- [EU chief backs plan for Canada to become 'associate member'](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
+- [OpenAI boss says world 'right to be afraid' but should trust AI firms](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)
 - [All support acts on Ed Sheeran's US tour quit after Macklemore dropped](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
-- [Denmark says Russian warship fired flares at military helicopter](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss)
-- [What weapon could the US have put into space?](https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss)
-- [South African president vows justice as more women's bodies found near Johannesburg](https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss)
-- [At least 10 dead, dozens missing in Gaza building collapse](https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss)
-- [Gaza residential building collapses, six families reportedly trapped](https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss)
+- [Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say](https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss)
+- [Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’](https://www.aljazeera.com/news/2026/9/16/four-years-on-iranians-reflect-on-impact-of-woman-life?traffic_source=rss)
+- [Why are election officials in the US preparing for chaos before midterms?](https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss)
 
 **💻 科技前沿**
-- [量子位2026人工智能年度榜单，正式启动！](https://www.qbitai.com/2026/09/490329.html)
-- [被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」](https://www.qbitai.com/2026/09/490185.html)
-- [把记忆交给CPU，大模型会变快](https://www.qbitai.com/2026/09/489724.html)
-- [实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招](https://www.qbitai.com/2026/09/490109.html)
+- [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
+- [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
+- [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
+- [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
 
 **🤖 Hacker News 热门**
-- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
-- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
-- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-- [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
-- [Show HN: I made a flight simulator, except you're just a passenger](https://inflightsimulator.com)
+- [OpenAI Expands ChatGPT Ads with Sponsored Agents](https://openai.com/index/reimagining-advertising-with-ai/)
+- [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
+- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
+- [Salesforce Global Outage](https://status.salesforce.com/products/all)
+- [ImpactGate: A merge gate that scores the structural decay AI adds](https://github.com/officefloor/ImpactGate)
 
