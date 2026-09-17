@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-17
-> 生成时间: 05:45 (北京时间)
+> 生成时间: 14:40 (北京时间)
 
 **🌍 国际大事**
+- [Ninth woman's body found as South African police investigate string of deaths](https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss)
 - [Assad regime planned US journalist's kidnap for weeks, BBC finds](https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss)
-- [US interest rates raised for first time in three years](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss)
-- [Snapchat open to putting time limits on teens, boss tells BBC](https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss)
-- [Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter](https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss)
-- [Argentinian judge orders suspension of Falklands oil project](https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss)
-- [Trump threatens to end trade with Mexico and Europe after rate hike](https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss)
+- [Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss)
+- [Swedish PM Kristersson resigns after election loss](https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss)
+- [Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?](https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss)
+- [India-Pakistan navy ship collision sparks alarm over unintended escalation](https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss)
 
 **💻 科技前沿**
-- [首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利](https://www.qbitai.com/2026/09/491147.html)
-- [国产RSI模型交卷！Flash模型靠它反打旗舰](https://www.qbitai.com/2026/09/491091.html)
-- [比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌](https://www.qbitai.com/2026/09/491062.html)
-- [网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”](https://www.qbitai.com/2026/09/490974.html)
+- [从“会回答”到“会办事”，vivo如何解AI手机这道题？](https://www.qbitai.com/2026/09/491649.html)
+- [Claude Code团队讲究啊，这都往外说](https://www.qbitai.com/2026/09/491596.html)
+- [图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家](https://www.qbitai.com/2026/09/491522.html)
+- [央企做了个通用Agent，直接杀进IDC实测前三！](https://www.qbitai.com/2026/09/491454.html)
 
 **🤖 Hacker News 热门**
-- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+- [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
+- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+- [I had Gemini train its own replacement for $9](https://www.petervijeh.com/projects/reddit-ner)
 - [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
-- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
-- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 
