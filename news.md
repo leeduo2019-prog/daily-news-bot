@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-09-16
-> 生成时间: 14:33 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-17
+> 生成时间: 05:45 (北京时间)
 
 **🌍 国际大事**
-- [EU chief backs plan for Canada to become 'associate member'](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
-- [OpenAI boss says world 'right to be afraid' but should trust AI firms](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)
-- [All support acts on Ed Sheeran's US tour quit after Macklemore dropped](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
-- [Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say](https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss)
-- [Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’](https://www.aljazeera.com/news/2026/9/16/four-years-on-iranians-reflect-on-impact-of-woman-life?traffic_source=rss)
-- [Why are election officials in the US preparing for chaos before midterms?](https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss)
+- [Assad regime planned US journalist's kidnap for weeks, BBC finds](https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss)
+- [US interest rates raised for first time in three years](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss)
+- [Snapchat open to putting time limits on teens, boss tells BBC](https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss)
+- [Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter](https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss)
+- [Argentinian judge orders suspension of Falklands oil project](https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss)
+- [Trump threatens to end trade with Mexico and Europe after rate hike](https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss)
 
 **💻 科技前沿**
-- [通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队](https://www.qbitai.com/2026/09/490839.html)
-- [AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生](https://www.qbitai.com/2026/09/490760.html)
-- [高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代](https://www.qbitai.com/2026/09/490756.html)
-- [基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用](https://www.qbitai.com/2026/09/490750.html)
+- [首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利](https://www.qbitai.com/2026/09/491147.html)
+- [国产RSI模型交卷！Flash模型靠它反打旗舰](https://www.qbitai.com/2026/09/491091.html)
+- [比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌](https://www.qbitai.com/2026/09/491062.html)
+- [网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”](https://www.qbitai.com/2026/09/490974.html)
 
 **🤖 Hacker News 热门**
-- [OpenAI Expands ChatGPT Ads with Sponsored Agents](https://openai.com/index/reimagining-advertising-with-ai/)
-- [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
-- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
-- [Salesforce Global Outage](https://status.salesforce.com/products/all)
-- [ImpactGate: A merge gate that scores the structural decay AI adds](https://github.com/officefloor/ImpactGate)
+- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
+- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
 
