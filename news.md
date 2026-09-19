@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-09-18
-> 生成时间: 14:04 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-19
+> 生成时间: 05:29 (北京时间)
 
 **🌍 国际大事**
-- [Russian hybrid attacks against Europe intensifying, says Macron](https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss)
-- [Three dead and eight injured in Philippines school shooting](https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss)
-- [Police begin operation to move migrants from Ceuta beaches](https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss)
-- [Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children](https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss)
-- [Ronaldo keeps Portugal place for Nations League as Jesus names first squad](https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss)
-- [Video: Students flee deadly school shooting in the Philippines](https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss)
+- [US and Denmark reach deal over Greenland after Trump annexation threats](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+- [Trump says he is banning CNN and Politico from White House](https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss)
+- [Google's Gemini AI hacked three companies in security test](https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss)
+- [Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks](https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss)
+- [UK jails teen asylum seeker for steering overcrowded Channel migrant boat](https://www.aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat?traffic_source=rss)
+- [Japan has record 100,000 people aged over 100: How societies are ageing](https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss)
 
 **💻 科技前沿**
+- [无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向](https://www.qbitai.com/2026/09/492426.html)
+- [达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布](https://www.qbitai.com/2026/09/492421.html)
+- [具身智能技术路线尚未定型，基础设施却先收敛](https://www.qbitai.com/2026/09/492238.html)
 - [AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢](https://www.qbitai.com/2026/09/492175.html)
-- [白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经](https://www.qbitai.com/2026/09/492015.html)
-- [AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线](https://www.qbitai.com/2026/09/491875.html)
-- [Manus重生第17天，估值居然就翻倍了](https://www.qbitai.com/2026/09/491764.html)
 
 **🤖 Hacker News 热门**
-- [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
-- [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
-- [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
-- [OpenJev](https://openjev.com/)
-- [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+- [San Francisco Onion Futures Company](https://onionfutures.com/)
+- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
+- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
+- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
+- [Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step](https://github.com/awlevin/typesafe-computer-use)
 
