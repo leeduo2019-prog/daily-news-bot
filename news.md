@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-21
-> 生成时间: 05:54 (北京时间)
+> 生成时间: 16:10 (北京时间)
 
 **🌍 国际大事**
-- [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
-- [Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
-- [Ed Sheeran admits 'mistakes' at first show since Macklemore controversy](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
-- [Trump says triumphal arch will be military complex with drones and snipers](https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss)
-- [Iran’s military says US preparing to resume strikes](https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss)
-- [Massive explosions at Syrian army weapons depot near Aleppo](https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss)
+- [Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss)
+- [Merz vows to keep coalition together for Germany's 'democratic future'](https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss)
+- [CNN, MS NOW and Politico file lawsuit against Trump's White House ban](https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss)
+- [Millions urged to evacuate as powerful Typhoon Dujuan hits Japan](https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss)
+- [Antonio Guterres: Can the UN still meet today’s global crises?](https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss)
+- [US threatens to ground Iranian airlines worldwide from Wednesday](https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss)
 
 **💻 科技前沿**
-- [开源Top2！实测阶跃Step 5 Preview，真有点猛啊…](https://www.qbitai.com/2026/09/493179.html)
-- [中国Neocloud市场第一！商汤大装置全面领跑](https://www.qbitai.com/2026/09/493175.html)
-- [百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布](https://www.qbitai.com/2026/09/493114.html)
-- [IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分](https://www.qbitai.com/2026/09/493109.html)
+- [SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！](https://www.qbitai.com/2026/09/493268.html)
+- [啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了](https://www.qbitai.com/2026/09/493241.html)
+- [长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案](https://www.qbitai.com/2026/09/493235.html)
+- [国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单](https://www.qbitai.com/2026/09/493231.html)
 
 **🤖 Hacker News 热门**
-- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
-- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
-- [Winning the Visa Lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
-- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+- [What Sun Got Wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
+- [Disney+: New user agreement allows ads before movies in all subscriptions](https://consumerrights.wiki/w/Disney%2B_ad_policy_change)
+- [Uber arbitration award over Emily Normandin-Parker's death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
+- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
 
