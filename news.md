@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-09-20
-> 生成时间: 13:54 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-21
+> 生成时间: 05:54 (北京时间)
 
 **🌍 国际大事**
+- [German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)
 - [Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
 - [Ed Sheeran admits 'mistakes' at first show since Macklemore controversy](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
-- [German elections under way which could decide fate of Chancellor Merz](https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss)
-- [Houthis say they targeted Saudi capital with ballistic missiles](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
-- [Netanyahu tours tunnels underneath Al-Aqsa Mosque compound](https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss)
-- [Iran win Asian Games basketball bronze amid emotional scenes](https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss)
+- [Trump says triumphal arch will be military complex with drones and snipers](https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss)
+- [Iran’s military says US preparing to resume strikes](https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss)
+- [Massive explosions at Syrian army weapons depot near Aleppo](https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss)
 
 **💻 科技前沿**
-- [一张3090就能跑！全栈国产模型，把AI办公搬到企业本地](https://www.qbitai.com/2026/09/492946.html)
-- [APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策](https://www.qbitai.com/2026/09/492939.html)
-- [谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！](https://www.qbitai.com/2026/09/492912.html)
-- [预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店](https://www.qbitai.com/2026/09/492873.html)
+- [开源Top2！实测阶跃Step 5 Preview，真有点猛啊…](https://www.qbitai.com/2026/09/493179.html)
+- [中国Neocloud市场第一！商汤大装置全面领跑](https://www.qbitai.com/2026/09/493175.html)
+- [百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布](https://www.qbitai.com/2026/09/493114.html)
+- [IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分](https://www.qbitai.com/2026/09/493109.html)
 
 **🤖 Hacker News 热门**
-- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
-- [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
-- [The Millennium Problems for Biology](https://millenniumproblems.bio/)
-- [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
-- [Teen Social Media Bans Miss the Point](https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/)
+- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+- [Winning the Visa Lottery](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
 
