@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-23
-> 生成时间: 05:29 (北京时间)
+> 生成时间: 14:38 (北京时间)
 
 **🌍 国际大事**
-- [Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines](https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss)
-- [Burnham expects to find 'common ground' with Trump in first meeting](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
-- [US to build two military bases in Greenland under new deal with Denmark](https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss)
-- [How Ceuta, football and Israel are shaping Morocco's election](https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss)
-- [Cooperation is the goal at the UNGA, but is it possible?](https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss)
-- [Six-year-old sets Rubik’s Cube world record twice in three days](https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss)
+- [US and Iran hold first talks since June after Trump's 'annihilation' threat](https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss)
+- [Reports of violence against women in Gaza surge, UN agency finds](https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss)
+- [Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war](https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss)
+- [Dramatic eviction of woman aged 87 highlights Spain's housing shortage](https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss)
+- [Moroccans head to polls amid economic uncertainty to decide next parliament](https://www.aljazeera.com/news/2026/9/23/moroccans-head-to-polls-amid-economic-uncertainty-to-decide-next-parliament?traffic_source=rss)
+- [How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?](https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss)
 
 **💻 科技前沿**
-- [GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了](https://www.qbitai.com/2026/09/496170.html)
-- [Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折](https://www.qbitai.com/2026/09/496221.html)
-- [刷视频也能教会机器人干活！1200亿tokens人类动作预训练，误差按幂律下降](https://www.qbitai.com/2026/09/496129.html)
-- [滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可](https://www.qbitai.com/2026/09/496124.html)
+- [联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧](https://www.qbitai.com/2026/09/496609.html)
+- [让Token生产更高效：异构混推的关键技术演进与创新实践](https://www.qbitai.com/2026/09/496578.html)
+- [汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”](https://www.qbitai.com/2026/09/496493.html)
+- [达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”](https://www.qbitai.com/2026/09/496494.html)
 
 **🤖 Hacker News 热门**
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
-- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
-- [Transit rewards (Waymo pays you to take the train)](https://waymo.com/blog/2026/09/transit-rewards/)
-- [Data-only attacks are easier than you think (2024)](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
-- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- [Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
+- [The GitHub wiki is an anti-pattern](https://michaelheap.com/github-wiki-is-an-antipattern/)
+- [I Don't Want the Details](https://michaelheap.com/i-dont-want-the-details/)
+- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+- [Z80 REPL](https://abagames.github.io/z80-repl/index.html)
 
