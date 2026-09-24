@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-24
-> 生成时间: 05:51 (北京时间)
+> 生成时间: 14:36 (北京时间)
 
 **🌍 国际大事**
-- [OpenAI agent 'infiltrated' Australian government website, PM says](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
-- [AI superpower ambitions take centre stage as Trump and Xi meet](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss)
-- [Iran's president tells Trump it will never 'bend the knee'](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss)
-- [Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war](https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss)
-- [OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy](https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss)
-- [Sikorski: Russia doesn’t have the forces to invade NATO](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_russia-doesnt-have-theforces-to-invade-nato-240926?traffic_source=rss)
+- [Rogue OpenAI agent 'infiltrated' Australian government website in world first](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
+- [Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss)
+- [Ethiopia's army says it has repelled attacks in first comment on fresh fighting](https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss)
+- [Judge temporarily overturns Trump's White House media ban](https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss)
+- [Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?](https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss)
+- [Israel offers cash to firms hit by trade ban; Europe dithers on new rules](https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss)
 
 **💻 科技前沿**
-- [出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意](https://www.qbitai.com/2026/09/496740.html)
-- [海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶](https://www.qbitai.com/2026/09/496658.html)
-- [Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT](https://www.qbitai.com/2026/09/496647.html)
-- [成立九年，中科类脑把积累装进Token工厂](https://www.qbitai.com/2026/09/496615.html)
+- [时隔十年，AI大牛署名新论文](https://www.qbitai.com/2026/09/496834.html)
+- [GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案](https://www.qbitai.com/2026/09/496816.html)
+- [Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长](https://www.qbitai.com/2026/09/496779.html)
+- [教机器人干活，光“刷课时”可不够！灵初这次较真数据质量](https://www.qbitai.com/2026/09/496778.html)
 
 **🤖 Hacker News 热门**
+- [Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection](https://macanorak.com/two-tier-encryption-in-the-uk/)
+- [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
+- [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich)
+- [Best LLM for every budget, updated daily](https://bestmodelforyourbudget.terrydjony.com/)
 - [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
-- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
-- [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
-- [Making portable my unportable transputer C compiler](https://nanochess.org/transputer_c_compiler.html)
-- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
 
