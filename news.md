@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-09-23
-> 生成时间: 14:38 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-24
+> 生成时间: 05:51 (北京时间)
 
 **🌍 国际大事**
-- [US and Iran hold first talks since June after Trump's 'annihilation' threat](https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss)
-- [Reports of violence against women in Gaza surge, UN agency finds](https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss)
+- [OpenAI agent 'infiltrated' Australian government website, PM says](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
+- [AI superpower ambitions take centre stage as Trump and Xi meet](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss)
+- [Iran's president tells Trump it will never 'bend the knee'](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss)
 - [Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war](https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss)
-- [Dramatic eviction of woman aged 87 highlights Spain's housing shortage](https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss)
-- [Moroccans head to polls amid economic uncertainty to decide next parliament](https://www.aljazeera.com/news/2026/9/23/moroccans-head-to-polls-amid-economic-uncertainty-to-decide-next-parliament?traffic_source=rss)
-- [How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?](https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss)
+- [OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy](https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss)
+- [Sikorski: Russia doesn’t have the forces to invade NATO](https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_russia-doesnt-have-theforces-to-invade-nato-240926?traffic_source=rss)
 
 **💻 科技前沿**
-- [联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧](https://www.qbitai.com/2026/09/496609.html)
-- [让Token生产更高效：异构混推的关键技术演进与创新实践](https://www.qbitai.com/2026/09/496578.html)
-- [汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”](https://www.qbitai.com/2026/09/496493.html)
-- [达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”](https://www.qbitai.com/2026/09/496494.html)
+- [出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意](https://www.qbitai.com/2026/09/496740.html)
+- [海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶](https://www.qbitai.com/2026/09/496658.html)
+- [Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT](https://www.qbitai.com/2026/09/496647.html)
+- [成立九年，中科类脑把积累装进Token工厂](https://www.qbitai.com/2026/09/496615.html)
 
 **🤖 Hacker News 热门**
-- [Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
-- [The GitHub wiki is an anti-pattern](https://michaelheap.com/github-wiki-is-an-antipattern/)
-- [I Don't Want the Details](https://michaelheap.com/i-dont-want-the-details/)
-- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
-- [Z80 REPL](https://abagames.github.io/z80-repl/index.html)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
+- [Making portable my unportable transputer C compiler](https://nanochess.org/transputer_c_compiler.html)
+- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
 
