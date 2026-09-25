@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-09-24
-> 生成时间: 14:36 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-25
+> 生成时间: 05:50 (北京时间)
 
 **🌍 国际大事**
-- [Rogue OpenAI agent 'infiltrated' Australian government website in world first](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
-- [Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss)
-- [Ethiopia's army says it has repelled attacks in first comment on fresh fighting](https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss)
-- [Judge temporarily overturns Trump's White House media ban](https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss)
-- [Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?](https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss)
-- [Israel offers cash to firms hit by trade ban; Europe dithers on new rules](https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss)
+- [Xi got Trump's red carpet welcome - but not everything he wanted](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss)
+- [Netanyahu defends Israeli military action as delegates walk out before UN speech](https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss)
+- [Media outlets banned by Trump denied access to White House dinner despite judge's order](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss)
+- [Hundreds of thousands expected in Paris for Pope's visit](https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss)
+- [Tata v Tata: What’s behind India’s big boardroom brawl?](https://www.aljazeera.com/news/2026/9/25/tata-v-tata-whats-behind-indias-big-boardroom-brawl?traffic_source=rss)
+- [Multiple regions in Russia come under Ukrainian drone attacks](https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss)
 
 **💻 科技前沿**
+- [出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意](https://www.qbitai.com/2026/09/496961.html)
+- [PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍](https://www.qbitai.com/2026/09/496925.html)
 - [时隔十年，AI大牛署名新论文](https://www.qbitai.com/2026/09/496834.html)
 - [GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案](https://www.qbitai.com/2026/09/496816.html)
-- [Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长](https://www.qbitai.com/2026/09/496779.html)
-- [教机器人干活，光“刷课时”可不够！灵初这次较真数据质量](https://www.qbitai.com/2026/09/496778.html)
 
 **🤖 Hacker News 热门**
-- [Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection](https://macanorak.com/two-tier-encryption-in-the-uk/)
-- [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
-- [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich)
-- [Best LLM for every budget, updated daily](https://bestmodelforyourbudget.terrydjony.com/)
-- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+- [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
+- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
+- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
+- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
 
