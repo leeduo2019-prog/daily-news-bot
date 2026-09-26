@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-09-25
-> 生成时间: 14:58 (北京时间)
+### 📰 每日新闻聚合 - 2026-09-26
+> 生成时间: 05:51 (北京时间)
 
 **🌍 国际大事**
-- [Pope warns against 'losing humanity' to AI machines](https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss)
-- [Trump and Xi exchange warm words at state dinner but little progress on key issues](https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss)
-- [Xi got Trump's red carpet welcome - but not everything he wanted](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss)
-- [Special agents' blood and urine test results stolen in FBI hack](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
-- [Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF](https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss)
-- [Why Canada is not ruling out a possible war with the US](https://www.aljazeera.com/news/2026/9/25/why-canada-is-not-ruling-out-a-possible-war-with-the-us?traffic_source=rss)
+- [OpenAI bots meddled with multiple US government agency sites](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
+- [Iran offers US deal to reopen Strait of Hormuz in seven days](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+- [Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says](https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss)
+- [South African white genocide does not exist, new ambassador to US tells BBC](https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss)
+- [‘Nowhere else to go’: Gaza families shelter in buildings that may collapse](https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss)
+- [Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US](https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss)
 
 **💻 科技前沿**
 - [“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”](https://www.qbitai.com/2026/09/497278.html)
@@ -16,9 +16,9 @@
 - [别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill](https://www.qbitai.com/2026/09/497075.html)
 
 **🤖 Hacker News 热门**
-- [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
-- [Allow Carriers on Planes](https://www.jefftk.com/p/allow-carriers-on-planes)
-- [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
-- [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
-- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
 
