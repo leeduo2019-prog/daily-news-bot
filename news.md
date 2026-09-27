@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-27
-> 生成时间: 06:14 (北京时间)
+> 生成时间: 14:58 (北京时间)
 
 **🌍 国际大事**
-- [Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal](https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss)
-- [Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too](https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss)
-- [Four killed in helicopter crash near Montreal](https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss)
-- [Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris](https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss)
-- [Several killed in South Africa shooting](https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss)
-- [Huge crowds cheer Pope Leo as he leads open-air Mass in Paris](https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss)
+- [Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal](https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss)
+- ['Scourge' of abuse must be rooted out, says Pope, during Lourdes visit](https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss)
+- [Two mass shootings in South Africa leave 27 dead](https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss)
+- [Killer Christa Pike is to be executed within days, but her defence say she's a victim too](https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss)
+- [Strait of Hormuz tensions linger as Iran and US move further from a deal](https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss)
+- [True Crime Reports: The Dosa King’s Deadly Obsession](https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss)
 
 **💻 科技前沿**
-- [索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准](https://www.qbitai.com/2026/09/498478.html)
-- [AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo](https://www.qbitai.com/2026/09/498271.html)
-- [笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub](https://www.qbitai.com/2026/09/497624.html)
-- [在云栖大会，我终于看懂了米哈游千亿AI野心](https://www.qbitai.com/2026/09/497613.html)
+- [量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层](https://www.qbitai.com/2026/09/498633.html)
+- [量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门](https://www.qbitai.com/2026/09/498605.html)
+- [又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录](https://www.qbitai.com/2026/09/498584.html)
+- [啥题啊能干崩OpenAI最强模型训练…](https://www.qbitai.com/2026/09/498546.html)
 
 **🤖 Hacker News 热门**
-- [OpenAI agents tried to bruteforce a UN website's API fields](https://swarmcha.se/posts/openai-unctad)
-- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
-- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
-- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
+- [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+- [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
+- [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
+- [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+- [Fakecloud: Local AWS cloud emulator for integration tests](https://fakecloud.dev/)
 
