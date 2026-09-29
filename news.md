@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-09-29
-> 生成时间: 06:34 (北京时间)
+> 生成时间: 16:18 (北京时间)
 
 **🌍 国际大事**
-- [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
-- [Evicted Spanish pensioner can move back home, lawyer says](https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss)
-- [Argentina threatens legal action against UK over Falkland Islands oil exploration](https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss)
-- [New York Times executive fatally shot by elderly in-laws, police say](https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss)
-- [Public transport drivers strike in Manila over soaring fuel prices](https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss)
-- [More than 80 reported abducted in Nigeria as police find human remains](https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss)
+- [Spain announces ban on evictions after protests over 87-year-old woman's eviction](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss)
+- ['I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail](https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss)
+- [Israeli settlers attack West Bank village and block Palestinian family's return home](https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss)
+- [Estonia blames Russia for arson at defence company supplying Ukraine](https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss)
+- [‘New path’: UK’s Burnham promises huge expansion of public services](https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss)
+- [Russian nuclear-capable bomber plane crashes, killing six people](https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss)
 
 **💻 科技前沿**
-- [李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地](https://www.qbitai.com/2026/09/499098.html)
-- [工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路](https://www.qbitai.com/2026/09/498877.html)
-- [HC归来，华为正重新定义AIDC基础设施](https://www.qbitai.com/2026/09/498787.html)
-- [量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层](https://www.qbitai.com/2026/09/498633.html)
+- [正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展](https://www.qbitai.com/2026/09/499239.html)
+- [精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！](https://www.qbitai.com/2026/09/499188.html)
+- [OpenAI因新模型太强叫停发布](https://www.qbitai.com/2026/09/499140.html)
+- [成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元](https://www.qbitai.com/2026/09/499135.html)
 
 **🤖 Hacker News 热门**
-- [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
-- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
-- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
-- [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
-- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
+- [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+- [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
+- [Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)
+- [Without the Hot Air](https://www.withouthotair.com/)
+- [Walking Men](https://bookofjoe2.blogspot.com/2026/09/walking-men.html)
 
