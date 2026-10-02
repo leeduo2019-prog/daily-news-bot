@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-10-01
-> 生成时间: 16:51 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-02
+> 生成时间: 06:41 (北京时间)
 
 **🌍 国际大事**
-- [Tennessee halts executions after Christa Pike survives two lethal injection attempts](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
-- [What happened in failed execution of Christa Pike - and what next?](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss)
-- [Netanyahu says flight attacker 'underwent Islamist radical indoctrination'](https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss)
-- [Russian dissident Garry Kasparov says US warned him of danger to his life](https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss)
-- [Chinese hackers impersonated AI experts to target US policy minds](https://www.aljazeera.com/economy/2026/10/1/chinese-hackers-impersonated-ai-experts-to-target-us-policy-minds?traffic_source=rss)
-- [Jerusalem Daily: Netanyahu calls flight incident another 9/11](https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss)
+- [US pressures Europe over diesel reserves as Trump threatens export ban](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss)
+- [Christa Pike in critical condition after surviving two lethal injections, lawyer says](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
+- [NY's governor appoints special prosecutor in Cornell frat rape investigation](https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss)
+- [Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row](https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss)
+- [Election debate cancelled in Brazil, bomb scare outside Supreme Court](https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court?traffic_source=rss)
+- [Asian Games 2026: Taiwan’s gender-row boxer Lin Yu-ting wins gold medal](https://www.aljazeera.com/sports/2026/10/2/asian-games-aichi-nagoya-2026-boxing-taiwan-lin-yu-ting-gold?traffic_source=rss)
 
 **💻 科技前沿**
 - [何恺明团队新作：看猫片就能学会ARC挑战](https://www.qbitai.com/2026/10/499812.html)
@@ -16,9 +16,9 @@
 - [直播回顾：工业AI的下一个机会在哪？](https://www.qbitai.com/2026/09/499605.html)
 
 **🤖 Hacker News 热门**
-- [Clef: our open-source decision models](https://blog.cloudflare.com/clef-decision-models/)
-- [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
-- [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
-- [How to speed up the Rust compiler in September 2026](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html)
-- [RacketCon Is Saturday](https://con.racket-lang.org/)
+- [DeepSeek Harness](https://www.deepseek.com/en/harness/)
+- [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+- [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
+- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
 
