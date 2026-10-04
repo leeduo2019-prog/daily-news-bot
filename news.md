@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-10-04
-> 生成时间: 06:37 (北京时间)
+> 生成时间: 15:06 (北京时间)
 
 **🌍 国际大事**
-- [Tennessee prison chief to resign after Christa Pike's failed execution](https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss)
-- [Australia investigating Flydubai co-pilot's links to country](https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss)
-- [Cornell president says university 'must do better' after frat house rape allegations](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss)
-- [Russia hits second major bridge in Ukraine's capital Kyiv](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
-- [West Indies beat India in record chase as Hope hits 162 in third ODI](https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss)
-- [Widespread damage after huge hailstones pound Paraguay capital](https://www.aljazeera.com/video/newsfeed/2026/10/4/widespread-damage-after-huge-hailstones-pound-paraguay-capital?traffic_source=rss)
+- [Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit](https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss)
+- [Watch: What we know about Russian strikes on Kyiv bridges](https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss)
+- [Yemen announces military campaign to reclaim land from Iran-backed Houthis](https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss)
+- [Ethiopian rebel forces withdraw from Tigray regional capital](https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss)
+- [Dodik declared Bosnia ‘dead’. Irrelevant rhetoric or serious threat?](https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss)
+- [How was Flydubai co-pilot cleared despite being deemed a security risk?](https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss)
 
 **💻 科技前沿**
+- [AI算力硬合作，马斯克还是更相信中国制造](https://www.qbitai.com/2026/10/501605.html)
 - [最火AI岗位FDE：月薪5万，都干这些…](https://www.qbitai.com/2026/10/501506.html)
 - [GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元](https://www.qbitai.com/2026/10/501451.html)
 - [DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师](https://www.qbitai.com/2026/10/501381.html)
-- [OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开](https://www.qbitai.com/2026/10/501368.html)
 
 **🤖 Hacker News 热门**
-- [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+- [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
 - [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
-- [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician)
-- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
-- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+- [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
+- [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
 
