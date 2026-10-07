@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-10-07
-> 生成时间: 06:51 (北京时间)
+> 生成时间: 17:12 (北京时间)
 
 **🌍 国际大事**
-- [US death row inmate Christa Pike awake and speaking after failed execution, lawyers say](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
-- [Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
-- [What is pneumonic plague and how does it spread?](https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss)
-- [Ex-US spy who stashed gold bars in his home admits to $200m scam](https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss)
-- [Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh](https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss)
-- [Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?](https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss)
+- [France halts use of stun grenades after boy's hand blown off in student protests](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss)
+- [Israelis demand accountability over 7 October failures three years after attacks](https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss)
+- [Canada suspends plans to expand assisted dying to people with mental illness](https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss)
+- [Trump to speak to Putin about plague lab worker's death in Russia](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss)
+- [Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains](https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss)
+- [More than 200,000 displaced as fighting escalates in Yemen, UN says](https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss)
 
 **💻 科技前沿**
-- [OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来](https://www.qbitai.com/2026/10/501749.html)
-- [刚刚，诺贝尔物理奖一人独揽！](https://www.qbitai.com/2026/10/501746.html)
-- [不er，咋陶哲轩也成AI减速派了？？](https://www.qbitai.com/2026/10/501736.html)
-- [OpenAI「疯狂28天」首日，这都发了些啥啊…](https://www.qbitai.com/2026/10/501726.html)
+- [迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦](https://www.qbitai.com/2026/10/501825.html)
+- [《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！](https://www.qbitai.com/2026/10/501803.html)
+- [晕…这年头还有说人话的AI不](https://www.qbitai.com/2026/10/501796.html)
+- [Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司](https://www.qbitai.com/2026/10/501791.html)
 
 **🤖 Hacker News 热门**
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
-- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
-- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
-- [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](https://github.com/shader-effects-inc/shaders)
-- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
+- [Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees)
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+- [Animated ASCII Art for Web Pages](https://ascii.rest/)
+- [GitHub Incident with Git Operations, Pull Requests and Actions](https://www.githubstatus.com/incidents/djlmxz2zd0j7)
+- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
 
