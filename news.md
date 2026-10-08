@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-10-08
-> 生成时间: 06:59 (北京时间)
+> 生成时间: 17:10 (北京时间)
 
 **🌍 国际大事**
-- [US and Lebanon protecting wanted Syrian general, BBC finds](https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss)
-- [Texas carries out first US execution since Christa Pike's botched lethal injections](https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss)
-- [Spanish pensioner whose eviction sparked nationwide protests dies](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss)
-- [Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90](https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss)
-- [Acclaimed Indian actor Nana Patekar dies aged 75](https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss)
-- [How October 7 redrew the map of the Middle East](https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss)
+- [Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge](https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss)
+- [Christa Pike now walking after failed US execution, lawyer tells BBC](https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss)
+- [Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture](https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss)
+- [Residents airlifted to safety after flooding in central Chile](https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss)
+- [Man City must ‘stick together’ after Premier League charges, says Haaland](https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss)
+- [UK ex-prince Andrew search warrants quashed after police accept legal error](https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss)
 
 **💻 科技前沿**
-- [大模型原生智能体手机STEPX Neo将于10月13日正式发布](https://www.qbitai.com/2026/10/501915.html)
-- [何恺明团队新作：看猫片就能学会ARC挑战](https://www.qbitai.com/2026/10/501913.html)
-- [GPT-6今起免费用！拒答变少，话变多了](https://www.qbitai.com/2026/10/501834.html)
-- [Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊](https://www.qbitai.com/2026/10/501832.html)
+- [hacked by trenggalek6etar](https://www.qbitai.com/2026/10/502081.html)
+- [真香！做这个邪恶老奶版「GTA 6」，我只花了5元！](https://www.qbitai.com/2026/10/502049.html)
+- [正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案](https://www.qbitai.com/2026/10/502035.html)
+- [搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界](https://www.qbitai.com/2026/10/502020.html)
 
 **🤖 Hacker News 热门**
+- [Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
+- [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
+- [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 - [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
-- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
-- [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
-- [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
-- [People Holding Up the Internet](https://sheets.works/data-viz/holding-up-the-internet)
+- [Orkut.com](https://orkut.com/)
 
