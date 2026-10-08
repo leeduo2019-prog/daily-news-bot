@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-10-07
-> 生成时间: 17:12 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-08
+> 生成时间: 06:59 (北京时间)
 
 **🌍 国际大事**
-- [France halts use of stun grenades after boy's hand blown off in student protests](https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss)
-- [Israelis demand accountability over 7 October failures three years after attacks](https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss)
-- [Canada suspends plans to expand assisted dying to people with mental illness](https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss)
-- [Trump to speak to Putin about plague lab worker's death in Russia](https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss)
-- [Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains](https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss)
-- [More than 200,000 displaced as fighting escalates in Yemen, UN says](https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss)
+- [US and Lebanon protecting wanted Syrian general, BBC finds](https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss)
+- [Texas carries out first US execution since Christa Pike's botched lethal injections](https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss)
+- [Spanish pensioner whose eviction sparked nationwide protests dies](https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss)
+- [Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90](https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss)
+- [Acclaimed Indian actor Nana Patekar dies aged 75](https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss)
+- [How October 7 redrew the map of the Middle East](https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss)
 
 **💻 科技前沿**
-- [迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦](https://www.qbitai.com/2026/10/501825.html)
-- [《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！](https://www.qbitai.com/2026/10/501803.html)
-- [晕…这年头还有说人话的AI不](https://www.qbitai.com/2026/10/501796.html)
-- [Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司](https://www.qbitai.com/2026/10/501791.html)
+- [大模型原生智能体手机STEPX Neo将于10月13日正式发布](https://www.qbitai.com/2026/10/501915.html)
+- [何恺明团队新作：看猫片就能学会ARC挑战](https://www.qbitai.com/2026/10/501913.html)
+- [GPT-6今起免费用！拒答变少，话变多了](https://www.qbitai.com/2026/10/501834.html)
+- [Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊](https://www.qbitai.com/2026/10/501832.html)
 
 **🤖 Hacker News 热门**
-- [Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees)
-- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
-- [Animated ASCII Art for Web Pages](https://ascii.rest/)
-- [GitHub Incident with Git Operations, Pull Requests and Actions](https://www.githubstatus.com/incidents/djlmxz2zd0j7)
-- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
+- [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
+- [People Holding Up the Internet](https://sheets.works/data-viz/holding-up-the-internet)
 
