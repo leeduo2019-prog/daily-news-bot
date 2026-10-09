@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-10-08
-> 生成时间: 17:10 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-09
+> 生成时间: 07:08 (北京时间)
 
 **🌍 国际大事**
+- [Suspect linked to Monaco bomb attack on millionaire speaks to BBC](https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss)
+- [Firing squad execution to be livestreamed, Pentagon says](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
+- [ICE agent shoots man in New York City](https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss)
 - [Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge](https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss)
-- [Christa Pike now walking after failed US execution, lawyer tells BBC](https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss)
-- [Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture](https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss)
-- [Residents airlifted to safety after flooding in central Chile](https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss)
-- [Man City must ‘stick together’ after Premier League charges, says Haaland](https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss)
-- [UK ex-prince Andrew search warrants quashed after police accept legal error](https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss)
+- [Trump says US will not strike Iran before midterm elections](https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss)
+- [Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro](https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss)
 
 **💻 科技前沿**
-- [hacked by trenggalek6etar](https://www.qbitai.com/2026/10/502081.html)
-- [真香！做这个邪恶老奶版「GTA 6」，我只花了5元！](https://www.qbitai.com/2026/10/502049.html)
-- [正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案](https://www.qbitai.com/2026/10/502035.html)
-- [搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界](https://www.qbitai.com/2026/10/502020.html)
+- [灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」](https://www.qbitai.com/2026/10/502330.html)
+- [清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据](https://www.qbitai.com/2026/10/502125.html)
+- [尊界深夜回应“刹车踏板断裂”，懂车帝再发声](https://www.qbitai.com/2026/10/502114.html)
+- [openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业](https://www.qbitai.com/2026/10/502106.html)
 
 **🤖 Hacker News 热门**
-- [Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
-- [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
-- [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
-- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
-- [Orkut.com](https://orkut.com/)
+- [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
+- [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
 
