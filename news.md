@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-10-10
-> 生成时间: 06:41 (北京时间)
+> 生成时间: 15:40 (北京时间)
 
 **🌍 国际大事**
+- [Christa Pike discharged from hospital and returned to prison, her lawyers say](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
 - [Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
-- [Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)
-- [Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss)
-- [Three men found guilty of murdering Australian brothers and US friend in Mexico](https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss)
-- [Yemen’s Taiz under siege again as food and fuel prices rise](https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss)
-- [India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown](https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss)
+- [Russian glide bomb attack on Zaporizhzhia kills at least 15 people](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
+- ['Cockroach' group leaders among hundreds detained in Delhi protest](https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss)
+- [With or without Hamas](https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss)
+- [Three injured in third school attack in Poland in less than a week](https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss)
 
 **💻 科技前沿**
+- [特斯拉FSD，在欧洲被打回原形](https://www.qbitai.com/2026/10/502467.html)
 - [TRAE终于把Code和Work合并了](https://www.qbitai.com/2026/10/502426.html)
 - [联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一](https://www.qbitai.com/2026/10/502422.html)
 - [0.2秒急停、秒级重规划！因果智能走进真实世界](https://www.qbitai.com/2026/10/502411.html)
-- [字节找到了DeepSeek时强时弱的原因](https://www.qbitai.com/2026/10/502364.html)
 
 **🤖 Hacker News 热门**
+- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
+- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
+- [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
 - [REA Reverse – Engineer Anything](https://rea.tools/)
 - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
-- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
-- [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 
