@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-10-09
-> 生成时间: 16:47 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-10
+> 生成时间: 06:41 (北京时间)
 
 **🌍 国际大事**
-- [Navi Pillay, former UN human rights chief, wins Nobel Peace Prize](https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss)
-- [Firing squad execution to be livestreamed, Pentagon says](https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss)
-- [Fort Hood survivor supports gunman's execution by firing squad but questions livestream](https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss)
-- [US imposes sanctions on International Criminal Court](https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss)
-- [Thousands rally for anti-austerity protest in Brussels amid clashes](https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss)
-- [Trump launches probe into Federal Reserve Governor Lisa Cook](https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss)
+- [Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
+- [Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)
+- [Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss)
+- [Three men found guilty of murdering Australian brothers and US friend in Mexico](https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss)
+- [Yemen’s Taiz under siege again as food and fuel prices rise](https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss)
+- [India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown](https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss)
 
 **💻 科技前沿**
 - [TRAE终于把Code和Work合并了](https://www.qbitai.com/2026/10/502426.html)
@@ -16,9 +16,9 @@
 - [字节找到了DeepSeek时强时弱的原因](https://www.qbitai.com/2026/10/502364.html)
 
 **🤖 Hacker News 热门**
-- [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
-- [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
-- [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
-- [I'm in a Meeting](https://iminafleeting.com/)
-- [Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
+- [REA Reverse – Engineer Anything](https://rea.tools/)
+- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
+- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
+- [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 
