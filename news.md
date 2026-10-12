@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-10-11
-> 生成时间: 16:07 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-12
+> 生成时间: 06:58 (北京时间)
 
 **🌍 国际大事**
-- [Ukraine strikes Yandex data centre in third attack on Russian tech giant](https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss)
-- [Pope Leo to have surgery after lump found on lung](https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss)
-- [Homes and bridges swept away as fresh floods hit Nepal](https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss)
-- [Children among 139 dead after boat capsizes off Djibouti, UN says](https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss)
-- [Tour bus crash in Turkiye leaves at least 11 dead](https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss)
-- [Power bank fire forces plane to emergency land in India](https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss)
+- [Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants](https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss)
+- [Trump faces growing backlash over plans to import diesel from Russia](https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss)
+- [One killed, 11 injured in second Houthi strike on Riyadh airport in two days](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss)
+- [Documents falsified to evade tax on Abramovich's wealth, BBC finds](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
+- [India protest live: Opposition to march to Supreme Court over ‘vote theft’](https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss)
+- [Countries warn against travel to Saudi Arabia following Houthi attacks](https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss)
 
 **💻 科技前沿**
 - [王的猜想，刚刚扩展到四维](https://www.qbitai.com/2026/10/502584.html)
@@ -16,9 +16,9 @@
 - [DeepSeek Bot来了！民间版，DSH装个插件就能用](https://www.qbitai.com/2026/10/502544.html)
 
 **🤖 Hacker News 热门**
-- [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
-- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
-- [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
-- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
-- [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
+- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+- [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
+- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
 
