@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-10-15
-> 生成时间: 14:38 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-16
+> 生成时间: 05:27 (北京时间)
 
 **🌍 国际大事**
-- [Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
-- [Trump calls off livestream for Fort Hood shooter's execution by firing squad](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
-- [At least 33 pupils and teacher killed after school roof collapses in Pakistan](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)
-- [Two dead in Istanbul after heaviest rainfall in 84 years, governor says](https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss)
-- [‘Boiling point’: Why students are protesting against Albania’s Edi Rama](https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss)
-- [The Rebel Tours: Money or morals?](https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss)
+- [Three children and teacher killed in US primary school shooting](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
+- ['It's really hard to believe' - How Oregon primary school shooting unfolded](https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss)
+- [Ship attack reports near Hormuz reach record high as oil exports slow](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)
+- [Trump calls off livestream of Fort Hood attacker's execution by firing squad](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
+- [Infantino apologises amid calls for him to quit as FIFA president](https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss)
+- [China tells Israel to stop ‘forced establishment’ of West Bank settlements](https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss)
 
 **💻 科技前沿**
-- [7天几百元开一家店！用千问办公电商版，立省启动资金5万元](https://www.qbitai.com/2026/10/503303.html)
-- [抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！](https://www.qbitai.com/2026/10/503294.html)
-- [阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行](https://www.qbitai.com/2026/10/503244.html)
-- [智能不出彩的「领克」，刚靠一次坠崖事故出圈了](https://www.qbitai.com/2026/10/503231.html)
+- [京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相](https://www.qbitai.com/2026/10/503645.html)
+- [库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本](https://www.qbitai.com/2026/10/503640.html)
+- [量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架](https://www.qbitai.com/2026/10/503614.html)
+- [2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者](https://www.qbitai.com/2026/10/503611.html)
 
 **🤖 Hacker News 热门**
-- [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
-- [Israeli firm's digital ads enabling installation of 'zero-click' spyware](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say)
-- [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
-- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
-- [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+- [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
+- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+- ['500-hour' Order of the Sinking Star is as complex and exhausting as it sounds](https://www.polygon.com/order-of-the-sinking-star-impressions/)
 
