@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-10-16
-> 生成时间: 14:29 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-17
+> 生成时间: 05:19 (北京时间)
 
 **🌍 国际大事**
-- [Zelensky says Ukraine has right to defend itself after Trump criticism](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
-- ['It's really hard to believe' - How Oregon primary school shooting unfolded](https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss)
-- [Ship attack reports near Hormuz reach record high as oil exports slow](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)
-- [China tells Israel to stop 'forced establishment' of West Bank settlements](https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss)
-- [Can Russia help ease tensions between Pakistan and Afghanistan?](https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss)
-- [Ethiopia announces instalment of interim government in Tigray](https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss)
+- [Brazil sees record fall in Amazon deforestation as key election looms](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)
+- [Trump waives several Russia sanctions as new US law takes effect](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
+- [Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+- [Three men jailed for 158 years each for murdering Australian and US surfers in Mexico](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)
+- [Trump puts on hold new Russia sanctions he signed into law](https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss)
+- [Albania’s PM blames ‘foreign hands’ for protests](https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss)
 
 **💻 科技前沿**
-- [京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相](https://www.qbitai.com/2026/10/503645.html)
-- [库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本](https://www.qbitai.com/2026/10/503640.html)
-- [量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架](https://www.qbitai.com/2026/10/503614.html)
-- [2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者](https://www.qbitai.com/2026/10/503611.html)
+- [清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型](https://www.qbitai.com/2026/10/503880.html)
+- [从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？](https://www.qbitai.com/2026/10/503865.html)
+- [说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历](https://www.qbitai.com/2026/10/503861.html)
+- [霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力](https://www.qbitai.com/2026/10/503843.html)
 
 **🤖 Hacker News 热门**
-- [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
-- [Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
-- [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
-- [Gyroscopes Got So Small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)
-- [The Economic Complexity of the Western Roman Empire](https://www.michelecoscia.com/?p=2613)
+- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
+- [Tesla Roadster](https://www.tesla.com/roadster)
+- [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 
