@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-10-17
-> 生成时间: 13:26 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-18
+> 生成时间: 05:26 (北京时间)
 
 **🌍 国际大事**
-- [Trump waives several Russia sanctions as row with Zelensky intensifies](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
-- [Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
-- [Three men jailed for 158 years each for murdering Australian and US surfers in Mexico](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)
-- [Brazil sees record fall in Amazon deforestation as key election looms](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)
-- [Child, four women among Palestinians injured in West Bank pogroms](https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss)
-- [Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final](https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss)
+- [Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss)
+- [A wave of homemade, synthetic drugs sweeps US and deepens crisis](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)
+- [European diplomats attacked by Israeli settlers in West Bank](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)
+- [Deaths confirmed in major fire at Canada military base](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)
+- [Deaths, injuries after fire at Alberta military base: Canada minister](https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss)
+- [St Petersburg under attack from Ukrainian drone swarm](https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss)
 
 **💻 科技前沿**
-- [清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型](https://www.qbitai.com/2026/10/503880.html)
-- [从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？](https://www.qbitai.com/2026/10/503865.html)
-- [说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历](https://www.qbitai.com/2026/10/503861.html)
-- [霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力](https://www.qbitai.com/2026/10/503843.html)
+- [突发！DeepSeek新模型发布，超级性价比斩杀一切](https://www.qbitai.com/2026/10/504067.html)
+- [智谱新模型，懂法方面全球第一了](https://www.qbitai.com/2026/10/503965.html)
+- [清华开源！智能体操作系统任务成本降83%，AI记忆可查可改](https://www.qbitai.com/2026/10/503935.html)
+- [Claude半小时解开密码学悬案，学界集体走偏20年](https://www.qbitai.com/2026/10/503910.html)
 
 **🤖 Hacker News 热门**
-- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
-- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
-- [Tesla Roadster](https://www.tesla.com/roadster)
-- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
+- [Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
+- [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
+- [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
+- [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
 - [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
