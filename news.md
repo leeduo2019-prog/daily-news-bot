@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-10-19
-> 生成时间: 16:46 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-20
+> 生成时间: 14:38 (北京时间)
 
 **🌍 国际大事**
-- [Australian MP critically injured after being hit by car in apparent attack](https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss)
-- [Kenya cult leader who told parents to starve children guilty of 191 murders](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)
-- [Ex-OpenAI worker accused of planting device had Saudi support says court filing](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)
-- [Alberta heads to polls to decide whether to hold vote on separation from Canada](https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss)
-- [Gaza faces worsening hunger as WFP announces food aid cuts](https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss)
-- [Trump endorses Netanyhu ahead of elections](https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss)
+- [Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence](https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss)
+- [Marseille braces for more unrest after protests give way to 'apocalyptic' disorder](https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss)
+- [Man charged with attack on Australian MP as suspect's father says she is family friend](https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss)
+- [North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?](https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss)
+- [Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?](https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss)
+- [Indonesians protest over land-clearing fires](https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss)
 
 **💻 科技前沿**
-- [VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS](https://www.qbitai.com/2026/10/504136.html)
-- [突发！DeepSeek新模型发布，超级性价比斩杀一切](https://www.qbitai.com/2026/10/504067.html)
-- [智谱新模型，懂法方面全球第一了](https://www.qbitai.com/2026/10/503965.html)
-- [清华开源！智能体操作系统任务成本降83%，AI记忆可查可改](https://www.qbitai.com/2026/10/503935.html)
+- [Claude新模型曝光！能跳出思维定势，修Bug治标又治本](https://www.qbitai.com/2026/10/504314.html)
+- [从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务](https://www.qbitai.com/2026/10/504277.html)
+- [通研院孵化的团队，也盯上了RSI](https://www.qbitai.com/2026/10/504294.html)
+- [2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行](https://www.qbitai.com/2026/10/504266.html)
 
 **🤖 Hacker News 热门**
-- [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-- [CERN and Mistral join forces to accelerate AI for science](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
-- [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
-- [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
-- [Linux 7.3](https://lwn.net/Articles/1101143/)
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+- [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
+- [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
+- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 
