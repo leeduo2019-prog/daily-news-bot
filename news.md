@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-10-21
-> 生成时间: 05:43 (北京时间)
+> 生成时间: 14:49 (北京时间)
 
 **🌍 国际大事**
-- [US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)
-- [France is divided over who to blame for weekend riots and what to learn from them](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)
-- [Elon Musk says Tesla-SpaceX merger being considered](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
-- [Trump and Zelensky appear at loggerheads despite Oslo optimism](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)
-- [Pro-Modi leader burns cockroach effigy to taunt youth protesters](https://www.aljazeera.com/video/newsfeed/2026/10/21/pro-modi-leader-burns-cockroach-effigy-to-taunt-youth-protesters?traffic_source=rss)
-- [Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff](https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss)
+- [US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
+- [Macron accuses foreign leaders of exploiting French riots](https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss)
+- [Australian MP loses both legs after alleged car attack, husband says](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)
+- [Elon Musk confirms he is considering merging Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
+- [US congressional candidate Brad Lander freed after West Bank detention](https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss)
+- [How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties](https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss)
 
 **💻 科技前沿**
-- [飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人](https://www.qbitai.com/2026/10/504608.html)
-- [理想宣布：电池自燃报废赔新车！自研6年后有底气了](https://www.qbitai.com/2026/10/504551.html)
-- [国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价](https://www.qbitai.com/2026/10/504517.html)
-- [RSI三块关键拼图，MemT 1.0从模型层补上「记忆」](https://www.qbitai.com/2026/10/504456.html)
+- [多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院](https://www.qbitai.com/2026/10/504734.html)
+- [生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月](https://www.qbitai.com/2026/10/504730.html)
+- [LeCun押注的世界模型，中国一家清华系公司已经做进了机器人](https://www.qbitai.com/2026/10/504653.html)
+- [量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板](https://www.qbitai.com/2026/10/504638.html)
 
 **🤖 Hacker News 热门**
-- [Major PHP Vulnerability Leaked](https://jackalsyn.com/posts/php-up-2026.html)
-- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-- [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
-- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
-- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+- [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
+- [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+- [DuckDB 2.0.0 LTS "Cinnamon Teal"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
+- [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)
 
