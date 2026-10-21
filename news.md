@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-10-20
-> 生成时间: 14:38 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-21
+> 生成时间: 05:43 (北京时间)
 
 **🌍 国际大事**
-- [Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence](https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss)
-- [Marseille braces for more unrest after protests give way to 'apocalyptic' disorder](https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss)
-- [Man charged with attack on Australian MP as suspect's father says she is family friend](https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss)
-- [North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?](https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss)
-- [Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?](https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss)
-- [Indonesians protest over land-clearing fires](https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss)
+- [US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)
+- [France is divided over who to blame for weekend riots and what to learn from them](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)
+- [Elon Musk says Tesla-SpaceX merger being considered](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
+- [Trump and Zelensky appear at loggerheads despite Oslo optimism](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)
+- [Pro-Modi leader burns cockroach effigy to taunt youth protesters](https://www.aljazeera.com/video/newsfeed/2026/10/21/pro-modi-leader-burns-cockroach-effigy-to-taunt-youth-protesters?traffic_source=rss)
+- [Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff](https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss)
 
 **💻 科技前沿**
-- [Claude新模型曝光！能跳出思维定势，修Bug治标又治本](https://www.qbitai.com/2026/10/504314.html)
-- [从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务](https://www.qbitai.com/2026/10/504277.html)
-- [通研院孵化的团队，也盯上了RSI](https://www.qbitai.com/2026/10/504294.html)
-- [2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行](https://www.qbitai.com/2026/10/504266.html)
+- [飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人](https://www.qbitai.com/2026/10/504608.html)
+- [理想宣布：电池自燃报废赔新车！自研6年后有底气了](https://www.qbitai.com/2026/10/504551.html)
+- [国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价](https://www.qbitai.com/2026/10/504517.html)
+- [RSI三块关键拼图，MemT 1.0从模型层补上「记忆」](https://www.qbitai.com/2026/10/504456.html)
 
 **🤖 Hacker News 热门**
-- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
-- [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
-- [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
-- [NixOS is making me less afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid)
-- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+- [Major PHP Vulnerability Leaked](https://jackalsyn.com/posts/php-up-2026.html)
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
+- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 
