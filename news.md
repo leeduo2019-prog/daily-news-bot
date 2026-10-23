@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-10-23
-> 生成时间: 05:44 (北京时间)
+> 生成时间: 14:38 (北京时间)
 
 **🌍 国际大事**
-- [Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)
-- [Trump says Musk has restored access to Ukraine's Starlink network](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
-- [L'Oreal says weight loss drugs are impacting beauty and skin care sales](https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss)
-- [Trump ordered to answer questions under oath in BBC lawsuit](https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss)
-- [Grenade exercise sparked deadly fire at Canada military base, army says](https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss)
-- [Keeping Madhubala alive: The fight for Karachi’s captive elephants](https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss)
+- [Deadly shooting near Paris investigated as 'crime of terrorism', minister says](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
+- [Ukraine says Starlink still restricted after Trump says limits lifted](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
+- [Six shot dead by gunmen at church funeral in Jordan, officials say](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss)
+- [Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)
+- [Conte dismisses reports of Man United takeover with Carrick’s job uncertain](https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss)
+- [Mississippi releases video of 1-year-old’s fatal police shooting](https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss)
 
 **💻 科技前沿**
+- [百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径](https://www.qbitai.com/2026/10/504901.html)
+- [又一国产决策模型发布！准确率超过微软和Jev等决策模型](https://www.qbitai.com/2026/10/504879.html)
 - [特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先](https://www.qbitai.com/2026/10/504841.html)
 - [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
-- [谁在给OpenAI供应具身数据？](https://www.qbitai.com/2026/10/504800.html)
-- [多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院](https://www.qbitai.com/2026/10/504734.html)
 
 **🤖 Hacker News 热门**
-- [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
-- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
-- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
-- [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now)
+- [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+- [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
 
