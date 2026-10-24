@@ -1,13 +1,13 @@
 ### 📰 每日新闻聚合 - 2026-10-24
-> 生成时间: 05:23 (北京时间)
+> 生成时间: 13:48 (北京时间)
 
 **🌍 国际大事**
-- [France prepares for day of protest a week after nationwide riots](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
-- [Woman, 65, becomes second patient to die of Ebola in Kenya](https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss)
-- [Arrest made after fire at Hitler's Eagle's Nest retreat](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)
-- [Student movement takes Serbia's Vučić to the wire in neck-and-neck election](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)
-- [Lebanese sceptical Israeli polls will bring change, end occupation of south](https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss)
-- [Massive oil slick seen weeks after tanker struck off UAE’s coast](https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss)
+- [Ukraine says Starlink connection 'now stable' after network limits](https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss)
+- [Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)
+- [Father who killed Oregon school gunman describes anguish over children he couldn't save](https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss)
+- [British woman dies after trying to rescue sons swept away at sea in the Bahamas](https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss)
+- [Who was behind the deadly church shooting in Jordan?](https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss)
+- [Netanyahu floats Crypto to bypass sanctions](https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss)
 
 **💻 科技前沿**
 - [百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径](https://www.qbitai.com/2026/10/504901.html)
@@ -16,9 +16,9 @@
 - [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
 
 **🤖 Hacker News 热门**
+- [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
+- [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
 - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
-- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
-- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 
