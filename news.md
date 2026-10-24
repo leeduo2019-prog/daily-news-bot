@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-10-23
-> 生成时间: 14:38 (北京时间)
+### 📰 每日新闻聚合 - 2026-10-24
+> 生成时间: 05:23 (北京时间)
 
 **🌍 国际大事**
-- [Deadly shooting near Paris investigated as 'crime of terrorism', minister says](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
-- [Ukraine says Starlink still restricted after Trump says limits lifted](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
-- [Six shot dead by gunmen at church funeral in Jordan, officials say](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss)
-- [Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)
-- [Conte dismisses reports of Man United takeover with Carrick’s job uncertain](https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss)
-- [Mississippi releases video of 1-year-old’s fatal police shooting](https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss)
+- [France prepares for day of protest a week after nationwide riots](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
+- [Woman, 65, becomes second patient to die of Ebola in Kenya](https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss)
+- [Arrest made after fire at Hitler's Eagle's Nest retreat](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)
+- [Student movement takes Serbia's Vučić to the wire in neck-and-neck election](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)
+- [Lebanese sceptical Israeli polls will bring change, end occupation of south](https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss)
+- [Massive oil slick seen weeks after tanker struck off UAE’s coast](https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss)
 
 **💻 科技前沿**
 - [百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径](https://www.qbitai.com/2026/10/504901.html)
@@ -16,9 +16,9 @@
 - [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
 
 **🤖 Hacker News 热门**
-- [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
-- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-- [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+- [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
 - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-- [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
 
