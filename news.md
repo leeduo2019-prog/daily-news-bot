@@ -1,13 +1,13 @@
 ### 📰 每日新闻聚合 - 2026-10-29
-> 生成时间: 06:45 (北京时间)
+> 生成时间: 16:33 (北京时间)
 
 **🌍 国际大事**
-- [High-speed train crash kills at least 68 people in Spain](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss)
-- [Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain](https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss)
-- [Flávio Bolsonaro denies fleeing Brazil after landing in Miami](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss)
-- [Netanyahu's bloc leading Israel election but short of majority, partial results show](https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss)
-- [Chelsea beat Liverpool 6-5 on penalties to reach League Cup quarterfinals](https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss)
-- [Russia’s alleged sabotage campaign in Europe raises fears of escalation](https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss)
+- [Audio reveals exchanges between control centre and drivers before deadly Spain train crash](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
+- [Russian drone attack on Ukrainian train station kills at least 14, officials say](https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss)
+- [Flávio Bolsonaro calls himself 'leader of Brazil' after election loss](https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss)
+- [Philippine police obtain warrant to search Thomas Markle's devices](https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss)
+- [Manchester United’s Carrick backs Fernandes and is expected to face Chelsea](https://www.aljazeera.com/sports/2026/10/29/manchester-uniteds-carrick-expected-to-face-chelsea-and-backs-fernandes?traffic_source=rss)
+- [Deadly rock collapse at famous Turkiye tourist site](https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss)
 
 **💻 科技前沿**
 - [文远知行001号员工带队，景烁科技首轮融资数千万美元](https://www.qbitai.com/2026/10/506281.html)
@@ -16,9 +16,9 @@
 - [24万开卖！理想重造i6，李想：目标全球畅销](https://www.qbitai.com/2026/10/506246.html)
 
 **🤖 Hacker News 热门**
-- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
-- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-- [Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
-- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-- [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+- [H.264 Is Magic](https://sidbala.com/h-264-is-magic/)
+- [Zombie stats: Where the numbers AI quotes come from](https://trakkr.ai/trakkr-research/zombie-stats)
+- [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
+- [DoorDash to Acquire Instacart](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
 
