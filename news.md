@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-10-30
-> 生成时间: 06:48 (北京时间)
+> 生成时间: 16:31 (北京时间)
 
 **🌍 国际大事**
-- [Syrians struggle with soaring prices as crisis challenges post-Assad recovery](https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss)
-- [Crypto giant Binance hit by $6.3bn hack suspected to be largest in history](https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss)
-- [Mushroom murderer fails to overturn convictions in Australian court challenge](https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss)
-- ['The city is alive': A brief peace in Kherson, but residents fear what comes next](https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss)
-- [US midterms: 4 days to go – What the polls say as Trump cancels two rallies](https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss)
-- [Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections](https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss)
+- [US inmate Christa Pike says she woke up 'confused and in pain' after failed execution](https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss)
+- [Ceasefire allows evacuation from devastated Russian-occupied Oleshky](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
+- [Prominent Russian newspaper shuts down under pressure from authorities](https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss)
+- [Spain transport minister says he won't resign over high-speed rail disaster](https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss)
+- [Jerusalem Daily: Israel’s siege on Hebron displaces thousands](https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss)
+- [Swiss foreign minister talks political ties on rare visit to North Korea](https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss)
 
 **💻 科技前沿**
+- [英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成](https://www.qbitai.com/2026/10/506743.html)
+- [RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR](https://www.qbitai.com/2026/10/506686.html)
+- [Claude新模型曝光：新Fable，新Opus…](https://www.qbitai.com/2026/10/506674.html)
 - [从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径](https://www.qbitai.com/2026/10/506662.html)
-- [前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位](https://www.qbitai.com/2026/10/506609.html)
-- [买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配](https://www.qbitai.com/2026/10/506569.html)
-- [STEPX Neo 发布两周即迎首次升级，智能体能力持续释放](https://www.qbitai.com/2026/10/506554.html)
 
 **🤖 Hacker News 热门**
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
-- [Cuis: The Modern Smalltalk-80](https://cuis.st/)
-- [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
-- [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg)
+- [AI Isn't Replacing SREs. It's Deskilling Them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
+- [Northflank Breached](https://status.northflank.com)
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
+- [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)
 
