@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-10-31
-> 生成时间: 15:35 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-01
+> 生成时间: 07:07 (北京时间)
 
 **🌍 国际大事**
-- [Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss)
-- [Why North Korea's 'elite' hackers are the prime suspect in major Binance hack](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
-- [More than 5,000 die from Ebola in DR Congo's deadliest outbreak](https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss)
-- [Police deployed during stand-off over control of top Poland court](https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss)
-- [Chelsea beat Man United as Martinez sent off to pile pressure on Carrick](https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss)
-- [Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks](https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss)
+- [Shops looted as German cost of living protests turn violent](https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss)
+- ['We came back from hell', say Ukrainians after years in Russia-occupied front-line city](https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss)
+- [Ukrainian evacuees reunite with family after years trapped in Russia-occupied city](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss)
+- [Crypto firm Binance covers 90% of losses after $6.3bn hack](https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss)
+- [Rubio says Trump administration did not help Bolsonaro flee Brazil to US](https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss)
+- [Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh](https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss)
 
 **💻 科技前沿**
 - [你的8G iPad里有12G内存！库克走了但他的刀法追着我砍](https://www.qbitai.com/2026/10/506884.html)
@@ -16,9 +16,9 @@
 - [榜一，拿来吧你！智元这波双模型杀穿多榜榜单](https://www.qbitai.com/2026/10/506819.html)
 
 **🤖 Hacker News 热门**
-- [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
-- [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
-- [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
-- [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
-- [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
 
