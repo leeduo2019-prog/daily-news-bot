@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-11-02
-> 生成时间: 19:57 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-03
+> 生成时间: 07:33 (北京时间)
 
 **🌍 国际大事**
-- [Russian bombing kills 24 people at Ukraine aid centre, Kyiv says](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss)
-- [Fake nuclear warning from hacked app sparks unease but not panic in Ukraine](https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss)
-- [Shop freezers in seven European countries hit by cyber-attack](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
-- [Fighting returns to Kherson region after longest Ukraine war ceasefire](https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss)
-- [Lindsay Clancy in court to drop child murder charges after mistrial](https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss)
-- [Trump asks Supreme Court to block 20,000 California ballots before midterms](https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss)
+- [US strikes Iran ahead of midterm elections](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)
+- [Supreme Court rejects Trump's request to stop California counting disputed votes](https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss)
+- [Russian bombing kills 29 people at Ukraine aid centre, Kyiv says](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss)
+- [Thousands of European troops to rehearse Ukraine deployment in event of peace](https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss)
+- [A response to Andy Burnham: We need an apology and reparations](https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss)
+- [One dead after two helicopters collide near Mount Everest in Nepal](https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss)
 
 **💻 科技前沿**
-- [顶级AI翻车的活儿，被这个新出的免费国产AI接住了！](https://www.qbitai.com/2026/11/507277.html)
-- [从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信](https://www.qbitai.com/2026/11/507260.html)
-- [OpenAI重写大模型法则，第一条：忠于人类！！](https://www.qbitai.com/2026/11/507225.html)
-- [央视严选「中国AI创业十骏」：唯一AI制药公司是清华系](https://www.qbitai.com/2026/11/507150.html)
+- [AI数据平台OceanBase获世界互联网大会杰出贡献奖](https://www.qbitai.com/2026/11/507405.html)
+- [小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”](https://www.qbitai.com/2026/11/507396.html)
+- [A社紧急修改招股书！RSI我们快要控制不住了](https://www.qbitai.com/2026/11/507382.html)
+- [模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义](https://www.qbitai.com/2026/11/507367.html)
 
 **🤖 Hacker News 热门**
 - [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+- [European RISC-V Industrial Computing Initiative](https://erici.eu)
 - [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
-- [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
-- [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
-- [Egoless Mathematics in the AI Era](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/)
 
