@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-11-04
-> 生成时间: 17:42 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-05
+> 生成时间: 07:42 (北京时间)
 
 **🌍 国际大事**
-- ['This is a disaster': Angry Republicans blame Trump for midterms defeat](https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss)
-- [US midterm results a 'victory' for Canadians hopeful of tariff relief](https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss)
+- [Vance walks Trump tightrope with scathing election critique blaming Iran war](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
+- [What Democrats can and can't do with their new power after taking Congress](https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss)
+- [Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years](https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss)
 - [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
-- ['Most difficult days of my life' for keeper Owono](https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss)
-- [Presidential hopeful Vance appears to question Iran war after polls debacle](https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss)
-- [Palestinian citizens of Israel face intimidation after election success](https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss)
+- [Germany’s Merz expects Trump to keep ignoring Congress](https://www.aljazeera.com/video/newsfeed/2026/11/5/germanys-merz-expects-trump-to-keep-ignoring-congress?traffic_source=rss)
+- [Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens](https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss)
 
 **💻 科技前沿**
-- [百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年](https://www.qbitai.com/2026/11/507647.html)
-- [不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型](https://www.qbitai.com/2026/11/507586.html)
-- [超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场](https://www.qbitai.com/2026/11/507574.html)
-- [虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上](https://www.qbitai.com/2026/11/507567.html)
+- [以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划](https://www.qbitai.com/2026/11/507767.html)
+- [](https://www.qbitai.com/2026/11/507757.html)
+- [基于本体+知识+Harness+Datat Agent的智能体完整落地链路！](https://www.qbitai.com/2026/11/507696.html)
+- [GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了](https://www.qbitai.com/2026/11/507707.html)
 
 **🤖 Hacker News 热门**
-- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
-- [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
-- [Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
-- [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
-- [Evergreen: A Provably Safe Systems Language](https://evergreenlang.net)
+- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+- [Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio](https://www.altera.com/newsroom/agilex-2x)
 
