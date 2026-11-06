@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-11-05
-> 生成时间: 17:49 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-06
+> 生成时间: 07:39 (北京时间)
 
 **🌍 国际大事**
-- [Vance walks Trump tightrope with scathing election critique blaming Iran war](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
-- [France holds new strikes and protests as unions demand immediate answers](https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss)
-- [Paraguay President Santiago Peña resigns after bank collapse](https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss)
-- [Was an Italian chef really fired over refusal to put pineapple on pizza?](https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss)
-- [Jordanian officer killed in stabbing attack in Amman](https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss)
-- [Paraguay President Pena resigns in wake of bank collapse](https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss)
+- [White House denies Hegseth and Rubio to leave jobs after Republican election losses](https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss)
+- [Pope begins lengthy trip to Latin America weeks after lung cancer surgery](https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss)
+- [Trump signs order preventing future presidents from changing Oval Office](https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss)
+- [Major construction ongoing near Iran missile bases, satellite images suggest](https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss)
+- [Indonesia names fourth wiretapping suspect as political intrigue deepens](https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens?traffic_source=rss)
+- [Global tech stocks plunge over fears of AI curbs in US](https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss)
 
 **💻 科技前沿**
-- [百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA](https://www.qbitai.com/2026/11/507787.html)
-- [MIT神作被锤：Astra爆改Qwen权重？就吹吧！](https://www.qbitai.com/2026/11/507782.html)
-- [以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划](https://www.qbitai.com/2026/11/507767.html)
-- [](https://www.qbitai.com/2026/11/507757.html)
+- [DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿](https://www.qbitai.com/2026/11/508155.html)
+- [一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？](https://www.qbitai.com/2026/11/508118.html)
+- [从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！](https://www.qbitai.com/2026/11/508143.html)
+- [99.4%登顶全球第一！这个中国AI师承世界冠军](https://www.qbitai.com/2026/11/508107.html)
 
 **🤖 Hacker News 热门**
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
 - [sshole](https://sshhole.com)
-- [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
-- [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/)
-- [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet)
-- [The Lisp curse, now coming to your ecosystem](https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- [Pwn.college](https://pwn.college/)
+- [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
 
