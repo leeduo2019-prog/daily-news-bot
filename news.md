@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-11-06
-> 生成时间: 17:08 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-07
+> 生成时间: 06:49 (北京时间)
 
 **🌍 国际大事**
 - [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
-- [Trump signs order to preserve Oval Office as national monument](https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss)
+- [Four midterms takeaways for 2028 White House race](https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss)
 - [Two dead after bus crashes in France, officials say](https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss)
-- [Kenyan doomsday cult leader given life sentence for murdering 191 people](https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss)
-- [Paraguay resumes Pena impeachment proceedings as financial crisis deepens](https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss)
-- [Taiwan to close representative office in Papua New Guinea, blames China](https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss)
+- [New wave of bomb threats hit European airlines](https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss)
+- [Carlos Alcaraz saves match points to reach Paris Masters semifinals](https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss)
+- [Governing party leads in New Zealand’s knife-edge vote, early results](https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss)
 
 **💻 科技前沿**
 - [DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿](https://www.qbitai.com/2026/11/508155.html)
@@ -16,9 +16,9 @@
 - [99.4%登顶全球第一！这个中国AI师承世界冠军](https://www.qbitai.com/2026/11/508107.html)
 
 **🤖 Hacker News 热门**
-- [Deus Ex](https://www.filfre.net/2026/11/deus-ex/)
-- [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
-- [FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
-- [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
-- [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
+- [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+- [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+- [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 
