@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-11-07
-> 生成时间: 06:49 (北京时间)
+> 生成时间: 16:03 (北京时间)
 
 **🌍 国际大事**
-- [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
-- [Four midterms takeaways for 2028 White House race](https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss)
-- [Two dead after bus crashes in France, officials say](https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss)
-- [New wave of bomb threats hit European airlines](https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss)
-- [Carlos Alcaraz saves match points to reach Paris Masters semifinals](https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss)
-- [Governing party leads in New Zealand’s knife-edge vote, early results](https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss)
+- [No clear winner after tight New Zealand general election](https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss)
+- [With Stephen Miller pick, Trump readies for a battle](https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss)
+- [Paraguay's president impeached and under house arrest after bank collapse](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss)
+- [Russian strikes wound nine and damage Ukraine's power network ahead of talks](https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss)
+- [Iran’s IRGC says building underground sites for weapons production, storage](https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss)
+- [Trump’s new chief of staff Stephen Miller says he ‘saved America’](https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss)
 
 **💻 科技前沿**
-- [DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿](https://www.qbitai.com/2026/11/508155.html)
-- [一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？](https://www.qbitai.com/2026/11/508118.html)
-- [从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！](https://www.qbitai.com/2026/11/508143.html)
-- [99.4%登顶全球第一！这个中国AI师承世界冠军](https://www.qbitai.com/2026/11/508107.html)
+- [抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？](https://www.qbitai.com/2026/11/508264.html)
+- [AGENTS.MD，危险危险危险！！！](https://www.qbitai.com/2026/11/508244.html)
+- [](https://www.qbitai.com/2026/11/508236.html)
+- [Jeff Dean李飞飞最新对谈：全是RSI非共识](https://www.qbitai.com/2026/11/508196.html)
 
 **🤖 Hacker News 热门**
-- [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
+- [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
 - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-- [A barbarian tribe's mythic origin story is true, ancient DNA reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
-- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
-- [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
+- [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
+- [British Library Legal deposit and web archiving](https://www.bl.uk/services/legal-deposit/web-archiving)
 
