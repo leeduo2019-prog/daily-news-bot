@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-11-09
-> 生成时间: 07:39 (北京时间)
+> 生成时间: 20:22 (北京时间)
 
 **🌍 国际大事**
-- [Krakow shooting suspect has died in hospital, police say](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
-- [Inside the French drug gangs recruiting children to kill](https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss)
-- [Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says](https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss)
-- [Seven dead and more than 100 injured after trains collide in Egypt](https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss)
-- [Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan](https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss)
-- [Who are the seafarers caught in the US-Israeli war on Iran?](https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss)
+- [France accuses Iran of supermarket fridge hacking](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
+- [Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss)
+- [Trump questions midterm elections integrity after previously accepting results](https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss)
+- [Turkey steel factory blast kills at least 16 people](https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss)
+- [Deadly explosion at Iron and steel plant in Turkiye](https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss)
+- [Russell Brand sentenced to 10.5 years over sexual assault charges](https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss)
 
 **💻 科技前沿**
-- [L3大撤退！奔驰宝马官宣不玩了：还没L2好用](https://www.qbitai.com/2026/11/508629.html)
-- [AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了](https://www.qbitai.com/2026/11/508607.html)
-- [基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代](https://www.qbitai.com/2026/11/508603.html)
-- [当AI在加速狂奔，什么反而应该“慢”下来？](https://www.qbitai.com/2026/11/508586.html)
+- [“AI毁了我的计算机学位”](https://www.qbitai.com/2026/11/508706.html)
+- [腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满](https://www.qbitai.com/2026/11/507843.html)
+- [千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了](https://www.qbitai.com/2026/11/508694.html)
+- [叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕](https://www.qbitai.com/2026/11/508690.html)
 
 **🤖 Hacker News 热门**
-- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
-- [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
-- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
-- [Declarative Dragging](https://declarative-dragging.github.io/)
+- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
+- [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
+- [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
 
