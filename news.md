@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-11-10
-> 生成时间: 07:59 (北京时间)
+> 生成时间: 17:27 (北京时间)
 
 **🌍 国际大事**
 - [Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss)
-- [Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say](https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss)
-- [Trump says more US attacks on Iran 'highly unlikely'](https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss)
-- [Epstein associate who still runs model agency 'put me in danger' says abuse survivor](https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss)
-- [Australia tightens AI oversight rules after OpenAI government breach](https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss)
-- [Why adults are buying toys](https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss)
+- [First day of Ukraine peace talks 'very productive', US says](https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss)
+- [Arrests made in Mohamed Al Fayed probe in France, police say](https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss)
+- [Israel's new parliament sworn in as leaders compete to form government](https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss)
+- [Security forces seized top court, Somalia’s ex-chief justice says](https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss)
+- [Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy](https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss)
 
 **💻 科技前沿**
-- [“AI毁了我的计算机学位”](https://www.qbitai.com/2026/11/508706.html)
-- [腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满](https://www.qbitai.com/2026/11/507843.html)
-- [千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了](https://www.qbitai.com/2026/11/508694.html)
-- [叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕](https://www.qbitai.com/2026/11/508690.html)
+- [从芯片到千比特整机，超导量子计算还有一场硬仗](https://www.qbitai.com/2026/11/509017.html)
+- [从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型](https://www.qbitai.com/2026/11/508996.html)
+- [Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架](https://www.qbitai.com/2026/11/508998.html)
+- [成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线](https://www.qbitai.com/2026/11/508991.html)
 
 **🤖 Hacker News 热门**
-- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
-- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
-- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
-- [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+- [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
+- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+- [Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
 
