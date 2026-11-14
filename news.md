@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-11-13
-> 生成时间: 17:28 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-14
+> 生成时间: 07:20 (北京时间)
 
 **🌍 国际大事**
-- [Why is Microsoft's outage lasting so long and will emails be lost?](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
-- [Watch: How a server outage took down Microsoft Teams and Outlook](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
-- [Rosenberg: Uncompromising Putin ups demands for peace with Ukraine](https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss)
-- [Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
-- [Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser](https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss)
-- [Jerusalem Daily: Baby dies from cold in Gaza](https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss)
+- [What we know about the longest ground stop since 9/11](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
+- ['Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
+- [Trump, Putin and Xi plan historic joint meeting in China next week, White House says](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
+- [Microsoft says services fully restored after for day-long global outage](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+- [Southeast Asian leaders to meet as Trump visit highlights trade disruption](https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss)
+- [Ukraine is running out of options, and Russia knows it](https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss)
 
 **💻 科技前沿**
 - [黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿](https://www.qbitai.com/2026/11/509995.html)
@@ -16,9 +16,9 @@
 - [比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订](https://www.qbitai.com/2026/11/509730.html)
 
 **🤖 Hacker News 热门**
-- [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
-- ["LibreOffice works 365 days a year. Just saying."](https://twitter.com/LibreOffice/status/2121205272479998268)
-- [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
-- [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
-- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+- [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
+- [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
+- [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
 
