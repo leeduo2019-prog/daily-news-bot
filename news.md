@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-11-14
-> 生成时间: 16:20 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-15
+> 生成时间: 07:33 (北京时间)
 
 **🌍 国际大事**
-- [What we know about the ground stop and what to do if you're affected](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
 - [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
-- [Trump, Putin and Xi plan historic joint meeting in China next week, White House says](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
-- [Nigeria cautions against travel via Ethiopia's main airport due to altitude](https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss)
-- [EU calls for immediate humanitarian access to Gaza](https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss)
-- [Jerusalem Daily: Israeli forces occupy Palestinian-American’s home](https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss)
+- [Copper wire upgrade behind US flight suspension, transport secretary says](https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss)
+- [Pope Leo speaks of community 'suffering' on visit to remote Andes town](https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss)
+- [Judge temporarily blocks Trump from closing Washington DC golf course for renovation](https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss)
+- [Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off](https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss)
+- [ASEAN summit: Who’s attending and what’s at stake?](https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss)
 
 **💻 科技前沿**
 - [英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！](https://www.qbitai.com/2026/11/510297.html)
@@ -16,9 +16,9 @@
 - [绿电进Token出！联想重新定义词元工厂](https://www.qbitai.com/2026/11/510094.html)
 
 **🤖 Hacker News 热门**
-- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
-- [KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
-- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
-- [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
-- [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
+- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+- [Memory Safety Bugs in Rust Standard Library](https://forge-blog.github.io/posts/rust-std-memory-safety/)
+- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
+- [A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)
+- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
 
