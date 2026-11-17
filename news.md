@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-11-16
-> 生成时间: 19:58 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-17
+> 生成时间: 08:48 (北京时间)
 
 **🌍 国际大事**
-- [Five EU countries announce migrant deportation centre in Rwanda](https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss)
-- [Yemeni forces retreat to defend port city from Houthis](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss)
-- [Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
-- [Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war](https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss)
-- [Five EU countries announce plan to send rejected asylum seekers to Rwanda](https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss)
-- [Saudi Arabia dismisses commander of coalition forces fighting Houthis](https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss)
+- [Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
+- [Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72](https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss)
+- [Imran Khan seeks urgent medical care fearing he 'may not return alive'](https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss)
+- [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+- [Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries](https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss)
+- [Vance calls out ‘neoconservatives’ over Iran war](https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss)
 
 **💻 科技前沿**
 - [睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准](https://www.qbitai.com/2026/11/510542.html)
@@ -16,9 +16,9 @@
 - [SuperLink2026开启创投行业超级链接时刻，12月北京见](https://www.qbitai.com/2026/11/510493.html)
 
 **🤖 Hacker News 热门**
-- [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
-- [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
-- [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
-- [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)
-- [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+- [Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)
+- [BugMeNot has closed](https://www.bugmenot.com/)
+- [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- [Nimony: A New Compiler for Nim](https://nimony.org/)
 
