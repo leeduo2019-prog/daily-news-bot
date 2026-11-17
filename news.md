@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-11-17
-> 生成时间: 08:48 (北京时间)
+> 生成时间: 18:55 (北京时间)
 
 **🌍 国际大事**
-- [Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
-- [Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72](https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss)
-- [Imran Khan seeks urgent medical care fearing he 'may not return alive'](https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss)
-- [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
-- [Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries](https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss)
-- [Vance calls out ‘neoconservatives’ over Iran war](https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss)
+- [Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)
+- [How the attack on Crimean Bridge unfolded](https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss)
+- [Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him](https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss)
+- [Trump lands in Asia ahead of talks with Russian and Chinese presidents](https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss)
+- [Jensen Huang agrees to testify before US House, says can resume CEO role](https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss)
+- [Israeli forces invade Syrian village leaving homes damaged](https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss)
 
 **💻 科技前沿**
-- [睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准](https://www.qbitai.com/2026/11/510542.html)
-- [2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力](https://www.qbitai.com/2026/11/510526.html)
-- [没搞过一天研发的他，50岁以华为董事的身份退休了](https://www.qbitai.com/2026/11/510496.html)
-- [SuperLink2026开启创投行业超级链接时刻，12月北京见](https://www.qbitai.com/2026/11/510493.html)
+- [并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎](https://www.qbitai.com/2026/11/510695.html)
+- [李沐加盟的Aimotion，是一家什么AI公司？](https://www.qbitai.com/2026/11/510688.html)
+- [材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率](https://www.qbitai.com/2026/11/510652.html)
+- [真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！](https://www.qbitai.com/2026/11/510610.html)
 
 **🤖 Hacker News 热门**
-- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-- [Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)
-- [BugMeNot has closed](https://www.bugmenot.com/)
-- [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
-- [Nimony: A New Compiler for Nim](https://nimony.org/)
+- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+- [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+- [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
+- [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
+- [Apple Services Down](https://downdetector.com/status/apple-support/)
 
