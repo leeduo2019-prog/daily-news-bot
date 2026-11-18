@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-11-18
-> 生成时间: 08:12 (北京时间)
+> 生成时间: 18:36 (北京时间)
 
 **🌍 国际大事**
-- [As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal](https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss)
-- [Nvidia says it won't reinstate Huang as it reports soaring sales](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss)
-- [Rubio says US not 'under systemic attack' after series of tech outages](https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss)
-- [Democrats win Alaska Senate race two weeks after midterms counting began](https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss)
-- [Photos: India defeat Pakistan to win SAFF Championship in Bangladesh](https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss)
-- [Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit](https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss)
+- [Inside the old gas pipeline where Ukraine is fighting an underground war with Russia](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
+- ['The drones don't fly here' - BBC reports from Ukraine's new front line](https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss)
+- [Trump shakes hands with Putin and Xi ahead of historic talks in China](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
+- [William and Kate reflect on 'enduring' UK-India ties with Modi](https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss)
+- [Israeli forces launch new military operation in central Gaza](https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss)
+- [Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit](https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss)
 
 **💻 科技前沿**
+- [Gemini新模型Neon箭在弦上，网友：遍历元素周期表？](https://www.qbitai.com/2026/11/510922.html)
+- [GPT-6.2难产！OpenAI怕了](https://www.qbitai.com/2026/11/510914.html)
+- [全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线](https://www.qbitai.com/2026/11/510916.html)
 - [思维链一作Jason Wei离职！怎么去Meta待一年都跑路](https://www.qbitai.com/2026/11/510811.html)
-- [英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿](https://www.qbitai.com/2026/11/510821.html)
-- [潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？](https://www.qbitai.com/2026/11/510737.html)
-- [黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑](https://www.qbitai.com/2026/11/510726.html)
 
 **🤖 Hacker News 热门**
-- [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai)
-- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
-- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
-- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+- [Inside Deutsche Bank](https://www.inside-db.com/)
+- [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
+- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 
