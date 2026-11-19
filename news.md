@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-11-19
-> 生成时间: 08:24 (北京时间)
+> 生成时间: 18:49 (北京时间)
 
 **🌍 国际大事**
-- [This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls](https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss)
-- [Inside the old gas pipeline where Ukraine is fighting an underground war with Russia](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
-- [Myanmar faces historic genocide verdict at UN court over Rohingya massacres](https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss)
-- [AI giant Anthropic valued at $1.5 trillion ahead of stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
-- [Why is Pete Hegseth strengthening US military ties with Venezuela?](https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss)
-- [Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims](https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss)
+- [Myanmar committed genocide against Rohingya minority, top UN court rules](https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss)
+- [Trump, Putin and Xi release 'peace declaration' after historic meeting](https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss)
+- [Dozens missing after boat carrying migrants sinks off Senegal's coast](https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss)
+- [Venezuela signs military deal with US less than a year after Maduro's removal](https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss)
+- [Iraq reaches compromise with Kataib Hezbollah over armed group stronghold](https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss)
+- [Trump-Xi-Putin summit: Five things you need to know](https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss)
 
 **💻 科技前沿**
+- [影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！](https://www.qbitai.com/2026/11/511258.html)
+- [GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了](https://www.qbitai.com/2026/11/511180.html)
+- [SenseNova U1 Pro获Design Arena双榜中国第一、全球第六](https://www.qbitai.com/2026/11/511179.html)
 - [好清晰！最新国产AI画的8K图，放这么大大大大也不糊！](https://www.qbitai.com/2026/11/511092.html)
-- [AI基建大潮方兴未艾，联想集团最佳财季诞生！](https://www.qbitai.com/2026/11/511088.html)
-- [安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计](https://www.qbitai.com/2026/11/511079.html)
-- [范式下场做基模了！国产算力全链路训练，双模型同步亮相](https://www.qbitai.com/2026/11/511071.html)
 
 **🤖 Hacker News 热门**
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
-- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
-- [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
-- [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
-- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
+- [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [Claude Fable 5.2 solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
+- [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
+- [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
+- [Chile: UFO Sightings by 18th Century Jesuits](https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html)
 
