@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-11-18
-> 生成时间: 18:36 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-19
+> 生成时间: 08:24 (北京时间)
 
 **🌍 国际大事**
+- [This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls](https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss)
 - [Inside the old gas pipeline where Ukraine is fighting an underground war with Russia](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
-- ['The drones don't fly here' - BBC reports from Ukraine's new front line](https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss)
-- [Trump shakes hands with Putin and Xi ahead of historic talks in China](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
-- [William and Kate reflect on 'enduring' UK-India ties with Modi](https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss)
-- [Israeli forces launch new military operation in central Gaza](https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss)
-- [Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit](https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss)
+- [Myanmar faces historic genocide verdict at UN court over Rohingya massacres](https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss)
+- [AI giant Anthropic valued at $1.5 trillion ahead of stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
+- [Why is Pete Hegseth strengthening US military ties with Venezuela?](https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss)
+- [Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims](https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss)
 
 **💻 科技前沿**
-- [Gemini新模型Neon箭在弦上，网友：遍历元素周期表？](https://www.qbitai.com/2026/11/510922.html)
-- [GPT-6.2难产！OpenAI怕了](https://www.qbitai.com/2026/11/510914.html)
-- [全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线](https://www.qbitai.com/2026/11/510916.html)
-- [思维链一作Jason Wei离职！怎么去Meta待一年都跑路](https://www.qbitai.com/2026/11/510811.html)
+- [好清晰！最新国产AI画的8K图，放这么大大大大也不糊！](https://www.qbitai.com/2026/11/511092.html)
+- [AI基建大潮方兴未艾，联想集团最佳财季诞生！](https://www.qbitai.com/2026/11/511088.html)
+- [安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计](https://www.qbitai.com/2026/11/511079.html)
+- [范式下场做基模了！国产算力全链路训练，双模型同步亮相](https://www.qbitai.com/2026/11/511071.html)
 
 **🤖 Hacker News 热门**
-- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
-- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
-- [Inside Deutsche Bank](https://www.inside-db.com/)
-- [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
-- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/)
+- [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/)
+- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
 
