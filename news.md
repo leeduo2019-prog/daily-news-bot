@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-11-19
-> 生成时间: 18:49 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-20
+> 生成时间: 08:04 (北京时间)
 
 **🌍 国际大事**
+- [UK and EU to agree youth mobility scheme, BBC understands](https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss)
+- [Anthropic becomes one of world's most valuable public companies in stock market debut](https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss)
+- ['I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis](https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss)
 - [Myanmar committed genocide against Rohingya minority, top UN court rules](https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss)
-- [Trump, Putin and Xi release 'peace declaration' after historic meeting](https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss)
-- [Dozens missing after boat carrying migrants sinks off Senegal's coast](https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss)
-- [Venezuela signs military deal with US less than a year after Maduro's removal](https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss)
-- [Iraq reaches compromise with Kataib Hezbollah over armed group stronghold](https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss)
-- [Trump-Xi-Putin summit: Five things you need to know](https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss)
+- [Lionel Messi of Inter Miami tops Major League Soccer salaries](https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss)
+- [The Gambia stood up for the Rohingya, now the world must act](https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss)
 
 **💻 科技前沿**
+- [新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景](https://www.qbitai.com/2026/11/511603.html)
+- [双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！](https://www.qbitai.com/2026/11/511582.html)
+- [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html)
 - [影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！](https://www.qbitai.com/2026/11/511258.html)
-- [GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了](https://www.qbitai.com/2026/11/511180.html)
-- [SenseNova U1 Pro获Design Arena双榜中国第一、全球第六](https://www.qbitai.com/2026/11/511179.html)
-- [好清晰！最新国产AI画的8K图，放这么大大大大也不糊！](https://www.qbitai.com/2026/11/511092.html)
 
 **🤖 Hacker News 热门**
-- [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
-- [Claude Fable 5.2 solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
-- [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
-- [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
-- [Chile: UFO Sightings by 18th Century Jesuits](https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html)
+- [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
+- ["I can tell you wrote this yourself"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
+- [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
+- [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
+- [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
 
