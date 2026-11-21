@@ -1,13 +1,13 @@
-### 📰 每日新闻聚合 - 2026-11-20
-> 生成时间: 18:15 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-21
+> 生成时间: 07:59 (北京时间)
 
 **🌍 国际大事**
-- [Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss)
-- [Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge](https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss)
-- [Anthropic shares fall after blockbuster opening as wider tech sell-off continues](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
-- [Nearly 600 women killed in South Africa within three months](https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss)
-- [Mamdani unveils plan to close New York’s Rikers Island by 2032](https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss)
-- [US tech sell-off continues as Anthropic tumbles after mega IPO](https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss)
+- [Tech stock sell-off drags markets down as Anthropic shares slide](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
+- [Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
+- [Deal with EU not dependent on tuition fees agreement, Miliband says](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
+- [Fight over fossil fuels leaves COP31 climate talks in deadlock](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
+- [Can mediation succeed in a war-torn world? | Episode 1](https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss)
+- [At least four killed, 35 injured in fire at power station in Iraq’s Basra](https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss)
 
 **💻 科技前沿**
 - [昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来](https://www.qbitai.com/2026/11/511610.html)
@@ -16,9 +16,9 @@
 - [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html)
 
 **🤖 Hacker News 热门**
-- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
-- [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
-- [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-- [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/)
-- [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+- [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
+- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 
