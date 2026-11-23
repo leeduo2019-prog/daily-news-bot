@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-11-23
-> 生成时间: 08:34 (北京时间)
+> 生成时间: 21:52 (北京时间)
 
 **🌍 国际大事**
-- [Longest-ever UN climate talks end with no deal as deep divisions exposed](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss)
-- [What's next after no deal at COP31 climate talks?](https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss)
-- [Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say](https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss)
-- [San Francisco is enjoying an AI boom, but worries about a crash are growing](https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss)
-- [Europe’s hot autumn of protests is a symptom of economic breakdown](https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss)
-- [Taliban deploys police to protect Afghanistan’s vanishing forests](https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss)
+- [Russian warship hit by Ukrainian drones in Libya, Zelensky says](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
+- [What strike on Russian ship in Libya says about spread of Ukraine war](https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss)
+- [Iranian authorities flog singer who performed without hijab, lawyers say](https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss)
+- ['I want to destroy capitalism, not France': On the streets with the French ultra left](https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss)
+- [US escalates sanctions on Iran, targets ‘shadow banking’ networks](https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss)
+- [Israel’s southern Syria incursion triggers fear and destruction](https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss)
 
 **💻 科技前沿**
-- [Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖](https://www.qbitai.com/2026/11/511904.html)
-- [A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿](https://www.qbitai.com/2026/11/511870.html)
-- [AI给乐队现场搓MV，这是黑客松还是音乐节啊](https://www.qbitai.com/2026/11/511855.html)
-- [中国计算，走出新的登峰之路](https://www.qbitai.com/2026/11/511849.html)
+- [实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了](https://www.qbitai.com/2026/11/512195.html)
+- [XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”](https://www.qbitai.com/2026/11/512179.html)
+- [蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了](https://www.qbitai.com/2026/11/512017.html)
+- [“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了](https://www.qbitai.com/2026/11/512004.html)
 
 **🤖 Hacker News 热门**
-- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
-- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
-- [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
-- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
-- [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
+- [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/)
+- [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
+- [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4)
 
