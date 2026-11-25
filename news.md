@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-11-24
-> 生成时间: 20:28 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-25
+> 生成时间: 09:33 (北京时间)
 
 **🌍 国际大事**
+- [Russia's own figures show it has lost almost 500,000 people in Ukraine war](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
 - [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
-- [Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight](https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss)
-- [Land mine casualties soar in Syria, two years after war](https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss)
-- [French ex-President Sarkozy and wife Carla Bruni to face trial](https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss)
-- [Turkish military helicopter crash kills five in western Turkiye](https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss)
-- [Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants](https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss)
+- [Huawei found guilty of stealing US trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+- [Four years after huge asteroid crash, a spacecraft has now returned to assess the damage](https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss)
+- [Sporting Lisbon vs Manchester United: Champions League – teams, prediction](https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss)
+- [Rising prices push families to the brink in Yemen’s Hodeidah](https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss)
 
 **💻 科技前沿**
-- [Google Cloud 出海峰会报名开启](https://www.qbitai.com/2026/11/512370.html)
-- [业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型](https://www.qbitai.com/2026/11/512362.html)
-- [文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议](https://www.qbitai.com/2026/11/512354.html)
-- [八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车](https://www.qbitai.com/2026/11/512348.html)
+- [Anthropic还藏着2个最强模型…](https://www.qbitai.com/2026/11/512538.html)
+- [完整议程！第二十一届中国IDC产业年度大典（IDCC2026）](https://www.qbitai.com/2026/11/512532.html)
+- [A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆](https://www.qbitai.com/2026/11/512515.html)
+- [华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI](https://www.qbitai.com/2026/11/512498.html)
 
 **🤖 Hacker News 热门**
-- [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
-- [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
-- [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
-- [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
-- [Mechanical Pencil: Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
+- [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
+- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+- [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
+- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
+- [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
 
