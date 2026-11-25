@@ -1,24 +1,24 @@
 ### 📰 每日新闻聚合 - 2026-11-25
-> 生成时间: 09:33 (北京时间)
+> 生成时间: 19:43 (北京时间)
 
 **🌍 国际大事**
-- [Russia's own figures show it has lost almost 500,000 people in Ukraine war](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
-- [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
-- [Huawei found guilty of stealing US trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
-- [Four years after huge asteroid crash, a spacecraft has now returned to assess the damage](https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss)
-- [Sporting Lisbon vs Manchester United: Champions League – teams, prediction](https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss)
-- [Rising prices push families to the brink in Yemen’s Hodeidah](https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss)
+- [US announces new tariffs on host of countries including China](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss)
+- [Russia's own figures show it has lost nearly 500,000 people in Ukraine war](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
+- [My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated](https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss)
+- [US stocks fall further as fears over AI intensify](https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss)
+- [Ukrainian laser downs Russian jet-powered drone in world first](https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss)
+- [Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?](https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss)
 
 **💻 科技前沿**
-- [Anthropic还藏着2个最强模型…](https://www.qbitai.com/2026/11/512538.html)
-- [完整议程！第二十一届中国IDC产业年度大典（IDCC2026）](https://www.qbitai.com/2026/11/512532.html)
-- [A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆](https://www.qbitai.com/2026/11/512515.html)
-- [华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI](https://www.qbitai.com/2026/11/512498.html)
+- [我以为这是摄影作品，你告诉我这是最新的国产AI？！](https://www.qbitai.com/2026/11/512748.html)
+- [丢个故事就行！直出15分钟AI短片，家里二舅也能上手](https://www.qbitai.com/2026/11/512727.html)
+- [零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体](https://www.qbitai.com/2026/11/512715.html)
+- [算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划](https://www.qbitai.com/2026/11/512582.html)
 
 **🤖 Hacker News 热门**
-- [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
-- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-- [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
-- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
-- [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
+- [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
+- [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
+- [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
 
