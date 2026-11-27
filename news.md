@@ -1,24 +1,24 @@
-### 📰 每日新闻聚合 - 2026-11-26
-> 生成时间: 19:23 (北京时间)
+### 📰 每日新闻聚合 - 2026-11-27
+> 生成时间: 09:26 (北京时间)
 
 **🌍 国际大事**
-- [German boat dealer suspected of supplying Channel smuggling gangs, BBC finds](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)
-- [Watch: BBC confronts German man suspected of supplying migrant gangs with small boats](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
-- [Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one](https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss)
-- [Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules](https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss)
-- [Kushner explains the ‘good thing’ about Gaza’s destruction](https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss)
-- [Trump calls GDP data released before midterms ‘fake’, demands investigation](https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss)
+- [Zelensky criticises 'strange' Trump-Putin friendship in BBC interview](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
+- [Major Thanksgiving storm brings flooding, flight delays across US](https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss)
+- [Watch: Roofs torn off and streets under water as severe weather hits US](https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss)
+- [New Zealand's ruling coalition falls short of parliamentary majority by one seat](https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss)
+- [South Korea sends rescued fishermen back to North](https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss)
+- [India upbeat about first Olympics after ‘very good’ 2036 presentation](https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss)
 
 **💻 科技前沿**
-- [381个AI直播冲刺证明P=NP！把GitHub干崩了](https://www.qbitai.com/2026/11/513021.html)
-- [AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用](https://www.qbitai.com/2026/11/512981.html)
-- [90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守](https://www.qbitai.com/2026/11/512972.html)
-- [极客公园创新大会 2027 全议程公布！](https://www.qbitai.com/2026/11/512952.html)
+- [韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名](https://www.qbitai.com/2026/11/513320.html)
+- [DeepSeek APP突然更新账单，网友：要收费了？](https://www.qbitai.com/2026/11/513305.html)
+- [刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑](https://www.qbitai.com/2026/11/513227.html)
+- [钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间](https://www.qbitai.com/2026/11/513194.html)
 
 **🤖 Hacker News 热门**
-- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
-- [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
-- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning](https://github.com/deepseek-ai/deepseek-math)
-- [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
-- [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
+- [The group chat where your AI talks behind your back](https://construct22.com/)
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+- [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 
